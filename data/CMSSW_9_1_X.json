@@ -1762,7 +1762,7 @@
                 }
             ], 
             "compared_tags": "CMSSW_9_1_X_2017-06-24-1100-->CMSSW_9_1_X_2017-06-25-0000", 
-            "valgrind": "inprogress", 
+            "valgrind": "found", 
             "material_budget": "inprogress", 
             "dqm_tests": "found", 
             "relvals": [
@@ -1772,7 +1772,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.1-sun-00/CMSSW_9_1_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1220, 
+                        "num_passed": 1285, 
                         "known_failed": 0, 
                         "num_failed": 111
                     }
@@ -1783,9 +1783,9 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.1-sun-00/CMSSW_9_1_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 694, 
+                        "num_passed": 792, 
                         "known_failed": 0, 
-                        "num_failed": 58
+                        "num_failed": 60
                     }
                 }
             ], 
