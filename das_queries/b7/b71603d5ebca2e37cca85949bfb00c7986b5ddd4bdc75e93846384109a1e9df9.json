@@ -1,16 +1,16 @@
 {
   "apilist": [
     "das_core",
-    "files_via_dataset",
-    "fileReplicas4dataset"
+    "fileReplicas4dataset",
+    "files_via_dataset"
   ],
-  "ctime": 0.0539739131927,
+  "ctime": 0.064597129821800006,
   "data": [
     {
-      "_id": "594b715bf4e31379d53faf74",
+      "_id": "59500afdf4e3130af191af87",
       "cache_id": [
-        "594b715bf4e31379d53faf65",
-        "594b715bf4e31379d53faf57"
+        "59500afdf4e3130af191af78",
+        "59500afdf4e3130af191af6a"
       ],
       "das": {
         "api": [
@@ -20,7 +20,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498116743,
+        "expire": 1498418217,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -40,11 +40,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1498116443.409153
+        "ts": 1498417917.7803371
       },
       "das_id": [
-        "594b715af4e31379d53faf45",
-        "594b715af4e31379d53faf48"
+        "59500afdf4e3130af191af5b",
+        "59500afdf4e3130af191af58"
       ],
       "file": [
         {
@@ -57,10 +57,10 @@
       "qhash": "eb3202e59312367814cdfd1a6cedc987"
     },
     {
-      "_id": "594b715bf4e31379d53faf73",
+      "_id": "59500afdf4e3130af191af86",
       "cache_id": [
-        "594b715bf4e31379d53faf66",
-        "594b715bf4e31379d53faf58"
+        "59500afdf4e3130af191af79",
+        "59500afdf4e3130af191af6b"
       ],
       "das": {
         "api": [
@@ -70,7 +70,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498116743,
+        "expire": 1498418217,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -90,11 +90,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1498116443.409153
+        "ts": 1498417917.7803371
       },
       "das_id": [
-        "594b715af4e31379d53faf45",
-        "594b715af4e31379d53faf48"
+        "59500afdf4e3130af191af5b",
+        "59500afdf4e3130af191af58"
       ],
       "file": [
         {
@@ -127,5 +127,5 @@
   },
   "nresults": 2,
   "status": "ok",
-  "timestamp": 1498116443.95
+  "timestamp": 1498417918.22
 }
