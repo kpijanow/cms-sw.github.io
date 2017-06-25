@@ -2166,14 +2166,7 @@
             "hlt_tests": "inprogress"
         }, 
         {
-            "fwlite": [
-                {
-                    "arch": "slc6_amd64_gcc530", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/new_FWLITE/logAnalysis.pkl", 
-                    "details": {}
-                }
-            ], 
+            "fwlite": [], 
             "cmsdistTags": {
                 "slc7_aarch64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_aarch64_gcc530", 
                 "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_amd64_gcc630", 
@@ -2181,61 +2174,22 @@
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_amd64_gcc530"
             }, 
-            "addons": [
-                {
-                    "arch": "slc6_amd64_gcc530", 
-                    "passed": true, 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/addOnTests.log", 
-                    "details": {}
-                }
-            ], 
+            "addons": [], 
             "comp_baseline_state": "ok", 
-            "builds": [
-                {
-                    "arch": "slc6_amd64_gcc530", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/new/logAnalysis.pkl", 
-                    "details": {
-                        "ignoreWarning": 26
-                    }
-                }
-            ], 
+            "builds": [], 
             "compared_tags": "CMSSW_9_2_3_patch1-->CMSSW_9_2_X_2017-06-18-0000", 
             "valgrind": "found", 
             "material_budget": "slc6_amd64_gcc530:8", 
             "dqm_tests": "found", 
-            "relvals": [
-                {
-                    "done": false, 
-                    "arch": "slc6_amd64_gcc530", 
-                    "passed": false, 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
-                    "details": {
-                        "num_passed": 1325, 
-                        "known_failed": 0, 
-                        "num_failed": 35
-                    }
-                }
-            ], 
+            "relvals": [], 
             "static_checks": "slc6_amd64_gcc530:reports/modules2statics-filter1.txt\n", 
-            "utests": [
-                {
-                    "arch": "slc6_amd64_gcc530", 
-                    "passed": "failed", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/unitTests-summary.log", 
-                    "details": {
-                        "num_fails": "1"
-                    }
-                }
-            ], 
+            "utests": [], 
             "igprof": "found", 
             "isIB": true, 
             "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
             "inProgress": false, 
             "release_name": "CMSSW_9_2_X_2017-06-18-0000", 
-            "tests_archs": [
-                "slc6_amd64_gcc530"
-            ], 
+            "tests_archs": [], 
             "RVExceptions": null, 
             "merged_prs": [
                 {
@@ -2728,7 +2682,7 @@
                 }
             ], 
             "cmsdistTags": {
-                "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530"
+                "slc6_amd64_gcc530": "Not Found"
             }, 
             "addons": [
                 {
@@ -2800,7 +2754,7 @@
                 "slc7_aarch64_gcc530": "Not Found", 
                 "slc7_amd64_gcc630": "Not Found", 
                 "slc6_amd64_gcc630": "Not Found", 
-                "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc530": "Not Found", 
                 "slc7_amd64_gcc530": "Not Found"
             }, 
             "addons": [
@@ -3005,7 +2959,7 @@
                 "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-19-1100/slc7_amd64_gcc630", 
                 "slc7_aarch64_gcc530": "Not Found", 
                 "slc6_amd64_gcc630": "Not Found", 
-                "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc530": "Not Found", 
                 "slc7_amd64_gcc530": "Not Found"
             }, 
             "addons": [
@@ -6262,7 +6216,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1320, 
+                        "num_passed": 1488, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -6394,7 +6348,14 @@
             "hlt_tests": "found"
         }, 
         {
-            "fwlite": [], 
+            "fwlite": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-11/CMSSW_9_2_X_2017-06-25-1100/new_FWLITE/logAnalysis.pkl", 
+                    "details": {}
+                }
+            ], 
             "cmsdistTags": {
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530"
             }, 
@@ -6454,7 +6415,17 @@
             "release_name": "CMSSW_9_2_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
+                    "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19412", 
+                    "number": "19412", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cerminar"
+                }
+            ], 
             "hlt_tests": "inprogress"
         }
     ]
