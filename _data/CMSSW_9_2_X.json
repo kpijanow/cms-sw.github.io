@@ -6212,6 +6212,12 @@
                     "details": {}
                 }, 
                 {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
                     "arch": "slc7_amd64_gcc630", 
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/addOnTests.log", 
@@ -6268,7 +6274,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 723, 
+                        "num_passed": 813, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -6279,7 +6285,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1172, 
+                        "num_passed": 1309, 
                         "known_failed": 11, 
                         "num_failed": 0
                     }
@@ -6290,8 +6296,8 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1332, 
-                        "known_failed": 9, 
+                        "num_passed": 1444, 
+                        "known_failed": 10, 
                         "num_failed": 0
                     }
                 }
