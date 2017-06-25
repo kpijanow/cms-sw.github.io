@@ -393,6 +393,34 @@
     },
     {
         "exitcode": 0,
+        "id": "4.42",
+        "known_error": 0,
+        "name": "RunMET2012A+RunMET2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 279
+            },
+            {
+                "errors": 28,
+                "status": "PASSED",
+                "warnings": 9429
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.43",
         "known_error": 0,
         "name": "RunMu2012A+RunMu2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
@@ -854,6 +882,34 @@
                 "errors": 29,
                 "status": "PASSED",
                 "warnings": 5218
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.72",
+        "known_error": 0,
+        "name": "RunMu2012D+RunMu2012D+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 224
+            },
+            {
+                "errors": 28,
+                "status": "PASSED",
+                "warnings": 6932
             },
             {
                 "errors": 5,
@@ -3133,6 +3189,34 @@
                 "errors": 228,
                 "status": "PASSED",
                 "warnings": 6198
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.702",
+        "known_error": 0,
+        "name": "RunDoubleEG2015B+RunDoubleEG2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 224
+            },
+            {
+                "errors": 228,
+                "status": "PASSED",
+                "warnings": 6385
             },
             {
                 "errors": 1,
