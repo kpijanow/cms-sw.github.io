@@ -1868,7 +1868,14 @@
         }, 
         {
             "fwlite": [], 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc472", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc472/www/sun/5.3-sun-00/CMSSW_5_3_X_2017-06-25-0000/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
             "builds": [
                 {
@@ -1883,7 +1890,7 @@
             ], 
             "valgrind": "not-found", 
             "compared_tags": "CMSSW_5_3_X_2017-06-18-0000-->CMSSW_5_3_X_2017-06-25-0000", 
-            "dqm_tests": "inprogress", 
+            "dqm_tests": "found", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc472", 
@@ -1922,7 +1929,7 @@
             "release_name": "CMSSW_5_3_X_2017-06-25-0000", 
             "RVExceptions": null, 
             "merged_prs": [], 
-            "hlt_tests": "inprogress"
+            "hlt_tests": "found"
         }, 
         {
             "fwlite": [], 
