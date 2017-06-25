@@ -4,47 +4,47 @@
     "fileReplicas4dataset",
     "files_via_dataset"
   ],
-  "ctime": 0.047140121459999997,
+  "ctime": 0.0514271259308,
   "data": [
     {
-      "_id": "594acad14bf01c21961c35d8",
+      "_id": "594f66b8f4e3130af1670e9a",
       "cache_id": [
-        "594acad14bf01c21961c35c9",
-        "594acad14bf01c21961c35c5"
+        "594f66b8f4e3130af1670e81",
+        "594f66b8f4e3130af1670e8d"
       ],
       "das": {
         "api": [
-          "files_via_dataset",
-          "fileReplicas4dataset"
+          "fileReplicas4dataset",
+          "files_via_dataset"
         ],
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498074109,
+        "expire": 1498376164,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
           {
-            "dbs3": [
-              "dbs3"
+            "phedex": [
+              "phedex"
             ]
           },
           {
-            "phedex": [
-              "phedex"
+            "dbs3": [
+              "dbs3"
             ]
           }
         ],
         "system": [
-          "dbs3",
-          "phedex"
+          "phedex",
+          "dbs3"
         ],
-        "ts": 1498073809.5765491
+        "ts": 1498375864.737296
       },
       "das_id": [
-        "594acad14bf01c21961c35ab",
-        "594acad14bf01c21961c35ae"
+        "594f66b8f4e3130af1670e71",
+        "594f66b8f4e3130af1670e6e"
       ],
       "file": [
         {
@@ -77,5 +77,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1498073810.1099999
+  "timestamp": 1498375865.22
 }

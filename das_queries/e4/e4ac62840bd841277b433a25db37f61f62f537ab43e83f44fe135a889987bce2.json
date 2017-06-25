@@ -1,14 +1,14 @@
 {
   "apilist": [
-    "das_core",
-    "fileReplicas4dataset"
+    "fileReplicas4dataset",
+    "das_core"
   ],
-  "ctime": 2.52755498886,
+  "ctime": 0.04390001297,
   "data": [
     {
-      "_id": "594acc624bf01c21961dbde0",
+      "_id": "594f6895f4e3130af167309d",
       "cache_id": [
-        "594acc614bf01c21961db955"
+        "594f6895f4e3130af1673090"
       ],
       "das": {
         "api": [
@@ -18,7 +18,7 @@
           "dataset.name",
           "site.name"
         ],
-        "expire": 1498074507,
+        "expire": 1498376641,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -32,10 +32,10 @@
         "system": [
           "phedex"
         ],
-        "ts": 1498074210.200201
+        "ts": 1498376341.585142
       },
       "das_id": [
-        "594acc5c4bf01c21961db409"
+        "594f6895f4e3130af1673083"
       ],
       "file": [
         {
@@ -66,5 +66,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1498074211.25
+  "timestamp": 1498376342.08
 }

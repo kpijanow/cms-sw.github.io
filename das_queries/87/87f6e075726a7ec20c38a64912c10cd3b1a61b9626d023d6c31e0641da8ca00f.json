@@ -1,50 +1,50 @@
 {
   "apilist": [
-    "fileReplicas4dataset",
     "das_core",
-    "files_via_dataset"
+    "files_via_dataset",
+    "fileReplicas4dataset"
   ],
-  "ctime": 0.0544681549072,
+  "ctime": 0.0472810268402,
   "data": [
     {
-      "_id": "594b6f40f4e31379d53f8c88",
+      "_id": "594f6a3bf4e3130af16744a1",
       "cache_id": [
-        "594b6f40f4e31379d53f8c78",
-        "594b6f40f4e31379d53f8c6f"
+        "594f6a3bf4e3130af1674483",
+        "594f6a3bf4e3130af1674491"
       ],
       "das": {
         "api": [
-          "fileReplicas4dataset",
-          "files_via_dataset"
+          "files_via_dataset",
+          "fileReplicas4dataset"
         ],
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498116204,
+        "expire": 1498377063,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
           {
-            "phedex": [
-              "phedex"
+            "dbs3": [
+              "dbs3"
             ]
           },
           {
-            "dbs3": [
-              "dbs3"
+            "phedex": [
+              "phedex"
             ]
           }
         ],
         "system": [
-          "phedex",
-          "dbs3"
+          "dbs3",
+          "phedex"
         ],
-        "ts": 1498115904.9145491
+        "ts": 1498376763.807242
       },
       "das_id": [
-        "594b6f40f4e31379d53f8c45",
-        "594b6f40f4e31379d53f8c48"
+        "594f6a3bf4e3130af167446f",
+        "594f6a3bf4e3130af1674472"
       ],
       "file": [
         {
@@ -57,44 +57,44 @@
       "qhash": "0134ed21eedb96f5fecb12de1124690a"
     },
     {
-      "_id": "594b6f40f4e31379d53f8c87",
+      "_id": "594f6a3bf4e3130af16744a0",
       "cache_id": [
-        "594b6f40f4e31379d53f8c6e",
-        "594b6f40f4e31379d53f8c76"
+        "594f6a3bf4e3130af1674481",
+        "594f6a3bf4e3130af1674490"
       ],
       "das": {
         "api": [
-          "fileReplicas4dataset",
-          "files_via_dataset"
+          "files_via_dataset",
+          "fileReplicas4dataset"
         ],
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498116204,
+        "expire": 1498377063,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
           {
-            "phedex": [
-              "phedex"
+            "dbs3": [
+              "dbs3"
             ]
           },
           {
-            "dbs3": [
-              "dbs3"
+            "phedex": [
+              "phedex"
             ]
           }
         ],
         "system": [
-          "phedex",
-          "dbs3"
+          "dbs3",
+          "phedex"
         ],
-        "ts": 1498115904.9145491
+        "ts": 1498376763.807242
       },
       "das_id": [
-        "594b6f40f4e31379d53f8c45",
-        "594b6f40f4e31379d53f8c48"
+        "594f6a3bf4e3130af167446f",
+        "594f6a3bf4e3130af1674472"
       ],
       "file": [
         {
@@ -107,44 +107,44 @@
       "qhash": "0134ed21eedb96f5fecb12de1124690a"
     },
     {
-      "_id": "594b6f40f4e31379d53f8c86",
+      "_id": "594f6a3bf4e3130af167449f",
       "cache_id": [
-        "594b6f40f4e31379d53f8c70",
-        "594b6f40f4e31379d53f8c77"
+        "594f6a3bf4e3130af1674482",
+        "594f6a3bf4e3130af1674492"
       ],
       "das": {
         "api": [
-          "fileReplicas4dataset",
-          "files_via_dataset"
+          "files_via_dataset",
+          "fileReplicas4dataset"
         ],
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498116204,
+        "expire": 1498377063,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
           {
-            "phedex": [
-              "phedex"
+            "dbs3": [
+              "dbs3"
             ]
           },
           {
-            "dbs3": [
-              "dbs3"
+            "phedex": [
+              "phedex"
             ]
           }
         ],
         "system": [
-          "phedex",
-          "dbs3"
+          "dbs3",
+          "phedex"
         ],
-        "ts": 1498115904.9145491
+        "ts": 1498376763.807242
       },
       "das_id": [
-        "594b6f40f4e31379d53f8c45",
-        "594b6f40f4e31379d53f8c48"
+        "594f6a3bf4e3130af167446f",
+        "594f6a3bf4e3130af1674472"
       ],
       "file": [
         {
@@ -177,5 +177,5 @@
   },
   "nresults": 3,
   "status": "ok",
-  "timestamp": 1498115905.55
+  "timestamp": 1498376764.26
 }

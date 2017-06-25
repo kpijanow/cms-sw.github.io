@@ -1,14 +1,14 @@
 {
   "apilist": [
-    "fileReplicas4dataset",
-    "das_core"
+    "das_core",
+    "fileReplicas4dataset"
   ],
-  "ctime": 0.036793947219799998,
+  "ctime": 0.0381288528442,
   "data": [
     {
-      "_id": "594b6e4af4e31379d53f80fc",
+      "_id": "594f6b23f4e3130af1674f61",
       "cache_id": [
-        "594b6e4af4e31379d53f80ee"
+        "594f6b23f4e3130af1674f53"
       ],
       "das": {
         "api": [
@@ -18,7 +18,7 @@
           "site.name",
           "dataset.name"
         ],
-        "expire": 1498115958,
+        "expire": 1498377295,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -32,10 +32,10 @@
         "system": [
           "phedex"
         ],
-        "ts": 1498115658.322998
+        "ts": 1498376995.343386
       },
       "das_id": [
-        "594b6e4af4e31379d53f80e0"
+        "594f6b23f4e3130af1674f45"
       ],
       "file": [
         {
@@ -45,9 +45,9 @@
       "qhash": "dde891fb3abb5c6522176e04c544a39a"
     },
     {
-      "_id": "594b6e4af4e31379d53f80fb",
+      "_id": "594f6b23f4e3130af1674f60",
       "cache_id": [
-        "594b6e4af4e31379d53f80ed"
+        "594f6b23f4e3130af1674f52"
       ],
       "das": {
         "api": [
@@ -57,7 +57,7 @@
           "dataset.name",
           "site.name"
         ],
-        "expire": 1498115958,
+        "expire": 1498377295,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -71,10 +71,10 @@
         "system": [
           "phedex"
         ],
-        "ts": 1498115658.322998
+        "ts": 1498376995.343386
       },
       "das_id": [
-        "594b6e4af4e31379d53f80e0"
+        "594f6b23f4e3130af1674f45"
       ],
       "file": [
         {
@@ -105,5 +105,5 @@
   },
   "nresults": 2,
   "status": "ok",
-  "timestamp": 1498115658.9300001
+  "timestamp": 1498376995.85
 }
