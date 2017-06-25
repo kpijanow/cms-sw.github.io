@@ -1,0 +1,109 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.036095857620199998,
+  "data": [
+    {
+      "_id": "594ac884f4e3136f27f03d4d",
+      "cache_id": [
+        "594ac883f4e3136f27f03d3d"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498073519,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498073220.128696
+      },
+      "das_id": [
+        "594ac883f4e3136f27f03cd5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre9_Geant4102/RelValSingleElectronPt35_UP15/GEN-SIM/81X_mcRun2_asymptotic_v2-v1/10000/18683C82-F754-E611-BC36-0CC47A4D7686.root"
+        }
+      ],
+      "qhash": "ce69ef9c7d127c443196106382ed83bb"
+    },
+    {
+      "_id": "594ac884f4e3136f27f03d4c",
+      "cache_id": [
+        "594ac883f4e3136f27f03d3e"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498073519,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498073220.128696
+      },
+      "das_id": [
+        "594ac883f4e3136f27f03cd5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre9_Geant4102/RelValSingleElectronPt35_UP15/GEN-SIM/81X_mcRun2_asymptotic_v2-v1/10000/2641707B-F754-E611-9618-0CC47A4D7664.root"
+        }
+      ],
+      "qhash": "ce69ef9c7d127c443196106382ed83bb"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleElectronPt35_UP15/CMSSW_8_1_0_pre9_Geant4102-81X_mcRun2_asymptotic_v2-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498073220.48
+}

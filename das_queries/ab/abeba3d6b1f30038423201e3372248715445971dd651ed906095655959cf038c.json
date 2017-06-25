@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.0245399475098,
+  "data": [
+    {
+      "_id": "594eba2e4bf01c0259a8f8dc",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331714.8345129,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331694.8345261
+      },
+      "das_id": [
+        "594eba284bf01c0259a8f87d",
+        "594eba284bf01c0259a8f87a",
+        "594eba284bf01c0259a8f877"
+      ],
+      "file": [],
+      "qhash": "8bb874f896b9174b74478b076946e8b4"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleMuPt10/CMSSW_5_2_1-START52_V4_FastSim-v1/GEN-SIM-DIGI-RECO"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331696.6700001
+}

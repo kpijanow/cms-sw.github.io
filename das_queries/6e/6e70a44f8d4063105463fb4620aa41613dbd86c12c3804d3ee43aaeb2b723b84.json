@@ -1,0 +1,69 @@
+{
+  "apilist": [
+    "fileReplicas4dataset",
+    "das_core",
+    "files_via_dataset"
+  ],
+  "ctime": 4.0681509971600001,
+  "data": [
+    {
+      "_id": "594ace29f4e3136f27f4114c",
+      "cache_id": [
+        "594ace25f4e3136f27f410ec"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074959,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3"
+        ],
+        "ts": 1498074665.357554
+      },
+      "das_id": [
+        "594ace20f4e3136f27f410a4"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre8/RelValSingleMuPt1000_UP15/GEN-SIM/PRE_LS171_V9_finesplit-v2/00000/1CD3C8CC-DFF1-E311-87A9-0025904C66A4.root"
+        }
+      ],
+      "qhash": "ae6f0a050f6fc63d5190f5faf09039c2"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleMuPt1000_UP15/CMSSW_7_1_0_pre8-PRE_LS171_V9_finesplit-v2/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498074671.6700001
+}

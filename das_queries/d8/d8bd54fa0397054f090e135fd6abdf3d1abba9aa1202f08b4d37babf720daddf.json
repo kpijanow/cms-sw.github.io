@@ -1,0 +1,481 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.047384023666400002,
+  "data": [
+    {
+      "_id": "594b71c74bf01c21964eb577",
+      "cache_id": [
+        "594b71c74bf01c21964eb54d",
+        "594b71c74bf01c21964eb55b"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/08904C51-829C-E511-A2DA-0CC47A4C8E2E.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/08904C51-829C-E511-A2DA-0CC47A4C8E2E.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb576",
+      "cache_id": [
+        "594b71c74bf01c21964eb55c",
+        "594b71c74bf01c21964eb54c"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/22293254-829C-E511-AEFA-002590593920.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/22293254-829C-E511-AEFA-002590593920.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb575",
+      "cache_id": [
+        "594b71c74bf01c21964eb550",
+        "594b71c74bf01c21964eb55d"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/30DDD736-839C-E511-95B4-0025905A610A.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/30DDD736-839C-E511-95B4-0025905A610A.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb574",
+      "cache_id": [
+        "594b71c74bf01c21964eb560",
+        "594b71c74bf01c21964eb54e"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/340CD00E-8A9C-E511-AA8A-003048FFD796.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/340CD00E-8A9C-E511-AA8A-003048FFD796.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb573",
+      "cache_id": [
+        "594b71c74bf01c21964eb553",
+        "594b71c74bf01c21964eb55e"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/6E209C37-839C-E511-ADE8-0025905A613C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/6E209C37-839C-E511-ADE8-0025905A613C.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb572",
+      "cache_id": [
+        "594b71c74bf01c21964eb561",
+        "594b71c74bf01c21964eb552"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/7CFE5B07-8A9C-E511-9E36-0CC47A4C8F1C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/7CFE5B07-8A9C-E511-9E36-0CC47A4C8F1C.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb571",
+      "cache_id": [
+        "594b71c74bf01c21964eb55a",
+        "594b71c74bf01c21964eb54f"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/BE65E7E5-809C-E511-8618-0025905A60C6.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/BE65E7E5-809C-E511-8618-0025905A60C6.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb570",
+      "cache_id": [
+        "594b71c74bf01c21964eb54b",
+        "594b71c74bf01c21964eb55f"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/CE8100E6-869C-E511-8D22-0CC47A4D7664.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/CE8100E6-869C-E511-8D22-0CC47A4D7664.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    },
+    {
+      "_id": "594b71c74bf01c21964eb56f",
+      "cache_id": [
+        "594b71c74bf01c21964eb559",
+        "594b71c74bf01c21964eb551"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498116850,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498116551.1237011
+      },
+      "das_id": [
+        "594b71c54bf01c21964eb533",
+        "594b71c54bf01c21964eb536"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/E6CBE9EB-809C-E511-B26B-0CC47A4D7670.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValQQH1352T_13/GEN-SIM-RECO/PU50ns_76X_mcRun2_startup_v11-v1/00000/E6CBE9EB-809C-E511-B26B-0CC47A4D7670.root"
+        }
+      ],
+      "qhash": "d8a347733f7ab391275cb88cc0854c6e"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValQQH1352T_13/CMSSW_7_6_2-PU50ns_76X_mcRun2_startup_v11-v1/GEN-SIM-RECO"
+    }
+  },
+  "nresults": 9,
+  "status": "ok",
+  "timestamp": 1498116551.5599999
+}

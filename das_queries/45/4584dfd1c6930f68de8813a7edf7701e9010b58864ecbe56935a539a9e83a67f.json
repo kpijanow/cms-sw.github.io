@@ -1,0 +1,59 @@
+{
+  "apilist": [
+    "das_core",
+    "files_via_block"
+  ],
+  "ctime": 0.023357152938799999,
+  "data": [
+    {
+      "_id": "594ebac44bf01c0259a8fdbd",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331864.467452,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331844.4674621
+      },
+      "das_id": [
+        "594ebabd4bf01c0259a8fd5c",
+        "594ebabd4bf01c0259a8fd59"
+      ],
+      "file": [],
+      "qhash": "fadfd8c538f1d0b70520273ac70e2f48"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "block.name": "/SingleElectron/Run2011B-WElectron-19Nov2011-v1/RAW-RECO#d75771a4-1b3f-11e1-aef4-003048f02c8a",
+      "run.run_number": 177096
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331846.3
+}

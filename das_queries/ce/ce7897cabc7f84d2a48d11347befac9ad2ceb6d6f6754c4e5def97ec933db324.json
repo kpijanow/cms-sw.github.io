@@ -1,0 +1,731 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.053337097168000003,
+  "data": [
+    {
+      "_id": "594cc4684bf01c0259278ef5",
+      "cache_id": [
+        "594cc4684bf01c0259278eba",
+        "594cc4684bf01c0259278ecf"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/0CCAD3A2-6269-E511-A42C-00266CF9AEA4.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/0CCAD3A2-6269-E511-A42C-00266CF9AEA4.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ef4",
+      "cache_id": [
+        "594cc4684bf01c0259278ec1",
+        "594cc4684bf01c0259278ed5"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/1E017DE3-7A69-E511-9316-00266CF9B184.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/1E017DE3-7A69-E511-9316-00266CF9B184.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ef3",
+      "cache_id": [
+        "594cc4684bf01c0259278ed3",
+        "594cc4684bf01c0259278eb7"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/1E8D6563-5E69-E511-80D8-3417EBE64C0C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/1E8D6563-5E69-E511-80D8-3417EBE64C0C.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ef2",
+      "cache_id": [
+        "594cc4684bf01c0259278eb9",
+        "594cc4684bf01c0259278ed6"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/32B59C88-6169-E511-BB96-00266CF9B3FC.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/32B59C88-6169-E511-BB96-00266CF9B3FC.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ef1",
+      "cache_id": [
+        "594cc4684bf01c0259278ed0",
+        "594cc4684bf01c0259278ebc"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/3A23861D-6869-E511-86C8-00A0D1EE8E94.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/3A23861D-6869-E511-86C8-00A0D1EE8E94.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ef0",
+      "cache_id": [
+        "594cc4684bf01c0259278eb5",
+        "594cc4684bf01c0259278ece"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/46C1C76F-5769-E511-9EE1-00266CF9B8CC.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/46C1C76F-5769-E511-9EE1-00266CF9B8CC.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278eef",
+      "cache_id": [
+        "594cc4684bf01c0259278ebb",
+        "594cc4684bf01c0259278ed4"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/4ADBF7F4-6569-E511-B86B-00266CFAE7AC.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/4ADBF7F4-6569-E511-B86B-00266CFAE7AC.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278eee",
+      "cache_id": [
+        "594cc4684bf01c0259278ed8",
+        "594cc4684bf01c0259278ebf"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/50D00E88-7069-E511-9B4B-008CFA15FEB8.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/50D00E88-7069-E511-9B4B-008CFA15FEB8.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278eed",
+      "cache_id": [
+        "594cc4684bf01c0259278ec0",
+        "594cc4684bf01c0259278ed9"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/54CAC4FC-7469-E511-BAB0-00266CF268B8.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/54CAC4FC-7469-E511-BAB0-00266CF268B8.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278eec",
+      "cache_id": [
+        "594cc4684bf01c0259278ed2",
+        "594cc4684bf01c0259278eb6"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/96AA239B-5A69-E511-9306-3417EBE643F0.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/96AA239B-5A69-E511-9306-3417EBE643F0.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278eeb",
+      "cache_id": [
+        "594cc4684bf01c0259278edb",
+        "594cc4684bf01c0259278ebe"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/A8487DBF-6D69-E511-BB73-00A0D1EE8A14.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/A8487DBF-6D69-E511-BB73-00A0D1EE8A14.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278eea",
+      "cache_id": [
+        "594cc4684bf01c0259278ec2",
+        "594cc4684bf01c0259278ed1"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/ACA03E7D-9769-E511-8999-00266CF9B868.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/ACA03E7D-9769-E511-8999-00266CF9B868.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ee9",
+      "cache_id": [
+        "594cc4684bf01c0259278ebd",
+        "594cc4684bf01c0259278ed7"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/BCAFE7B9-6A69-E511-BC59-00A0D1EE8A14.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/BCAFE7B9-6A69-E511-BC59-00A0D1EE8A14.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    },
+    {
+      "_id": "594cc4684bf01c0259278ee8",
+      "cache_id": [
+        "594cc4684bf01c0259278eb8",
+        "594cc4684bf01c0259278eda"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203540,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498203240.4164391
+      },
+      "das_id": [
+        "594cc4684bf01c0259278ea2",
+        "594cc4684bf01c0259278ea5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/E2CB284B-6069-E511-956D-008CFA00148C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre6/RelValHydjetQ_MinBias_5020GeV/GEN-SIM/76X_mcRun2_HeavyIon_v4-v1/00000/E2CB284B-6069-E511-956D-008CFA00148C.root"
+        }
+      ],
+      "qhash": "aeb167f3cf0bd49e514e980c30f42b61"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValHydjetQ_MinBias_5020GeV/CMSSW_7_6_0_pre6-76X_mcRun2_HeavyIon_v4-v1/GEN-SIM"
+    }
+  },
+  "nresults": 14,
+  "status": "ok",
+  "timestamp": 1498203240.8900001
+}

@@ -1,0 +1,187 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.033787012100199999,
+  "data": [
+    {
+      "_id": "594c1f38f4e31335993538cf",
+      "cache_id": [
+        "594c1f38f4e31335993538bd"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161251,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160952.051419
+      },
+      "das_id": [
+        "594c1f37f4e31335993538af"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_1_0_pre3/RelValZEE_13/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/88DEFB13-8A2F-E711-862A-0CC47A7C3410.root"
+        }
+      ],
+      "qhash": "0179a77990c2fd9bfe8658866f3d0264"
+    },
+    {
+      "_id": "594c1f38f4e31335993538ce",
+      "cache_id": [
+        "594c1f38f4e31335993538bc"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161251,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160952.051419
+      },
+      "das_id": [
+        "594c1f37f4e31335993538af"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_1_0_pre3/RelValZEE_13/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/9AAB4357-8E2F-E711-978A-0CC47A78A440.root"
+        }
+      ],
+      "qhash": "0179a77990c2fd9bfe8658866f3d0264"
+    },
+    {
+      "_id": "594c1f38f4e31335993538cd",
+      "cache_id": [
+        "594c1f38f4e31335993538bf"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161251,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160952.051419
+      },
+      "das_id": [
+        "594c1f37f4e31335993538af"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_1_0_pre3/RelValZEE_13/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/9EFE9F53-8E2F-E711-898C-0CC47A4C8E28.root"
+        }
+      ],
+      "qhash": "0179a77990c2fd9bfe8658866f3d0264"
+    },
+    {
+      "_id": "594c1f38f4e31335993538cc",
+      "cache_id": [
+        "594c1f38f4e31335993538be"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498161251,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160952.051419
+      },
+      "das_id": [
+        "594c1f37f4e31335993538af"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_1_0_pre3/RelValZEE_13/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/FA7F3C01-8A2F-E711-BD3F-0CC47A4D7646.root"
+        }
+      ],
+      "qhash": "0179a77990c2fd9bfe8658866f3d0264"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValZEE_13/CMSSW_9_1_0_pre3-91X_upgrade2017_realistic_v3-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 4,
+  "status": "ok",
+  "timestamp": 1498160952.9200001
+}

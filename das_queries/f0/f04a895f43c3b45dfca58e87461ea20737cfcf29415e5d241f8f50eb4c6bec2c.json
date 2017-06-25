@@ -1,0 +1,81 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.57443118095400003,
+  "data": [
+    {
+      "_id": "594cc2b24bf01c02592736b0",
+      "cache_id": [
+        "594cc2b04bf01c025927340d",
+        "594cc28a4bf01c025926e469"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498203062,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498202802.0589781
+      },
+      "das_id": [
+        "594cc2784bf01c025926ac53",
+        "594cc2784bf01c025926ac78"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre7/RelValMinBias/GEN-SIM/PRE_STA71_V3-v1/00000/94026D36-50D1-E311-AE6F-0025905A612E.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre7/RelValMinBias/GEN-SIM/PRE_STA71_V3-v1/00000/94026D36-50D1-E311-AE6F-0025905A612E.root"
+        }
+      ],
+      "qhash": "39d6777721f822cac6298888de07dd35"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValMinBias/CMSSW_7_1_0_pre7-PRE_STA71_V3-v1/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498202804.77
+}

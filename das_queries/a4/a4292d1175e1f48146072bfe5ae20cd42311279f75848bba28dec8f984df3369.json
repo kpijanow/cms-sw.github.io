@@ -1,0 +1,81 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.049198865890500001,
+  "data": [
+    {
+      "_id": "594c1db64bf01c2a8c54810d",
+      "cache_id": [
+        "594c1db64bf01c2a8c548100",
+        "594c1db64bf01c2a8c5480f3"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160866,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498160566.8108881
+      },
+      "das_id": [
+        "594c1db64bf01c2a8c5480e1",
+        "594c1db64bf01c2a8c5480e4"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_5_2_1/RelValSingleElectronPt10/GEN-SIM/START52_V4-v1/0003/3EF33EED-9772-E111-89C6-0025901D626C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_5_2_1/RelValSingleElectronPt10/GEN-SIM/START52_V4-v1/0003/3EF33EED-9772-E111-89C6-0025901D626C.root"
+        }
+      ],
+      "qhash": "25200cf2715292e7dadff30d8ead6d18"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleElectronPt10/CMSSW_5_2_1-START52_V4-v1/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498160567.3
+}

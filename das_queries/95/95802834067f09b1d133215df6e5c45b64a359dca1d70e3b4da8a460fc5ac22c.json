@@ -1,0 +1,131 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.048954963684100003,
+  "data": [
+    {
+      "_id": "594c1fcd4bf01c2a8c55ce45",
+      "cache_id": [
+        "594c1fcd4bf01c2a8c55ce2a",
+        "594c1fcd4bf01c2a8c55ce36"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498161401,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498161101.2738509
+      },
+      "das_id": [
+        "594c1fcc4bf01c2a8c55ce0d",
+        "594c1fcc4bf01c2a8c55ce10"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValSingleElectronPt35_UP15/GEN-SIM/MCRUN2_71_V1-v1/00000/381D7AB0-F6B6-E411-8C4C-0025905A48D6.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValSingleElectronPt35_UP15/GEN-SIM/MCRUN2_71_V1-v1/00000/381D7AB0-F6B6-E411-8C4C-0025905A48D6.root"
+        }
+      ],
+      "qhash": "7c522259abc4a6db83addda6543b5924"
+    },
+    {
+      "_id": "594c1fcd4bf01c2a8c55ce44",
+      "cache_id": [
+        "594c1fcd4bf01c2a8c55ce29",
+        "594c1fcd4bf01c2a8c55ce37"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498161401,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498161101.2738509
+      },
+      "das_id": [
+        "594c1fcc4bf01c2a8c55ce0d",
+        "594c1fcc4bf01c2a8c55ce10"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValSingleElectronPt35_UP15/GEN-SIM/MCRUN2_71_V1-v1/00000/DE3CCCAC-F6B6-E411-886D-003048FFD736.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValSingleElectronPt35_UP15/GEN-SIM/MCRUN2_71_V1-v1/00000/DE3CCCAC-F6B6-E411-886D-003048FFD736.root"
+        }
+      ],
+      "qhash": "7c522259abc4a6db83addda6543b5924"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleElectronPt35_UP15/CMSSW_7_1_14-MCRUN2_71_V1-v1/GEN-SIM"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498161101.8399999
+}

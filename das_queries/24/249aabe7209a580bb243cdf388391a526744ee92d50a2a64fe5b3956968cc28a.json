@@ -1,0 +1,145 @@
+{
+  "apilist": [
+    "files4dataset_runs_site",
+    "das_core"
+  ],
+  "ctime": 0.10847902298000001,
+  "data": [
+    {
+      "_id": "594b6f73f4e31379d53f8eb3",
+      "cache_id": [
+        "594b6f73f4e31379d53f8ea4",
+        "594b6f73f4e31379d53f8ea5",
+        "594b6f73f4e31379d53f8ea6",
+        "594b6f73f4e31379d53f8ea7",
+        "594b6f73f4e31379d53f8ea2",
+        "594b6f73f4e31379d53f8ea3",
+        "594b6f73f4e31379d53f8ea8"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498116075,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498115955.6946051
+      },
+      "das_id": [
+        "594b6f73f4e31379d53f8e8a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        },
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        },
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        },
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        },
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        },
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        },
+        {
+          "name": "/store/data/Run2016H/AlCaLumiPixels1/RAW/v1/000/283/383/00000/BAF61397-DA95-E611-B879-02163E0145CC.root"
+        }
+      ],
+      "qhash": "221fea07bfadf049dde015f840520fb6"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/AlCaLumiPixels1/Run2016H-v1/RAW",
+      "run.run_number": 283383,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498115956.1900001
+}

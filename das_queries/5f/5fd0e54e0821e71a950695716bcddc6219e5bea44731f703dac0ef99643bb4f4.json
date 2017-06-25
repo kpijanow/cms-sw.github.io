@@ -1,0 +1,70 @@
+{
+  "apilist": [
+    "file4DatasetRunLumi",
+    "das_core"
+  ],
+  "ctime": 0.040674924850499998,
+  "data": [
+    {
+      "_id": "594b715ef4e31379d53fafe1",
+      "cache_id": [
+        "594b715ef4e31379d53fafd4"
+      ],
+      "das": {
+        "api": [
+          "file4DatasetRunLumi"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "dataset.name"
+        ],
+        "expire": 1498116737,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3"
+        ],
+        "ts": 1498116446.1861119
+      },
+      "das_id": [
+        "594b7155f4e31379d53faf31"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2010A/MinimumBias/RAW-RECO/v6/000/138/934/8EF645F4-4385-DF11-B48F-00E08179172F.root"
+        }
+      ],
+      "qhash": "98d0b51de22b3ffa672f4ae21dd4c005"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/MinimumBias/Run2010A-valskim-v6/RAW-RECO",
+      "run.run_number": 138934
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498116446.4400001
+}

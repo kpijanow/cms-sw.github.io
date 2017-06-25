@@ -1,0 +1,181 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.046668052673300001,
+  "data": [
+    {
+      "_id": "594c1e844bf01c2a8c551f9e",
+      "cache_id": [
+        "594c1e844bf01c2a8c551f8d",
+        "594c1e844bf01c2a8c551f7e"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498161072,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160772.783154
+      },
+      "das_id": [
+        "594c1e844bf01c2a8c551f6f",
+        "594c1e844bf01c2a8c551f6c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValWpToENu_M-2000_13TeV/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/5C8D34EE-EC5B-E511-8D5A-0025905B85E8.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValWpToENu_M-2000_13TeV/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/5C8D34EE-EC5B-E511-8D5A-0025905B85E8.root"
+        }
+      ],
+      "qhash": "7e681f15848717278197e0ea7b78e8d8"
+    },
+    {
+      "_id": "594c1e844bf01c2a8c551f9d",
+      "cache_id": [
+        "594c1e844bf01c2a8c551f8e",
+        "594c1e844bf01c2a8c551f7f"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498161072,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160772.783154
+      },
+      "das_id": [
+        "594c1e844bf01c2a8c551f6f",
+        "594c1e844bf01c2a8c551f6c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValWpToENu_M-2000_13TeV/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/AC051075-EF5B-E511-9A2B-0025905B860E.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValWpToENu_M-2000_13TeV/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/AC051075-EF5B-E511-9A2B-0025905B860E.root"
+        }
+      ],
+      "qhash": "7e681f15848717278197e0ea7b78e8d8"
+    },
+    {
+      "_id": "594c1e844bf01c2a8c551f9c",
+      "cache_id": [
+        "594c1e844bf01c2a8c551f8f",
+        "594c1e844bf01c2a8c551f80"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498161072,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160772.783154
+      },
+      "das_id": [
+        "594c1e844bf01c2a8c551f6f",
+        "594c1e844bf01c2a8c551f6c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValWpToENu_M-2000_13TeV/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/DECBAE65-EF5B-E511-B873-0026189438AD.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValWpToENu_M-2000_13TeV/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/DECBAE65-EF5B-E511-B873-0026189438AD.root"
+        }
+      ],
+      "qhash": "7e681f15848717278197e0ea7b78e8d8"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValWpToENu_M-2000_13TeV/CMSSW_7_4_12-74X_mcRun2_asymptotic_v2-v1/GEN-SIM"
+    }
+  },
+  "nresults": 3,
+  "status": "ok",
+  "timestamp": 1498160773.4000001
+}

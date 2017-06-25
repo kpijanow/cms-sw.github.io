@@ -1,0 +1,2154 @@
+{
+    "base_branch": "CMSSW_9_2_ROOT6_X", 
+    "release_name": "CMSSW_9_2_ROOT6_X", 
+    "comparisons": [
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 26
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 106, 
+                        "ignoreWarning": 1572
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/new/logAnalysis.pkl", 
+                    "details": {}
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-18-1100-->CMSSW_9_2_ROOT6_X_2017-06-18-2300", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/new/logAnalysis.pkl']", 
+                    "details": {}
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "Not Found", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-18-2300/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-18-2300/slc6_amd64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1789, 
+                        "known_failed": 0, 
+                        "num_failed": 0
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1680, 
+                        "known_failed": 33, 
+                        "num_failed": 1
+                    }
+                }, 
+                {
+                    "done": false, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 373, 
+                        "known_failed": 1, 
+                        "num_failed": 0
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-18-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "6e4cf2302096c85e11f42f807072f6e27ad910d1", 
+                    "title": "Addition of P.V. Refit after Tracking in Heavy Ion Reco", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19083", 
+                    "number": "19083", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "abaty"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-19-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-19-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 71, 
+                        "ignoreWarning": 1572
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-18-2300-->CMSSW_9_2_ROOT6_X_2017-06-19-1100", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-19-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "3"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-19-1100/slc7_aarch64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-19-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1676, 
+                        "known_failed": 33, 
+                        "num_failed": 3
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-19-1100", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "1328689de304806611354422f10afde010b5a5af", 
+                    "title": "Cleaning the Phase2TrackerDigi interface", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19300", 
+                    "number": "19300", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "delaere"
+                }, 
+                {
+                    "hash": "f885539d2f695cc376a713a437de899d28d170e4", 
+                    "title": "DropBox Metadata: document adding HP beamspot by run", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19260", 
+                    "number": "19260", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "franzoni"
+                }, 
+                {
+                    "hash": "90def8d4e55a92b30bc692508f676b813167448c", 
+                    "title": "Fix assert condition in CSCDMBHeader::cfebAvailable", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19236", 
+                    "number": "19236", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlt"
+                }, 
+                {
+                    "hash": "9bfcc205d4c59aa75456450499ff4b8c26fda1c2", 
+                    "title": "Better handling of TriggerResults consumes in PAT Trigger modules", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19259", 
+                    "number": "19259", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Dr15Jones"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 26
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 74, 
+                        "ignoreWarning": 1572
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 71, 
+                        "ignoreWarning": 1572
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-19-1100-->CMSSW_9_2_ROOT6_X_2017-06-19-2300", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-19-2300/slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-19-2300/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-19-2300/slc6_amd64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1730, 
+                        "known_failed": 0, 
+                        "num_failed": 17
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1680, 
+                        "known_failed": 33, 
+                        "num_failed": 1
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-23/CMSSW_9_2_ROOT6_X_2017-06-19-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1673, 
+                        "known_failed": 33, 
+                        "num_failed": 2
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-19-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "ae2663f71c1006742a4393320c1b1014044dbefd", 
+                    "title": "[Offline DQM] Fixes for calo layer 2", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18863", 
+                    "number": "18863", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "kreczko"
+                }, 
+                {
+                    "hash": "0ec792689da30d1f20f6c9facea755d6f3492f58", 
+                    "title": "Summary map hotfixes", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19219", 
+                    "number": "19219", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "leggat"
+                }, 
+                {
+                    "hash": "38e80e8bc84620816b9e06611b9331e617587f50", 
+                    "title": "Fix T0 DQM crash. Remove online uGT DQM module from the offline", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19241", 
+                    "number": "19241", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "thomreis"
+                }, 
+                {
+                    "hash": "08544d2638c5a9847a8b3b21d2c12b3972588307", 
+                    "title": "migrate ootPhoton to use GEDPhotonProducer", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19264", 
+                    "number": "19264", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "slava77"
+                }, 
+                {
+                    "hash": "065137a2eb28520ea16cb1b95a3e167c12b8b5b4", 
+                    "title": "Fix includes in DigiCollectionProfiler.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19289", 
+                    "number": "19289", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "ca320061312dbeabccd96791c66138dc10a489ed", 
+                    "title": "Fix includes of FastTimerService.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19345", 
+                    "number": "19345", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "f962ade7e09fe6e670cd2618951a99d77534ed37", 
+                    "title": "Fix includes to HLTDiMuonGlbTrkFilter.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19333", 
+                    "number": "19333", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "55c03611c017a2631ec36121623aa9d924e438b1", 
+                    "title": "Fix includes ElectronEffectiveArea.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19326", 
+                    "number": "19326", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "26845da6c98dcd08a872b2b0a377e50c9aa819bf", 
+                    "title": "Fix includes HLTMuonDimuonL3Filter.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19334", 
+                    "number": "19334", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "a93c12e0b42b0ae4915e5811601878e7d9cc7cc2", 
+                    "title": "adding python tests for bottleneck, deepish, numexpr, numba, pytables", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19336", 
+                    "number": "19336", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlange6"
+                }, 
+                {
+                    "hash": "5eeac959052f9e768a4de6d8b51e4ee2a235796b", 
+                    "title": "L1muon offline dqm harvesting config fix", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19226", 
+                    "number": "19226", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "thomreis"
+                }, 
+                {
+                    "hash": "7d069fada6257c16b084808f340924134bbc4153", 
+                    "title": "Fix includes of ElectronSelector.h/UniqueElectrons.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19327", 
+                    "number": "19327", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-11/CMSSW_9_2_ROOT6_X_2017-06-20-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-11/CMSSW_9_2_ROOT6_X_2017-06-20-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 71, 
+                        "ignoreWarning": 1572
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-19-2300-->CMSSW_9_2_ROOT6_X_2017-06-20-1100", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-11/CMSSW_9_2_ROOT6_X_2017-06-20-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "4"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-20-1100/slc7_aarch64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-11/CMSSW_9_2_ROOT6_X_2017-06-20-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 849, 
+                        "known_failed": 33, 
+                        "num_failed": 409
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-20-1100", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "f13261948b6083bcd409fe1c70452089085e5762", 
+                    "title": "Add missing includes for mpl/if.hpp to PhysicsTools/Utilities.", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19245", 
+                    "number": "19245", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "ae4074ba3bc1cf7a5ffebc30725247c823e624b0", 
+                    "title": "Fix includes in RecoEcal/EgammaClusterProducers", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19364", 
+                    "number": "19364", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "4216a92d43068f5e6c2938421b83fedfe599763d", 
+                    "title": "Remove RCSingleGaussianState.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19365", 
+                    "number": "19365", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "84551e06f0ef2f7a792b088224f878b479d96bae", 
+                    "title": "Fix includes in CandMapTrait.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19348", 
+                    "number": "19348", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "e3d6358756b742f647eca107d1b27cf79b5c3157", 
+                    "title": "removing useless files (old phase2 pixel clusters )", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19360", 
+                    "number": "19360", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "boudoul"
+                }, 
+                {
+                    "hash": "cb50cbc3165fadc086e7ace8af73816dfa9fd98c", 
+                    "title": "Fix includes in SimplifyRatio.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19361", 
+                    "number": "19361", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "2ef1437647562e6378296bb28a328a1c8febf92c", 
+                    "title": "Fix includes in SigmaPtDiff.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19346", 
+                    "number": "19346", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "32375fb7d9f29acba419c6e9c846bf56601aa740", 
+                    "title": "Fix clang error and warnings", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19248", 
+                    "number": "19248", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Dr15Jones"
+                }, 
+                {
+                    "hash": "be736c5dbf0d96fe41f06857122885c223f22748", 
+                    "title": "Add include for unistd.h in FFFNamingSchema.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19329", 
+                    "number": "19329", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "6de1db5790238108ad871717b6fa5c12f2cc0de3", 
+                    "title": "Add include for algorithm to DebugDigisPrintout.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19328", 
+                    "number": "19328", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "8ef931729fde9f0f9fc41d5a236e2876641f04e2", 
+                    "title": "Also forward declare EventSetup in EventWithHistoryFilter.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19291", 
+                    "number": "19291", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "51478f192e87cdb4f4d81ec1048e4777ad889cfe", 
+                    "title": "Remove invalid header CandMatcher.h.", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19243", 
+                    "number": "19243", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "eb346f31a9271bec8a9e4591e479f7b8212c33e4", 
+                    "title": "Terminate header guard in MuonInfoTuple.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19269", 
+                    "number": "19269", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "16ec304ddcd3f72fbb9310091df5ab22cfde672f", 
+                    "title": "Add include for Vertex.h to MuonVPlusJetsIDSelectionFunctor.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19352", 
+                    "number": "19352", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "fb1cf692d149fa3c065c4332f4dd6b9bb19d544f", 
+                    "title": "Forward declare ClusterSHape in ElectronSelector.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19351", 
+                    "number": "19351", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "1bd431d05bdbab3bf33cdbcd72237c63f0c8543c", 
+                    "title": "Add iostream include to LumiReweightingStandalone.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19357", 
+                    "number": "19357", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "695fb0b70fe2f775416b164c96a3caf4e34e4cca", 
+                    "title": "Add include for Ratio.h to SimplifyLogExp.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19356", 
+                    "number": "19356", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "6b8abaaf63b372d7858c9f9cc83cae85c4ce4f74", 
+                    "title": "Add include to Fraction.h to SimplifyNumerical.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19355", 
+                    "number": "19355", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "282c81ba44cb2a792452f84bc9677a9635037dcb", 
+                    "title": "Changed the parameters that set the position of the main diagonal ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19251", 
+                    "number": "19251", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "chenxvan"
+                }, 
+                {
+                    "hash": "e18733ff836ca4183943af4fd1fefccef4d9b454", 
+                    "title": "Fix the header guard of MicroStateService.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19331", 
+                    "number": "19331", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "4aa3db24b9184febfb43a658b528977fe74cf272", 
+                    "title": "Use std::shared_ptr in FastMonitoringThread.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19330", 
+                    "number": "19330", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "12b0ab3f0a695648bedd265bc050c5228789745f", 
+                    "title": "Add include for EDMException to HistoPdf.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19359", 
+                    "number": "19359", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "2dd8fb855bba2e96b8783eff035191c9fc8cbcad", 
+                    "title": "Fix includes TwoObjectCalculator.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19358", 
+                    "number": "19358", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "418a938792564d856ef0e0f02759b884cef2fb42", 
+                    "title": "Add include for EventSetup to PhotonFixCMS.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19341", 
+                    "number": "19341", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 21
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 74, 
+                        "ignoreWarning": 1572
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 15, 
+                        "ignoreWarning": 431
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-20-1100-->CMSSW_9_2_ROOT6_X_2017-06-20-2300", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "3"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "7"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-20-1100/slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-19-2300/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-20-2300/slc6_amd64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1786, 
+                        "known_failed": 0, 
+                        "num_failed": 1
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 850, 
+                        "known_failed": 33, 
+                        "num_failed": 409
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.2.ROOT6-tue-23/CMSSW_9_2_ROOT6_X_2017-06-20-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 856, 
+                        "known_failed": 33, 
+                        "num_failed": 408
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-20-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "98904f3c8ffbc026353ac2dd84422ace5821269d", 
+                    "title": "Fix missing includes/forward decls in OnlineDB/EcalCondDB", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19246", 
+                    "number": "19246", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "2aa5bea7b13c3b38d1f44fc7954cf648f253e9a7", 
+                    "title": "Add include to Parameter.h to rootFunction.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19362", 
+                    "number": "19362", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "7d72b0f99440c6c713fe952bd9d486554e62f046", 
+                    "title": "Add include to memory to GMTInternalMuonFwd.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19363", 
+                    "number": "19363", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "46895275f99ec0e2031f7bd2e80ddc60ae8c3833", 
+                    "title": "Add fstream include to DEcompare.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19344", 
+                    "number": "19344", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "0f9dcb5bff3756829aa923a73a19ea518a257135", 
+                    "title": "Add include for iostream to EgHLTDebugFuncs.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19323", 
+                    "number": "19323", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "f472da73ef6d7a7d828966fee1d8c7037994ce63", 
+                    "title": "Include TrackFwd.h in TkAlCaRecoMonitor.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19320", 
+                    "number": "19320", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "60d4a1145e825812a709f7ff790928b0661f4bbf", 
+                    "title": "Fix includes of PrimitiveConverter_Neighbor.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19347", 
+                    "number": "19347", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "242328ea29cb96c0fcd1dfe12969a0ee302ece8f", 
+                    "title": "Fix includes in DEutils.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19342", 
+                    "number": "19342", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "331883d1e8c748a6707ebc681270b40f1db8520d", 
+                    "title": "Add include for cmath to MakeRegionalCand.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19343", 
+                    "number": "19343", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "a2c12f064c7e7502eb14f526b0f1b29f5737f676", 
+                    "title": "Add missing include to AlphaTVarProducer.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19292", 
+                    "number": "19292", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "5d49eda06b49a703227e0e314fad1582a27c9246", 
+                    "title": "Add include for string to Collections.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19296", 
+                    "number": "19296", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "3edf9bfdca31cff448f9322d067a635776317bea", 
+                    "title": "Add missing fwd decls to ESDataCertificationTask.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19297", 
+                    "number": "19297", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "ec6e3b41bb02e6ae7a6a242af87ac951f90241d7", 
+                    "title": "Fix includes of ESDaqInfoTask.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19295", 
+                    "number": "19295", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "7980fb7887c7d9ca417528081c82efc146dbc39e", 
+                    "title": "Add missing fstream include to L1TDTTPG.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19299", 
+                    "number": "19299", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "d2763af5deb99dcd2eedc74e2c44bc560eb922da", 
+                    "title": "Forward declare TrackerTopology in SiStripMonitorQuality.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19317", 
+                    "number": "19317", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "c79ce838918a9e231164b33daca1499526fc3bde", 
+                    "title": "Fix includes in SiStripMonitorHLT.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19316", 
+                    "number": "19316", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "c4ce7c5598407b754756895c78855e7bae780fb8", 
+                    "title": "Fix includes for SiPixelTrackResidualSource.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19315", 
+                    "number": "19315", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "904e3a3c383e46970eb016e0ffc5c5d9ccbc48e1", 
+                    "title": "Add missing includes to SiPixelHitEfficiencySource.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19314", 
+                    "number": "19314", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "bc401ba5d8e9d1a075b39e6fc66453b686704a1f", 
+                    "title": "Fwd declare EventSetup to DQM/SiPixelMonitorTrack headers.", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19313", 
+                    "number": "19313", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "e8d08508b2af0d7d93116fb34c90a8a082ad6559", 
+                    "title": "Add missing includes to somedefinitions.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19312", 
+                    "number": "19312", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "c044b989da6e3e34b73bf787ce575426032b57d5", 
+                    "title": "Actually include DQMStore.h in TrackBuildingAnalyzer.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19319", 
+                    "number": "19319", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "bc3f51c6a183bc3b047b6240aa1cfa34dca531fe", 
+                    "title": "Fix includes in SiStripMonitorRawData.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19318", 
+                    "number": "19318", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "cb992e568d2f73740519e1fb5791b4c6a1228b0c", 
+                    "title": "Fix includes in Matcher.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19321", 
+                    "number": "19321", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "eaf5c5b58408e6a46e4235e305c712b8ba639c5a", 
+                    "title": "Fix includes/fwd decls in Fireworks/Core", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19332", 
+                    "number": "19332", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "6c77a4154533d662d0b7fac53ab0774f38531845", 
+                    "title": "Adding Cluster charge and size per layer", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19335", 
+                    "number": "19335", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
+                }, 
+                {
+                    "hash": "dbc253e329a34a0fb65baf3d3a2adf400609d865", 
+                    "title": "Remove obsolete header RNDMEngineAccess.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19378", 
+                    "number": "19378", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "783c08c09f1b8c22ff0047e66f1d4e29dc075a68", 
+                    "title": "Add include for signal.h to DQMNet.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19325", 
+                    "number": "19325", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "227430ffe7fc41153e2cbf2c051a82ed104b2e60", 
+                    "title": "Remove BasicFilter.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19381", 
+                    "number": "19381", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "bb794a7a5b29429926b8cf1225a03d3474869c25", 
+                    "title": "setup to run miniAOD on legacy 80X AOD inputs", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19304", 
+                    "number": "19304", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "slava77"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-11/CMSSW_9_2_ROOT6_X_2017-06-21-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-11/CMSSW_9_2_ROOT6_X_2017-06-21-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 71, 
+                        "ignoreWarning": 1572
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-20-2300-->CMSSW_9_2_ROOT6_X_2017-06-21-1100", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-11/CMSSW_9_2_ROOT6_X_2017-06-21-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "4"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-21-1100/slc7_aarch64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-11/CMSSW_9_2_ROOT6_X_2017-06-21-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 855, 
+                        "known_failed": 33, 
+                        "num_failed": 408
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-21-1100", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "b6b9c5e9cb8d680407db0303e2e46ff0e7368a9e", 
+                    "title": "Fireworks 92X: new option to draw Jets from BeamSpot", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19388", 
+                    "number": "19388", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "alja"
+                }, 
+                {
+                    "hash": "bd578f32477f4b3a094bf5b587c317f991386b22", 
+                    "title": "Remove obsolete header MultiTrajectoryStateCombiner.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19380", 
+                    "number": "19380", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "bc15d0d919588e337dbcaa18822f7a35d8337fa8", 
+                    "title": "Remove bitObj.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19382", 
+                    "number": "19382", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "a8acf7d5c6f98e88aa0e04627bfc517b76740061", 
+                    "title": "Remove obsolete header RecoPFClusterRefCandidate.h (and Fwd.h)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19379", 
+                    "number": "19379", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "58d75a3c1a97e9211e4b6637af7c1f867d0c57eb", 
+                    "title": "Adding useful channel id mappings", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19187", 
+                    "number": "19187", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "igv4321"
+                }, 
+                {
+                    "hash": "f256a1df1b5b3eb413f787b106f5a30cf9388a87", 
+                    "title": "Deprecation of T**DetID and PX*DetID in Alignment/TrackerAlignment/plugins/CosmicRateAnalyzer.cc", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19206", 
+                    "number": "19206", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "alesaggio"
+                }, 
+                {
+                    "hash": "152b8fad6023088ad5885c8b371c5e7f8fa42680", 
+                    "title": "narrow scope of TDirectory::TContext local", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19387", 
+                    "number": "19387", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "dan131riley"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 26
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 74, 
+                        "ignoreWarning": 1572
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 3, 
+                        "ignoreWarning": 26
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-21-1100-->CMSSW_9_2_ROOT6_X_2017-06-21-2300", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "4"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "5"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "5"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-21-1100/slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-21-2300/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-21-2300/slc6_amd64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 949, 
+                        "known_failed": 0, 
+                        "num_failed": 415
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 852, 
+                        "known_failed": 33, 
+                        "num_failed": 409
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/wed/9.2.ROOT6-wed-23/CMSSW_9_2_ROOT6_X_2017-06-21-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 855, 
+                        "known_failed": 32, 
+                        "num_failed": 408
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-21-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "fc8722868680875020fccbd62d433e9f4e1f1249", 
+                    "title": "Remove pixel tracking from phase2", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19165", 
+                    "number": "19165", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "c22179450a41ebcfd52cec83281643b3cc6adc4c", 
+                    "title": "add tests for downhill,theanets,xgboost", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19377", 
+                    "number": "19377", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlange6"
+                }, 
+                {
+                    "hash": "f3cc47ddfa8573c0816f270c99ab5c4af0f8e3f3", 
+                    "title": "Add missing include to HITRegionalPixelSeedGenerator.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19275", 
+                    "number": "19275", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "a69bc5ced99a1bc3f36ddffb13da8f14ac91c44e", 
+                    "title": "Add include for AlgebraicObjects.h to HIPUserVariables.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19268", 
+                    "number": "19268", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "07b78021e2533e918376cef6089a3c261a6a819c", 
+                    "title": "Add missing include for DOMNode.hpp to MiscalibReaderFromXMLDomUtils.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19272", 
+                    "number": "19272", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "7d8ccd4222a8605ec7083197ce1cab04a1939990", 
+                    "title": "Foward declare TH1F in APVGainStruct.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19273", 
+                    "number": "19273", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-11/CMSSW_9_2_ROOT6_X_2017-06-22-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-11/CMSSW_9_2_ROOT6_X_2017-06-22-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 75, 
+                        "ignoreWarning": 1572
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-21-2300-->CMSSW_9_2_ROOT6_X_2017-06-22-1100", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-11/CMSSW_9_2_ROOT6_X_2017-06-22-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-22-1100/slc7_aarch64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-11/CMSSW_9_2_ROOT6_X_2017-06-22-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1680, 
+                        "known_failed": 33, 
+                        "num_failed": 1
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-22-1100", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "766476e99be814cf74c6de9cdf43e01c7ff7313d", 
+                    "title": "CSC Upgrade TMB base classes and improved LUT generator code", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18560", 
+                    "number": "18560", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "dildick"
+                }, 
+                {
+                    "hash": "1ffadf269c73dd19eb1d261b5f82f17a64aa23c1", 
+                    "title": "Update to 2017 METplusTrack paths", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19252", 
+                    "number": "19252", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bpf6qc"
+                }, 
+                {
+                    "hash": "98d26d7c32bc75a65d34eaea68dc7b88b282caab", 
+                    "title": "cleaning left over Phase2ITPixelClusterizer in python", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19397", 
+                    "number": "19397", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "boudoul"
+                }, 
+                {
+                    "hash": "fd9bf055603297858117a7589e297a9cc261d4f4", 
+                    "title": "Fix typo in OrPairSelector.h", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19394", 
+                    "number": "19394", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Teemperor"
+                }, 
+                {
+                    "hash": "75570f159321ca7c437304035d73ad570babf878", 
+                    "title": "Add parameter to disable L2 to L1 match", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19392", 
+                    "number": "19392", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "sarafiorendi"
+                }, 
+                {
+                    "hash": "26686d731d4fb0c620367cc0fa15c781a63f67dc", 
+                    "title": "Remove Legacy Files", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19368", 
+                    "number": "19368", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "ianna"
+                }, 
+                {
+                    "hash": "0242830bee6beaeaf5257d826006da24b2d1d45d", 
+                    "title": "DropBox Metadata: fix SiStripApvGain and add SiStripApvGainRcdAAG_multirun", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19386", 
+                    "number": "19386", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "franzoni"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 4, 
+                        "ignoreWarning": 26
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 74, 
+                        "ignoreWarning": 1572
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 7, 
+                        "ignoreWarning": 3
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-22-1100-->CMSSW_9_2_ROOT6_X_2017-06-22-2300", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-22-1100/slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-22-2300/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-22-2300/slc6_amd64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1777, 
+                        "known_failed": 0, 
+                        "num_failed": 4
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1680, 
+                        "known_failed": 33, 
+                        "num_failed": 1
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/thu/9.2.ROOT6-thu-23/CMSSW_9_2_ROOT6_X_2017-06-22-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1677, 
+                        "known_failed": 33, 
+                        "num_failed": 2
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-22-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "a72903d799e3d23b017bab0e41295d397b3f43a3", 
+                    "title": "Fix || operator usage in conditional statements", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19231", 
+                    "number": "19231", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlt"
+                }, 
+                {
+                    "hash": "bb3433decefafa4594d367b7838edce231fcb417", 
+                    "title": "New feature in ME0 simulation: ME0PadDigiCluster", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19254", 
+                    "number": "19254", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "dildick"
+                }, 
+                {
+                    "hash": "a3535370a8c557052a95330f2ab3a738ddaf9317", 
+                    "title": "Remove tracker subdetector DetId in some Reco/Geometry ES products", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19376", 
+                    "number": "19376", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "pieterdavid"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-11/CMSSW_9_2_ROOT6_X_2017-06-23-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-11/CMSSW_9_2_ROOT6_X_2017-06-23-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 13, 
+                        "ignoreWarning": 326
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-22-2300-->CMSSW_9_2_ROOT6_X_2017-06-23-1100", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-11/CMSSW_9_2_ROOT6_X_2017-06-23-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "4"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-22-1100/slc7_aarch64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-11/CMSSW_9_2_ROOT6_X_2017-06-23-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1680, 
+                        "known_failed": 33, 
+                        "num_failed": 1
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-23-1100", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "876f86c6dc4a5279f12bb78eb2668e45348fe1c9", 
+                    "title": "Run2-hx136 To enable access front layer position", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19256", 
+                    "number": "19256", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
+                }, 
+                {
+                    "hash": "b45cb0a270b72d951bff4906476fc3123fc713cd", 
+                    "title": "making EgammaHLTPixelMatchVarProducer thread safe", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19410", 
+                    "number": "19410", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Sam-Harper"
+                }, 
+                {
+                    "hash": "c49f045f3f81f0d61fa0ff725bdca25ebf19319a", 
+                    "title": "Allow specifying split level on a per branch basis", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19408", 
+                    "number": "19408", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Dr15Jones"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 4, 
+                        "ignoreWarning": 26
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 74, 
+                        "ignoreWarning": 1572
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 71, 
+                        "ignoreWarning": 1572
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-23-1100-->CMSSW_9_2_ROOT6_X_2017-06-23-2300", 
+            "dqm_tests": "found", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-23-2300/slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-23-2300/slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-23-2300/slc6_amd64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1640, 
+                        "known_failed": 0, 
+                        "num_failed": 68
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1543, 
+                        "known_failed": 33, 
+                        "num_failed": 66
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/fri/9.2.ROOT6-fri-23/CMSSW_9_2_ROOT6_X_2017-06-23-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1354, 
+                        "known_failed": 33, 
+                        "num_failed": 153
+                    }
+                }
+            ], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-23-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700", 
+                "slc6_amd64_gcc530", 
+                "slc6_amd64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "89b8005b1959552a1aa1925062fc20daeb0cab62", 
+                    "title": "Displaced SUSY Trigger Offline Monitoring for 2017", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19257", 
+                    "number": "19257", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "lantone"
+                }, 
+                {
+                    "hash": "90f4a04821a6cb5f6299840ac7358851ca655a74", 
+                    "title": "adding a simple track cut to all plugins using tracking", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19194", 
+                    "number": "19194", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fioriNTU"
+                }, 
+                {
+                    "hash": "992062197f699fefd27f748bfec848e606568aba", 
+                    "title": "update GT for online DQM to v4", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19301", 
+                    "number": "19301", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "threus"
+                }, 
+                {
+                    "hash": "e9533a7ac794a7b43d686e174ceb54554345effe", 
+                    "title": "Pr92x L1T Calo (EG, MET, Tau)  2017 emulation of startup (up to l1t integration v95.15)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19310", 
+                    "number": "19310", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-l1t-offline"
+                }, 
+                {
+                    "hash": "5dbe9be1ac5222df366dcd98b9d77ad8590c59bd", 
+                    "title": "quiet noisy module : hltBtagTriggerSelection  ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19411", 
+                    "number": "19411", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlange6"
+                }, 
+                {
+                    "hash": "7de94d0f690f7aaca6787b0d32497caae0662a97", 
+                    "title": "Fixing the statistics for MultiRunHarvesting", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19400", 
+                    "number": "19400", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "dimattia"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-23-2300-->CMSSW_9_2_ROOT6_X", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {}, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": false, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "02debae949d2cbdf99aa97625d7d56ec6c5990b1", 
+                    "title": "Remove stage2 modules from Legacy L1Trigger DQMOffline Sequence", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19389", 
+                    "number": "19389", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "z4027163"
+                }, 
+                {
+                    "hash": "f48928fa2cca66532a45babe00bff12d273b673f", 
+                    "title": "add offline DQM for NoBPTX EXO triggers", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18950", 
+                    "number": "18950", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jalimena"
+                }, 
+                {
+                    "hash": "d29497908ea5453cb7a24c93ce40743d1923a223", 
+                    "title": "[92X] Add Payload Inspector classes for SiStripApvGains", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19193", 
+                    "number": "19193", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "6b8c96e97cc34b261cb908eba92ba04f0efb17ef", 
+                    "title": "[92X] Adding the DQMEventInfo module in SiStripGains and SiPixelAli PCL sequences", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19385", 
+                    "number": "19385", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "578f70885361dbd498b59b5b6af1a0d827355484", 
+                    "title": "Assert if formula is missing in PF calib ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19420", 
+                    "number": "19420", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlange6"
+                }, 
+                {
+                    "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
+                    "title": "Revert \"adding a simple track cut to all plugins using tracking\"", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19422", 
+                    "number": "19422", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-sw"
+                }, 
+                {
+                    "hash": "155714f2eec1c06d98c9cdd6c846ddee197472e1", 
+                    "title": "OnlineDQM : Tune L1T Muon Mismatch Ratio QTs", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19311", 
+                    "number": "19311", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "stahlleiton"
+                }
+            ], 
+            "fwlite": []
+        }
+    ]
+}

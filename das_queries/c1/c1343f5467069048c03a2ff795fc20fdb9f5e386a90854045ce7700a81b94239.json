@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "files_via_dataset",
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.0190720558167,
+  "data": [
+    {
+      "_id": "594ebb07f4e3130af151162f",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331931.4193261,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331911.4193389
+      },
+      "das_id": [
+        "594ebb01f4e3130af15115c5",
+        "594ebb01f4e3130af15115cb",
+        "594ebb01f4e3130af15115c8"
+      ],
+      "file": [],
+      "qhash": "bf763a4a890821d74089c5b576f7de28"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValTTbar/CMSSW_5_2_1-START52_V4_FastSim-v1/GEN-SIM-DIGI-RECO"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331913.6800001
+}

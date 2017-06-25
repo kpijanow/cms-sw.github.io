@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.018929958343499999,
+  "data": [
+    {
+      "_id": "594ebaad4bf01c0259a8fd1e",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331841.4030991,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331821.403111
+      },
+      "das_id": [
+        "594ebaa64bf01c0259a8fcb3",
+        "594ebaa64bf01c0259a8fcb0",
+        "594ebaa64bf01c0259a8fcad"
+      ],
+      "file": [],
+      "qhash": "5bdc319af5457850a423ce650aba87af"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValTTbar/CMSSW_5_2_1-START52_V4-v1/GEN-SIM-DIGI-RAW-HLTDEBUG"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331823.25
+}

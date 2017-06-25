@@ -1,0 +1,731 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.12165212631199999,
+  "data": [
+    {
+      "_id": "594c1c104bf01c2a8c53c752",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c71c",
+        "594c1c104bf01c2a8c53c72e"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/123EACCF-F5B6-E411-9A35-0025905A48E4.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/123EACCF-F5B6-E411-9A35-0025905A48E4.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c751",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c72c",
+        "594c1c104bf01c2a8c53c713"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/2AC9BC04-F4B6-E411-99A2-0025905A48BC.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/2AC9BC04-F4B6-E411-99A2-0025905A48BC.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c750",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c71d",
+        "594c1c104bf01c2a8c53c738"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/32BCA4F5-10B7-E411-9EEA-003048FFCC0A.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/32BCA4F5-10B7-E411-9EEA-003048FFCC0A.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c74f",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c712",
+        "594c1c104bf01c2a8c53c732"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/5AFF5A25-F7B6-E411-91DD-0025905A60D0.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/5AFF5A25-F7B6-E411-91DD-0025905A60D0.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c74e",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c730",
+        "594c1c104bf01c2a8c53c71b"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/66611757-F5B6-E411-950E-0025905938AA.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/66611757-F5B6-E411-950E-0025905938AA.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c74d",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c72b",
+        "594c1c104bf01c2a8c53c715"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/72234903-F4B6-E411-97DC-003048FFCBA4.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/72234903-F4B6-E411-97DC-003048FFCBA4.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c74c",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c714",
+        "594c1c104bf01c2a8c53c736"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/78694038-F9B6-E411-99B0-0025905A6066.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/78694038-F9B6-E411-99B0-0025905A6066.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c74b",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c71e",
+        "594c1c104bf01c2a8c53c731"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/7E63F9D2-F5B6-E411-9460-0025905A48BB.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/7E63F9D2-F5B6-E411-9460-0025905A48BB.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c74a",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c71a",
+        "594c1c104bf01c2a8c53c72d"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/88A93C05-F4B6-E411-B0FB-0025905A608A.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/88A93C05-F4B6-E411-B0FB-0025905A608A.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c749",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c737",
+        "594c1c104bf01c2a8c53c718"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/D457CAEC-10B7-E411-A95F-0026189438DD.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/D457CAEC-10B7-E411-A95F-0026189438DD.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c748",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c716",
+        "594c1c104bf01c2a8c53c72f"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/E69F1658-F5B6-E411-BF4E-003048FFD728.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/E69F1658-F5B6-E411-BF4E-003048FFD728.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c747",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c735",
+        "594c1c104bf01c2a8c53c717"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/E8880B38-F9B6-E411-AF20-0025905A6118.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/E8880B38-F9B6-E411-AF20-0025905A6118.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c746",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c719",
+        "594c1c104bf01c2a8c53c733"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/F49E8D53-F8B6-E411-9AFD-0025905A607A.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/F49E8D53-F8B6-E411-9AFD-0025905A607A.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    },
+    {
+      "_id": "594c1c104bf01c2a8c53c745",
+      "cache_id": [
+        "594c1c104bf01c2a8c53c734",
+        "594c1c104bf01c2a8c53c711"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160444,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160144.7858479
+      },
+      "das_id": [
+        "594c1c104bf01c2a8c53c6da",
+        "594c1c104bf01c2a8c53c6d5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/F8BC9051-F8B6-E411-A93C-003048FFCBA8.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_1_14/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/MCRUN2_71_V1-v1/00000/F8BC9051-F8B6-E411-A93C-003048FFCBA8.root"
+        }
+      ],
+      "qhash": "1686f8befc3630c8e979074103c9cf37"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValQCD_FlatPt_15_3000HS_13/CMSSW_7_1_14-MCRUN2_71_V1-v1/GEN-SIM"
+    }
+  },
+  "nresults": 14,
+  "status": "ok",
+  "timestamp": 1498160146.01
+}

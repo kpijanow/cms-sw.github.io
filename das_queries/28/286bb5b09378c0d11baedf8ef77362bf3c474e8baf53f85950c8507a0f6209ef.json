@@ -1,0 +1,4778 @@
+{
+  "apilist": [
+    "files4dataset_runs_site",
+    "das_core"
+  ],
+  "ctime": 0.12770509719799999,
+  "data": [
+    {
+      "_id": "594c229af4e313359937311a",
+      "cache_id": [
+        "594c2299f4e3133599372ff8",
+        "594c2299f4e3133599372ff3",
+        "594c2299f4e3133599372ff2",
+        "594c2299f4e3133599372ff7",
+        "594c2299f4e3133599372ff6",
+        "594c2299f4e3133599372ff5",
+        "594c2299f4e3133599372ff4"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/04EB1882-CF3A-E211-B575-0030486780EC.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373119",
+      "cache_id": [
+        "594c229af4e31335993730e6",
+        "594c229af4e31335993730e5",
+        "594c229af4e31335993730e4",
+        "594c229af4e31335993730e3",
+        "594c229af4e31335993730e2",
+        "594c229af4e31335993730e1",
+        "594c229af4e31335993730e0"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/0C3E8A07-E23A-E211-95F2-003048D374CA.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373118",
+      "cache_id": [
+        "594c2299f4e3133599373048",
+        "594c2299f4e3133599373049",
+        "594c2299f4e3133599373046",
+        "594c2299f4e3133599373047",
+        "594c2299f4e313359937304a",
+        "594c2299f4e313359937304b",
+        "594c2299f4e313359937304c"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/143EE90D-B63A-E211-B128-BCAEC5329703.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373117",
+      "cache_id": [
+        "594c2299f4e3133599372fcd",
+        "594c2299f4e3133599372fce",
+        "594c2299f4e3133599372fca",
+        "594c2299f4e3133599372fcb",
+        "594c2299f4e3133599372fcc",
+        "594c2299f4e3133599372fc8",
+        "594c2299f4e3133599372fc9"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/1E6C523C-D73A-E211-9AA9-003048F117B4.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373116",
+      "cache_id": [
+        "594c2299f4e31335993730ca",
+        "594c2299f4e31335993730c9",
+        "594c2299f4e31335993730c8",
+        "594c2299f4e31335993730c5",
+        "594c2299f4e31335993730c4",
+        "594c2299f4e31335993730c7",
+        "594c2299f4e31335993730c6"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/229FB1DA-AC3A-E211-AE35-00215AEDFD74.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373115",
+      "cache_id": [
+        "594c2299f4e3133599373088",
+        "594c2299f4e3133599373089",
+        "594c2299f4e3133599373085",
+        "594c2299f4e3133599373086",
+        "594c2299f4e3133599373087",
+        "594c2299f4e313359937308a",
+        "594c2299f4e313359937308b"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/2C000A36-AC3A-E211-8314-001D09F27003.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373114",
+      "cache_id": [
+        "594c2299f4e3133599373031",
+        "594c2299f4e3133599373033",
+        "594c2299f4e3133599373032",
+        "594c2299f4e3133599373035",
+        "594c2299f4e3133599373034",
+        "594c2299f4e3133599373037",
+        "594c2299f4e3133599373036"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/305FE930-C93A-E211-871B-001D09F23174.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373113",
+      "cache_id": [
+        "594c2299f4e313359937302f",
+        "594c2299f4e313359937302d",
+        "594c2299f4e313359937302e",
+        "594c2299f4e313359937302b",
+        "594c2299f4e313359937302c",
+        "594c2299f4e313359937302a",
+        "594c2299f4e3133599373030"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/3E11E5FF-DE3A-E211-A86C-001D09F2305C.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373112",
+      "cache_id": [
+        "594c2299f4e3133599372fef",
+        "594c2299f4e3133599372fed",
+        "594c2299f4e3133599372fee",
+        "594c2299f4e3133599372feb",
+        "594c2299f4e3133599372fec",
+        "594c2299f4e3133599372ff1",
+        "594c2299f4e3133599372ff0"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/44B9D9B8-D33A-E211-AECB-001D09F24FBA.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373111",
+      "cache_id": [
+        "594c2299f4e3133599373099",
+        "594c2299f4e3133599373098",
+        "594c2299f4e3133599373093",
+        "594c2299f4e3133599373097",
+        "594c2299f4e3133599373096",
+        "594c2299f4e3133599373095",
+        "594c2299f4e3133599373094"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/52D600B5-A33A-E211-8979-003048F11112.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373110",
+      "cache_id": [
+        "594c2299f4e31335993730a3",
+        "594c2299f4e31335993730a2",
+        "594c2299f4e31335993730a1",
+        "594c2299f4e31335993730a7",
+        "594c2299f4e31335993730a6",
+        "594c2299f4e31335993730a5",
+        "594c2299f4e31335993730a4"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/56D134D1-C23A-E211-9BBF-001D09F23F2A.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e313359937310f",
+      "cache_id": [
+        "594c2299f4e3133599373026",
+        "594c2299f4e3133599373027",
+        "594c2299f4e3133599373024",
+        "594c2299f4e3133599373025",
+        "594c2299f4e3133599373023",
+        "594c2299f4e3133599373028",
+        "594c2299f4e3133599373029"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/584F88F8-AE3A-E211-885B-BCAEC5329701.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e313359937310e",
+      "cache_id": [
+        "594c2299f4e3133599373053",
+        "594c2299f4e3133599373052",
+        "594c2299f4e3133599373051",
+        "594c2299f4e3133599373050",
+        "594c2299f4e313359937304d",
+        "594c2299f4e313359937304e",
+        "594c2299f4e313359937304f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5A24C48F-BE3A-E211-A089-003048D2BA82.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e313359937310d",
+      "cache_id": [
+        "594c2299f4e313359937300e",
+        "594c2299f4e313359937300f",
+        "594c2299f4e3133599373013",
+        "594c2299f4e3133599373012",
+        "594c2299f4e3133599373011",
+        "594c2299f4e3133599373010",
+        "594c2299f4e3133599373014"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AB7414B-A23A-E211-9565-0025901D631E.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e313359937310c",
+      "cache_id": [
+        "594c2299f4e3133599372fc4",
+        "594c2299f4e3133599372fc5",
+        "594c2299f4e3133599372fc6",
+        "594c2299f4e3133599372fc7",
+        "594c2299f4e3133599372fc1",
+        "594c2299f4e3133599372fc2",
+        "594c2299f4e3133599372fc3"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5AF38E1E-E63A-E211-A7B2-003048D2BD28.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e313359937310b",
+      "cache_id": [
+        "594c2299f4e31335993730b4",
+        "594c2299f4e31335993730b5",
+        "594c2299f4e31335993730b2",
+        "594c2299f4e31335993730b3",
+        "594c2299f4e31335993730b0",
+        "594c2299f4e31335993730b1",
+        "594c2299f4e31335993730af"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/5E739E1C-A53A-E211-8796-003048D2C16E.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e313359937310a",
+      "cache_id": [
+        "594c2299f4e313359937301c",
+        "594c2299f4e313359937301f",
+        "594c2299f4e313359937301e",
+        "594c2299f4e313359937301d",
+        "594c2299f4e3133599373022",
+        "594c2299f4e3133599373020",
+        "594c2299f4e3133599373021"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/60E7D4A3-A83A-E211-8BDF-001D09F24D8A.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373109",
+      "cache_id": [
+        "594c2299f4e3133599373077",
+        "594c2299f4e3133599373079",
+        "594c2299f4e3133599373078",
+        "594c2299f4e313359937307d",
+        "594c2299f4e313359937307a",
+        "594c2299f4e313359937307c",
+        "594c2299f4e313359937307b"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6250A468-A43A-E211-AA8A-BCAEC518FF63.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373108",
+      "cache_id": [
+        "594c2299f4e3133599372fea",
+        "594c2299f4e3133599372fe8",
+        "594c2299f4e3133599372fe9",
+        "594c2299f4e3133599372fe6",
+        "594c2299f4e3133599372fe7",
+        "594c2299f4e3133599372fe4",
+        "594c2299f4e3133599372fe5"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/6ED2832E-9E3A-E211-8382-5404A63886CF.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373107",
+      "cache_id": [
+        "594c2299f4e3133599373069",
+        "594c2299f4e313359937306b",
+        "594c2299f4e313359937306c",
+        "594c2299f4e313359937306a",
+        "594c2299f4e313359937306f",
+        "594c2299f4e313359937306d",
+        "594c2299f4e313359937306e"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/700F4A40-DC3A-E211-B698-001D09F28E80.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373106",
+      "cache_id": [
+        "594c2299f4e3133599372ffc",
+        "594c2299f4e3133599372ffb",
+        "594c2299f4e3133599372ffa",
+        "594c2299f4e3133599372fff",
+        "594c2299f4e3133599372ffe",
+        "594c2299f4e3133599372ffd",
+        "594c2299f4e3133599372ff9"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/72848E81-B23A-E211-90A8-BCAEC5329713.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373105",
+      "cache_id": [
+        "594c229af4e31335993730d9",
+        "594c229af4e31335993730dd",
+        "594c229af4e31335993730de",
+        "594c229af4e31335993730df",
+        "594c229af4e31335993730da",
+        "594c229af4e31335993730db",
+        "594c229af4e31335993730dc"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/783F3A5D-B53A-E211-8F4A-001D09F24D4E.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373104",
+      "cache_id": [
+        "594c2299f4e3133599373059",
+        "594c2299f4e3133599373058",
+        "594c2299f4e3133599373057",
+        "594c2299f4e3133599373056",
+        "594c2299f4e3133599373055",
+        "594c2299f4e3133599373054",
+        "594c2299f4e313359937305a"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/78BBAC65-CD3A-E211-9CC5-5404A6388694.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373103",
+      "cache_id": [
+        "594c2299f4e31335993730b6",
+        "594c2299f4e31335993730b7",
+        "594c2299f4e31335993730b8",
+        "594c2299f4e31335993730b9",
+        "594c2299f4e31335993730bb",
+        "594c2299f4e31335993730bc",
+        "594c2299f4e31335993730ba"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/7AD1C382-9F3A-E211-85A2-5404A63886EF.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373102",
+      "cache_id": [
+        "594c2299f4e3133599373080",
+        "594c2299f4e3133599373081",
+        "594c2299f4e3133599373082",
+        "594c2299f4e3133599373083",
+        "594c2299f4e3133599373084",
+        "594c2299f4e313359937307e",
+        "594c2299f4e313359937307f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/82AC19A3-B93A-E211-94E1-E0CB4E55365D.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373101",
+      "cache_id": [
+        "594c229af4e31335993730d0",
+        "594c229af4e31335993730d1",
+        "594c229af4e31335993730cc",
+        "594c229af4e31335993730cb",
+        "594c229af4e31335993730ce",
+        "594c229af4e31335993730cd",
+        "594c229af4e31335993730cf"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/843D8BF4-B33A-E211-A4C9-003048F11CF0.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e3133599373100",
+      "cache_id": [
+        "594c2299f4e3133599373075",
+        "594c2299f4e3133599373074",
+        "594c2299f4e3133599373076",
+        "594c2299f4e3133599373071",
+        "594c2299f4e3133599373070",
+        "594c2299f4e3133599373073",
+        "594c2299f4e3133599373072"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/8E7770CA-AA3A-E211-A283-003048D3C980.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730ff",
+      "cache_id": [
+        "594c2299f4e3133599373092",
+        "594c2299f4e3133599373091",
+        "594c2299f4e3133599373090",
+        "594c2299f4e313359937308c",
+        "594c2299f4e313359937308d",
+        "594c2299f4e313359937308e",
+        "594c2299f4e313359937308f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/90AD2841-CB3A-E211-B0A9-003048D2BE06.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730fe",
+      "cache_id": [
+        "594c2299f4e31335993730a9",
+        "594c2299f4e31335993730a8",
+        "594c2299f4e31335993730ac",
+        "594c2299f4e31335993730ab",
+        "594c2299f4e31335993730aa",
+        "594c2299f4e31335993730ae",
+        "594c2299f4e31335993730ad"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9289C888-A63A-E211-A103-BCAEC5364C62.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730fd",
+      "cache_id": [
+        "594c2299f4e3133599373060",
+        "594c2299f4e3133599373061",
+        "594c2299f4e313359937305f",
+        "594c2299f4e313359937305e",
+        "594c2299f4e313359937305d",
+        "594c2299f4e313359937305c",
+        "594c2299f4e313359937305b"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/92FCEC33-A03A-E211-AE83-5404A63886E6.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730fc",
+      "cache_id": [
+        "594c2299f4e313359937300a",
+        "594c2299f4e313359937300b",
+        "594c2299f4e313359937300c",
+        "594c2299f4e313359937300d",
+        "594c2299f4e3133599373007",
+        "594c2299f4e3133599373008",
+        "594c2299f4e3133599373009"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9CECC595-C53A-E211-88DD-001D09F2A465.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730fb",
+      "cache_id": [
+        "594c2299f4e313359937301b",
+        "594c2299f4e313359937301a",
+        "594c2299f4e3133599373017",
+        "594c2299f4e3133599373016",
+        "594c2299f4e3133599373015",
+        "594c2299f4e3133599373019",
+        "594c2299f4e3133599373018"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/9EAFB9B9-BB3A-E211-AEA3-003048673374.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730fa",
+      "cache_id": [
+        "594c2299f4e3133599372fcf",
+        "594c2299f4e3133599372fd1",
+        "594c2299f4e3133599372fd0",
+        "594c2299f4e3133599372fd3",
+        "594c2299f4e3133599372fd2",
+        "594c2299f4e3133599372fd5",
+        "594c2299f4e3133599372fd4"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A0591C60-D93A-E211-8104-001D09F297EF.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f9",
+      "cache_id": [
+        "594c2299f4e31335993730a0",
+        "594c2299f4e313359937309c",
+        "594c2299f4e313359937309b",
+        "594c2299f4e313359937309a",
+        "594c2299f4e313359937309f",
+        "594c2299f4e313359937309e",
+        "594c2299f4e313359937309d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A2F0372D-9E3A-E211-9640-003048F24A04.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f8",
+      "cache_id": [
+        "594c2299f4e3133599373044",
+        "594c2299f4e3133599373045",
+        "594c2299f4e3133599373040",
+        "594c2299f4e3133599373041",
+        "594c2299f4e3133599373042",
+        "594c2299f4e3133599373043",
+        "594c2299f4e313359937303f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/A83ED4A1-C03A-E211-BE8A-001D09F26509.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f7",
+      "cache_id": [
+        "594c2299f4e31335993730bf",
+        "594c2299f4e31335993730bd",
+        "594c2299f4e31335993730be",
+        "594c2299f4e31335993730c1",
+        "594c2299f4e31335993730c0",
+        "594c2299f4e31335993730c3",
+        "594c2299f4e31335993730c2"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B2A3102C-B83A-E211-9072-003048F11DE2.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f6",
+      "cache_id": [
+        "594c2299f4e3133599373000",
+        "594c2299f4e3133599373001",
+        "594c2299f4e3133599373002",
+        "594c2299f4e3133599373003",
+        "594c2299f4e3133599373004",
+        "594c2299f4e3133599373005",
+        "594c2299f4e3133599373006"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/B4F709F2-A73A-E211-8AD1-BCAEC532970F.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f5",
+      "cache_id": [
+        "594c2299f4e3133599373062",
+        "594c2299f4e3133599373063",
+        "594c2299f4e3133599373066",
+        "594c2299f4e3133599373067",
+        "594c2299f4e3133599373064",
+        "594c2299f4e3133599373065",
+        "594c2299f4e3133599373068"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/BC348D13-AA3A-E211-BEB9-003048D2BC62.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f4",
+      "cache_id": [
+        "594c2299f4e3133599372fda",
+        "594c2299f4e3133599372fdc",
+        "594c2299f4e3133599372fdb",
+        "594c2299f4e3133599372fd7",
+        "594c2299f4e3133599372fd6",
+        "594c2299f4e3133599372fd9",
+        "594c2299f4e3133599372fd8"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/CAB1039F-D13A-E211-B862-0019B9F72F97.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f3",
+      "cache_id": [
+        "594c2299f4e3133599372fde",
+        "594c2299f4e3133599372fdd",
+        "594c2299f4e3133599372fdf",
+        "594c2299f4e3133599372fe2",
+        "594c2299f4e3133599372fe3",
+        "594c2299f4e3133599372fe0",
+        "594c2299f4e3133599372fe1"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/D8927B33-BD3A-E211-AA03-002481E0E56C.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f2",
+      "cache_id": [
+        "594c2299f4e3133599373039",
+        "594c2299f4e3133599373038",
+        "594c2299f4e313359937303a",
+        "594c2299f4e313359937303c",
+        "594c2299f4e313359937303b",
+        "594c2299f4e313359937303e",
+        "594c2299f4e313359937303d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/F298890A-C73A-E211-8175-5404A63886C3.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    },
+    {
+      "_id": "594c229af4e31335993730f1",
+      "cache_id": [
+        "594c229af4e31335993730d4",
+        "594c229af4e31335993730d5",
+        "594c229af4e31335993730d6",
+        "594c229af4e31335993730d7",
+        "594c229af4e31335993730d2",
+        "594c229af4e31335993730d3",
+        "594c229af4e31335993730d8"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161933,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161818.7637451
+      },
+      "das_id": [
+        "594c2295f4e3133599372faf"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        },
+        {
+          "name": "/store/data/Run2012D/JetHT/RAW/v1/000/208/307/FC358E61-B03A-E211-9995-0025901D623C.root"
+        }
+      ],
+      "qhash": "f15deac3c9ecc9c70ea2153c36133638"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/JetHT/Run2012D-v1/RAW",
+      "run.run_number": 208307,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 42,
+  "status": "ok",
+  "timestamp": 1498161822.26
+}

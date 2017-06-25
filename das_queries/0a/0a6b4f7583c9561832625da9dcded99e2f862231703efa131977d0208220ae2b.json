@@ -1,0 +1,148 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.033818006515500001,
+  "data": [
+    {
+      "_id": "594acbb54bf01c21961cd647",
+      "cache_id": [
+        "594acbb54bf01c21961cd637"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074337,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498074037.4136109
+      },
+      "das_id": [
+        "594acbb44bf01c21961cd626"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre7/RelValQCD_Pt_80_120/GEN-SIM/PRE_STA71_V3-v1/00000/7871FE30-5DD1-E311-B535-0025905A48B2.root"
+        }
+      ],
+      "qhash": "e996a5b7381a192816695a48c7e5e6d7"
+    },
+    {
+      "_id": "594acbb54bf01c21961cd646",
+      "cache_id": [
+        "594acbb54bf01c21961cd638"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074337,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498074037.4136109
+      },
+      "das_id": [
+        "594acbb44bf01c21961cd626"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre7/RelValQCD_Pt_80_120/GEN-SIM/PRE_STA71_V3-v1/00000/BC9F1B9D-2AD1-E311-BE51-0025905A48B2.root"
+        }
+      ],
+      "qhash": "e996a5b7381a192816695a48c7e5e6d7"
+    },
+    {
+      "_id": "594acbb54bf01c21961cd645",
+      "cache_id": [
+        "594acbb54bf01c21961cd636"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498074337,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498074037.4136109
+      },
+      "das_id": [
+        "594acbb44bf01c21961cd626"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre7/RelValQCD_Pt_80_120/GEN-SIM/PRE_STA71_V3-v1/00000/C820F13B-2ED1-E311-9DBB-002618943947.root"
+        }
+      ],
+      "qhash": "e996a5b7381a192816695a48c7e5e6d7"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValQCD_Pt_80_120/CMSSW_7_1_0_pre7-PRE_STA71_V3-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 3,
+  "status": "ok",
+  "timestamp": 1498074040.03
+}

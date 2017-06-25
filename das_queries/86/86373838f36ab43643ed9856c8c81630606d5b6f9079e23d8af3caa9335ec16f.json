@@ -1,0 +1,3083 @@
+{
+  "apilist": [
+    "das_core",
+    "files4block_runs_site"
+  ],
+  "ctime": 0.36635303497299998,
+  "data": [
+    {
+      "_id": "594ac9bcf4e3136f27f144e4",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14486",
+        "594ac9bcf4e3136f27f14487",
+        "594ac9bcf4e3136f27f14488",
+        "594ac9bcf4e3136f27f14489",
+        "594ac9bcf4e3136f27f1448b",
+        "594ac9bcf4e3136f27f1448c",
+        "594ac9bcf4e3136f27f1448a"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/065CC727-800F-E111-B1A6-002618943986.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144e3",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14476",
+        "594ac9bcf4e3136f27f14475",
+        "594ac9bcf4e3136f27f14474",
+        "594ac9bcf4e3136f27f14473",
+        "594ac9bcf4e3136f27f14472",
+        "594ac9bcf4e3136f27f14471",
+        "594ac9bcf4e3136f27f14470"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/203B0788-730F-E111-A952-001A92971BDC.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144e2",
+      "cache_id": [
+        "594ac9bcf4e3136f27f143f5",
+        "594ac9bcf4e3136f27f143f4",
+        "594ac9bcf4e3136f27f143f3",
+        "594ac9bcf4e3136f27f143f2",
+        "594ac9bcf4e3136f27f143f1",
+        "594ac9bcf4e3136f27f143f0",
+        "594ac9bcf4e3136f27f143ef"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/26465E00-750F-E111-9865-001A9281173A.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144e1",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1447f",
+        "594ac9bcf4e3136f27f1447e",
+        "594ac9bcf4e3136f27f14485",
+        "594ac9bcf4e3136f27f14482",
+        "594ac9bcf4e3136f27f14483",
+        "594ac9bcf4e3136f27f14480",
+        "594ac9bcf4e3136f27f14481"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E544BAA-710F-E111-B4D1-002618943947.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144e0",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1449a",
+        "594ac9bcf4e3136f27f14499",
+        "594ac9bcf4e3136f27f14498",
+        "594ac9bcf4e3136f27f14495",
+        "594ac9bcf4e3136f27f14494",
+        "594ac9bcf4e3136f27f14497",
+        "594ac9bcf4e3136f27f14496"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/3E609556-6A0F-E111-B628-003048679248.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144df",
+      "cache_id": [
+        "594ac9bcf4e3136f27f143e8",
+        "594ac9bcf4e3136f27f143e9",
+        "594ac9bcf4e3136f27f143eb",
+        "594ac9bcf4e3136f27f143ec",
+        "594ac9bcf4e3136f27f143ea",
+        "594ac9bcf4e3136f27f143ed",
+        "594ac9bcf4e3136f27f143ee"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4286018B-720F-E111-8D4A-003048678A7E.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144de",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1443c",
+        "594ac9bcf4e3136f27f1443b",
+        "594ac9bcf4e3136f27f1443a",
+        "594ac9bcf4e3136f27f14439",
+        "594ac9bcf4e3136f27f14438",
+        "594ac9bcf4e3136f27f14437",
+        "594ac9bcf4e3136f27f14436"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4463E08D-750F-E111-A5E9-003048678B8E.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144dd",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1442f",
+        "594ac9bcf4e3136f27f14433",
+        "594ac9bcf4e3136f27f14432",
+        "594ac9bcf4e3136f27f14431",
+        "594ac9bcf4e3136f27f14430",
+        "594ac9bcf4e3136f27f14435",
+        "594ac9bcf4e3136f27f14434"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/48B9368F-6E0F-E111-99BE-002618943953.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144dc",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14464",
+        "594ac9bcf4e3136f27f14465",
+        "594ac9bcf4e3136f27f14466",
+        "594ac9bcf4e3136f27f14467",
+        "594ac9bcf4e3136f27f14462",
+        "594ac9bcf4e3136f27f14463",
+        "594ac9bcf4e3136f27f14468"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/4E26679D-7B0F-E111-8229-0026189437FD.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144db",
+      "cache_id": [
+        "594ac9bcf4e3136f27f144a1",
+        "594ac9bcf4e3136f27f144a0",
+        "594ac9bcf4e3136f27f144a2",
+        "594ac9bcf4e3136f27f1449c",
+        "594ac9bcf4e3136f27f1449e",
+        "594ac9bcf4e3136f27f1449d",
+        "594ac9bcf4e3136f27f1449f"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/50352BAD-690F-E111-A008-00304867901A.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144da",
+      "cache_id": [
+        "594ac9bcf4e3136f27f143ff",
+        "594ac9bcf4e3136f27f143fe",
+        "594ac9bcf4e3136f27f143fd",
+        "594ac9bcf4e3136f27f14402",
+        "594ac9bcf4e3136f27f14403",
+        "594ac9bcf4e3136f27f14400",
+        "594ac9bcf4e3136f27f14401"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/562375D1-6B0F-E111-AB2B-0026189438F2.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d9",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1448f",
+        "594ac9bcf4e3136f27f1448d",
+        "594ac9bcf4e3136f27f1448e",
+        "594ac9bcf4e3136f27f14491",
+        "594ac9bcf4e3136f27f14490",
+        "594ac9bcf4e3136f27f14493",
+        "594ac9bcf4e3136f27f14492"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/56E209F9-680F-E111-AB7F-001A928116C6.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d8",
+      "cache_id": [
+        "594ac9bcf4e3136f27f143fc",
+        "594ac9bcf4e3136f27f143fb",
+        "594ac9bcf4e3136f27f143fa",
+        "594ac9bcf4e3136f27f143f7",
+        "594ac9bcf4e3136f27f143f6",
+        "594ac9bcf4e3136f27f143f9",
+        "594ac9bcf4e3136f27f143f8"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/609F8920-730F-E111-A5C6-00261894396E.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d6",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14442",
+        "594ac9bcf4e3136f27f14443",
+        "594ac9bcf4e3136f27f14440",
+        "594ac9bcf4e3136f27f14441",
+        "594ac9bcf4e3136f27f1443f",
+        "594ac9bcf4e3136f27f1443e",
+        "594ac9bcf4e3136f27f1443d"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/78AA6033-700F-E111-8BCD-0018F3D096F6.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d5",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1440b",
+        "594ac9bcf4e3136f27f1440a",
+        "594ac9bcf4e3136f27f14408",
+        "594ac9bcf4e3136f27f14409",
+        "594ac9bcf4e3136f27f14406",
+        "594ac9bcf4e3136f27f14407",
+        "594ac9bcf4e3136f27f14405"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E479F1A-7A0F-E111-B6ED-00304867BFC6.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d4",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14413",
+        "594ac9bcf4e3136f27f14415",
+        "594ac9bcf4e3136f27f14414",
+        "594ac9bcf4e3136f27f14417",
+        "594ac9bcf4e3136f27f14416",
+        "594ac9bcf4e3136f27f14419",
+        "594ac9bcf4e3136f27f14418"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/7E8AC1E7-6A0F-E111-8580-0018F3D096DC.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d3",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14451",
+        "594ac9bcf4e3136f27f14450",
+        "594ac9bcf4e3136f27f14452",
+        "594ac9bcf4e3136f27f1444c",
+        "594ac9bcf4e3136f27f1444f",
+        "594ac9bcf4e3136f27f1444d",
+        "594ac9bcf4e3136f27f1444e"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/8CE8F920-740F-E111-8B71-003048F9EB46.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d2",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14421",
+        "594ac9bcf4e3136f27f14422",
+        "594ac9bcf4e3136f27f14423",
+        "594ac9bcf4e3136f27f14424",
+        "594ac9bcf4e3136f27f14425",
+        "594ac9bcf4e3136f27f14426",
+        "594ac9bcf4e3136f27f14427"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/A481E478-6C0F-E111-81FD-001A92810AEE.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d1",
+      "cache_id": [
+        "594ac9bcf4e3136f27f144b0",
+        "594ac9bcf4e3136f27f144aa",
+        "594ac9bcf4e3136f27f144ac",
+        "594ac9bcf4e3136f27f144ab",
+        "594ac9bcf4e3136f27f144ae",
+        "594ac9bcf4e3136f27f144ad",
+        "594ac9bcf4e3136f27f144af"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/CECF1C86-7C0F-E111-8FCE-0026189437ED.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144d0",
+      "cache_id": [
+        "594ac9bcf4e3136f27f144a3",
+        "594ac9bcf4e3136f27f144a5",
+        "594ac9bcf4e3136f27f144a4",
+        "594ac9bcf4e3136f27f144a7",
+        "594ac9bcf4e3136f27f144a6",
+        "594ac9bcf4e3136f27f144a9",
+        "594ac9bcf4e3136f27f144a8"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D06E26CA-6F0F-E111-9133-003048678DD6.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144cf",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14460",
+        "594ac9bcf4e3136f27f14461",
+        "594ac9bcf4e3136f27f1445e",
+        "594ac9bcf4e3136f27f1445d",
+        "594ac9bcf4e3136f27f1445f",
+        "594ac9bcf4e3136f27f1445c",
+        "594ac9bcf4e3136f27f1445b"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D447375F-740F-E111-93CA-00261894395C.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144ce",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1440f",
+        "594ac9bcf4e3136f27f1440d",
+        "594ac9bcf4e3136f27f1440e",
+        "594ac9bcf4e3136f27f1440c",
+        "594ac9bcf4e3136f27f14411",
+        "594ac9bcf4e3136f27f14410",
+        "594ac9bcf4e3136f27f14412"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/D8043C61-A20F-E111-9C54-002618943925.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144cd",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1441a",
+        "594ac9bcf4e3136f27f1441c",
+        "594ac9bcf4e3136f27f1441b",
+        "594ac9bcf4e3136f27f1441e",
+        "594ac9bcf4e3136f27f1441d",
+        "594ac9bcf4e3136f27f1441f",
+        "594ac9bcf4e3136f27f14420"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DC7CC6AC-820F-E111-BBAA-0026189438B0.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144cc",
+      "cache_id": [
+        "594ac9bcf4e3136f27f14459",
+        "594ac9bcf4e3136f27f14458",
+        "594ac9bcf4e3136f27f14455",
+        "594ac9bcf4e3136f27f14454",
+        "594ac9bcf4e3136f27f14457",
+        "594ac9bcf4e3136f27f14456",
+        "594ac9bcf4e3136f27f14453"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/DEBA837F-760F-E111-92EF-0026189438B8.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144cb",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1447d",
+        "594ac9bcf4e3136f27f1447c",
+        "594ac9bcf4e3136f27f1447b",
+        "594ac9bcf4e3136f27f1447a",
+        "594ac9bcf4e3136f27f14477",
+        "594ac9bcf4e3136f27f14479",
+        "594ac9bcf4e3136f27f14478"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/EADC8FB9-700F-E111-A609-002618943978.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144ca",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1442a",
+        "594ac9bcf4e3136f27f1442b",
+        "594ac9bcf4e3136f27f1442c",
+        "594ac9bcf4e3136f27f1442d",
+        "594ac9bcf4e3136f27f1442e",
+        "594ac9bcf4e3136f27f14428",
+        "594ac9bcf4e3136f27f14429"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FA3A6103-790F-E111-A107-002618FDA237.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    },
+    {
+      "_id": "594ac9bcf4e3136f27f144c9",
+      "cache_id": [
+        "594ac9bcf4e3136f27f1446d",
+        "594ac9bcf4e3136f27f1446e",
+        "594ac9bcf4e3136f27f1446f",
+        "594ac9bcf4e3136f27f1446a",
+        "594ac9bcf4e3136f27f1446b",
+        "594ac9bcf4e3136f27f1446c",
+        "594ac9bcf4e3136f27f14469"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498073649,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073532.403234
+      },
+      "das_id": [
+        "594ac9b9f4e3136f27f143c6"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW-RECO/ValSkim-08Nov2011-v1/0000/FC156C3B-720F-E111-9B67-002354EF3BDC.root"
+        }
+      ],
+      "qhash": "e8c3fcb196137c33173c034e69ec83cc"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "block.name": "/MinimumBias/Run2011A-ValSkim-08Nov2011-v1/RAW-RECO#239c497e-0fae-11e1-a8b1-00221959e72f",
+      "run.run_number": 172802,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 27,
+  "status": "ok",
+  "timestamp": 1498073533.73
+}

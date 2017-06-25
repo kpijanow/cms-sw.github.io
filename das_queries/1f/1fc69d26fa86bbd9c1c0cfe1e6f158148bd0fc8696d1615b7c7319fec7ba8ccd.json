@@ -1,0 +1,181 @@
+{
+  "apilist": [
+    "fileReplicas4dataset",
+    "das_core",
+    "files_via_dataset"
+  ],
+  "ctime": 0.40382790565499999,
+  "data": [
+    {
+      "_id": "594aca8af4e3136f27f1fd7b",
+      "cache_id": [
+        "594aca8af4e3136f27f1fd68",
+        "594aca8af4e3136f27f1fd61"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074038,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498073738.453968
+      },
+      "das_id": [
+        "594aca89f4e3136f27f1fd49",
+        "594aca89f4e3136f27f1fd4c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/GEN-SIM-RECO/76X_mcRun2_asymptotic_v12-v1/00000/3EC52475-A29C-E511-A903-0CC47A4D7628.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/GEN-SIM-RECO/76X_mcRun2_asymptotic_v12-v1/00000/3EC52475-A29C-E511-A903-0CC47A4D7628.root"
+        }
+      ],
+      "qhash": "2c82e9e9afd64457d37d16165029bba8"
+    },
+    {
+      "_id": "594aca8af4e3136f27f1fd7a",
+      "cache_id": [
+        "594aca8af4e3136f27f1fd63",
+        "594aca8af4e3136f27f1fd69"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074038,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498073738.453968
+      },
+      "das_id": [
+        "594aca89f4e3136f27f1fd49",
+        "594aca89f4e3136f27f1fd4c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/GEN-SIM-RECO/76X_mcRun2_asymptotic_v12-v1/00000/561F296D-A79C-E511-84D5-0CC47A78A3F8.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/GEN-SIM-RECO/76X_mcRun2_asymptotic_v12-v1/00000/561F296D-A79C-E511-84D5-0CC47A78A3F8.root"
+        }
+      ],
+      "qhash": "2c82e9e9afd64457d37d16165029bba8"
+    },
+    {
+      "_id": "594aca8af4e3136f27f1fd79",
+      "cache_id": [
+        "594aca8af4e3136f27f1fd62",
+        "594aca8af4e3136f27f1fd6a"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074038,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498073738.453968
+      },
+      "das_id": [
+        "594aca89f4e3136f27f1fd49",
+        "594aca89f4e3136f27f1fd4c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/GEN-SIM-RECO/76X_mcRun2_asymptotic_v12-v1/00000/88988816-A39C-E511-9523-0CC47A78A3D8.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_2/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/GEN-SIM-RECO/76X_mcRun2_asymptotic_v12-v1/00000/88988816-A39C-E511-9523-0CC47A78A3D8.root"
+        }
+      ],
+      "qhash": "2c82e9e9afd64457d37d16165029bba8"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValDisplacedSUSY_stopToBottom_M_300_1000mm_13/CMSSW_7_6_2-76X_mcRun2_asymptotic_v12-v1/GEN-SIM-RECO"
+    }
+  },
+  "nresults": 3,
+  "status": "ok",
+  "timestamp": 1498073739.3800001
+}

@@ -1,0 +1,187 @@
+{
+  "apilist": [
+    "das_core",
+    "file4DatasetRunLumi"
+  ],
+  "ctime": 0.038329839706399998,
+  "data": [
+    {
+      "_id": "594acb744bf01c21961cd1c0",
+      "cache_id": [
+        "594acb744bf01c21961cd1b0"
+      ],
+      "das": {
+        "api": [
+          "file4DatasetRunLumi"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "dataset.name"
+        ],
+        "expire": 1498074271,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3"
+        ],
+        "ts": 1498073972.1268201
+      },
+      "das_id": [
+        "594acb734bf01c21961cd19f"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/HLTPhysics/RECO/76X_dataRun2_v15_rerecoGT_RelVal_hltPhy2015B-v1/00000/183B5508-B79C-E511-9D69-0025905A60B0.root"
+        }
+      ],
+      "qhash": "ae2dd6a00cf8d77851d2295ff3072887"
+    },
+    {
+      "_id": "594acb744bf01c21961cd1bf",
+      "cache_id": [
+        "594acb744bf01c21961cd1ad"
+      ],
+      "das": {
+        "api": [
+          "file4DatasetRunLumi"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "dataset.name"
+        ],
+        "expire": 1498074271,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3"
+        ],
+        "ts": 1498073972.1268201
+      },
+      "das_id": [
+        "594acb734bf01c21961cd19f"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/HLTPhysics/RECO/76X_dataRun2_v15_rerecoGT_RelVal_hltPhy2015B-v1/00000/7C1849DE-B09C-E511-A5D3-0CC47A4D7636.root"
+        }
+      ],
+      "qhash": "ae2dd6a00cf8d77851d2295ff3072887"
+    },
+    {
+      "_id": "594acb744bf01c21961cd1be",
+      "cache_id": [
+        "594acb744bf01c21961cd1af"
+      ],
+      "das": {
+        "api": [
+          "file4DatasetRunLumi"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "dataset.name"
+        ],
+        "expire": 1498074271,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3"
+        ],
+        "ts": 1498073972.1268201
+      },
+      "das_id": [
+        "594acb734bf01c21961cd19f"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/HLTPhysics/RECO/76X_dataRun2_v15_rerecoGT_RelVal_hltPhy2015B-v1/00000/E4873312-B69C-E511-88A6-0CC47A78A2EC.root"
+        }
+      ],
+      "qhash": "ae2dd6a00cf8d77851d2295ff3072887"
+    },
+    {
+      "_id": "594acb744bf01c21961cd1bd",
+      "cache_id": [
+        "594acb744bf01c21961cd1ae"
+      ],
+      "das": {
+        "api": [
+          "file4DatasetRunLumi"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "dataset.name"
+        ],
+        "expire": 1498074271,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3"
+        ],
+        "ts": 1498073972.1268201
+      },
+      "das_id": [
+        "594acb734bf01c21961cd19f"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_2/HLTPhysics/RECO/76X_dataRun2_v15_rerecoGT_RelVal_hltPhy2015B-v1/00000/F6D39EDF-B09C-E511-8257-0CC47A4D7678.root"
+        }
+      ],
+      "qhash": "ae2dd6a00cf8d77851d2295ff3072887"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/HLTPhysics/CMSSW_7_6_2-76X_dataRun2_v15_rerecoGT_RelVal_hltPhy2015B-v1/RECO",
+      "run.run_number": 251251
+    }
+  },
+  "nresults": 4,
+  "status": "ok",
+  "timestamp": 1498073972.49
+}

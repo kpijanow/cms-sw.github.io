@@ -1,0 +1,131 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.047798156738299999,
+  "data": [
+    {
+      "_id": "594c1cdef4e313359933e7e4",
+      "cache_id": [
+        "594c1cdef4e313359933e7c8",
+        "594c1cdef4e313359933e7d6"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160650,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160350.3771529
+      },
+      "das_id": [
+        "594c1cdef4e313359933e7b8",
+        "594c1cdef4e313359933e7b5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValBsToMuMu_13/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/60FBC5A8-335C-E511-A158-0025905B85AE.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValBsToMuMu_13/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/60FBC5A8-335C-E511-A158-0025905B85AE.root"
+        }
+      ],
+      "qhash": "86d5572f9759d4c7792aa8d068a62b38"
+    },
+    {
+      "_id": "594c1cdef4e313359933e7e3",
+      "cache_id": [
+        "594c1cdef4e313359933e7c7",
+        "594c1cdef4e313359933e7d5"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498160650,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498160350.3771529
+      },
+      "das_id": [
+        "594c1cdef4e313359933e7b8",
+        "594c1cdef4e313359933e7b5"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValBsToMuMu_13/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/6C363EA8-335C-E511-A8B8-0025905A610C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValBsToMuMu_13/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/6C363EA8-335C-E511-A8B8-0025905A610C.root"
+        }
+      ],
+      "qhash": "86d5572f9759d4c7792aa8d068a62b38"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValBsToMuMu_13/CMSSW_7_4_12-74X_mcRun2_asymptotic_v2-v1/GEN-SIM"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498160351.04
+}

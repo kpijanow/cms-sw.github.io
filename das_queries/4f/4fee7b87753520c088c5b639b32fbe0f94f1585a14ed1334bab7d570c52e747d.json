@@ -1,0 +1,131 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.045666933059700002,
+  "data": [
+    {
+      "_id": "594aca664bf01c21961bd916",
+      "cache_id": [
+        "594aca654bf01c21961bd8f9",
+        "594aca664bf01c21961bd907"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074001,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498073702.130909
+      },
+      "das_id": [
+        "594aca654bf01c21961bd8e7",
+        "594aca654bf01c21961bd8ea"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValCosmicsSPLoose_UP15/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/B4B7BA6F-4D5D-E511-8DD2-0025905A6084.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValCosmicsSPLoose_UP15/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/B4B7BA6F-4D5D-E511-8DD2-0025905A6084.root"
+        }
+      ],
+      "qhash": "e836fa7c0413832617c90583fbec7cd9"
+    },
+    {
+      "_id": "594aca664bf01c21961bd915",
+      "cache_id": [
+        "594aca664bf01c21961bd908",
+        "594aca654bf01c21961bd8fa"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074001,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498073702.130909
+      },
+      "das_id": [
+        "594aca654bf01c21961bd8e7",
+        "594aca654bf01c21961bd8ea"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValCosmicsSPLoose_UP15/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/D44CB16E-4D5D-E511-B202-0026189438E0.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_4_12/RelValCosmicsSPLoose_UP15/GEN-SIM/74X_mcRun2_asymptotic_v2-v1/00000/D44CB16E-4D5D-E511-B202-0026189438E0.root"
+        }
+      ],
+      "qhash": "e836fa7c0413832617c90583fbec7cd9"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValCosmicsSPLoose_UP15/CMSSW_7_4_12-74X_mcRun2_asymptotic_v2-v1/GEN-SIM"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498073702.8199999
+}

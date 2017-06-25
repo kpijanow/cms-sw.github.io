@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.018349170684799999,
+  "data": [
+    {
+      "_id": "594ebc17f4e3130af151225d",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498332203.752306,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498332183.752321
+      },
+      "das_id": [
+        "594ebc11f4e3130af15121ef",
+        "594ebc11f4e3130af15121ec",
+        "594ebc11f4e3130af15121e9"
+      ],
+      "file": [],
+      "qhash": "25a112516b29c43cda5eedae94d63bc3"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValZMM_13_HI/CMSSW_7_4_0_pre7-MCHI2_74_V3-v1/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498332186.04
+}

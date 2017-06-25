@@ -1,0 +1,109 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.039005041122399997,
+  "data": [
+    {
+      "_id": "594c1e65f4e3133599349f31",
+      "cache_id": [
+        "594c1e65f4e3133599349f16"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161041,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160741.996253
+      },
+      "das_id": [
+        "594c1e65f4e3133599349ec3"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_2_3/RelValSingleGammaPt10/GEN-SIM/92X_upgrade2017_realistic_v1_earlyBS2017-v1/10000/9ABF7931-8B4F-E711-9BBF-0CC47A4C8E38.root"
+        }
+      ],
+      "qhash": "b78c30c25f6567934873cf3da09a986c"
+    },
+    {
+      "_id": "594c1e65f4e3133599349f30",
+      "cache_id": [
+        "594c1e65f4e3133599349f15"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498161041,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160741.996253
+      },
+      "das_id": [
+        "594c1e65f4e3133599349ec3"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_2_3/RelValSingleGammaPt10/GEN-SIM/92X_upgrade2017_realistic_v1_earlyBS2017-v1/10000/C6F4443C-8B4F-E711-A539-0CC47A7C34D0.root"
+        }
+      ],
+      "qhash": "b78c30c25f6567934873cf3da09a986c"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleGammaPt10/CMSSW_9_2_3-92X_upgrade2017_realistic_v1_earlyBS2017-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498160742.49
+}

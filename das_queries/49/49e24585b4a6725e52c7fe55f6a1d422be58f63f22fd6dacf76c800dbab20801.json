@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "files_via_dataset",
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.029369115829500001,
+  "data": [
+    {
+      "_id": "594eb8ebf4e3130af1501b15",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331391.9660399,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331371.9660871
+      },
+      "das_id": [
+        "594eb8e5f4e3130af1501ac1",
+        "594eb8e5f4e3130af1501ac7",
+        "594eb8e5f4e3130af1501ac4"
+      ],
+      "file": [],
+      "qhash": "60d1ff1ab915b1ad9f2e00e546ea4e52"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValBsToMuMu_13/CMSSW_7_6_2-76X_mcRun2_asymptotic_v12-v1/GEN-SIM-RECO"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331374.1300001
+}

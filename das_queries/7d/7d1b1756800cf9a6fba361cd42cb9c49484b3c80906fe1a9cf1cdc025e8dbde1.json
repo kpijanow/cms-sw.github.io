@@ -1,0 +1,187 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.035346984863299999,
+  "data": [
+    {
+      "_id": "594c1d7d4bf01c2a8c547329",
+      "cache_id": [
+        "594c1d7d4bf01c2a8c54730a"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498160809,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160509.622817
+      },
+      "das_id": [
+        "594c1d7d4bf01c2a8c5472cb"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre9_Geant4102/RelValQCD_Pt_80_120_13/GEN-SIM/81X_mcRun2_asymptotic_v2-v1/10000/88471315-F354-E611-AD36-0CC47A4D764A.root"
+        }
+      ],
+      "qhash": "efb9d483b415804110462b7c4bea7fbe"
+    },
+    {
+      "_id": "594c1d7d4bf01c2a8c547328",
+      "cache_id": [
+        "594c1d7d4bf01c2a8c54730b"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498160809,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160509.622817
+      },
+      "das_id": [
+        "594c1d7d4bf01c2a8c5472cb"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre9_Geant4102/RelValQCD_Pt_80_120_13/GEN-SIM/81X_mcRun2_asymptotic_v2-v1/10000/8C25059D-E254-E611-B3E3-0CC47A4C8E46.root"
+        }
+      ],
+      "qhash": "efb9d483b415804110462b7c4bea7fbe"
+    },
+    {
+      "_id": "594c1d7d4bf01c2a8c547327",
+      "cache_id": [
+        "594c1d7d4bf01c2a8c54730c"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498160809,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160509.622817
+      },
+      "das_id": [
+        "594c1d7d4bf01c2a8c5472cb"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre9_Geant4102/RelValQCD_Pt_80_120_13/GEN-SIM/81X_mcRun2_asymptotic_v2-v1/10000/AE61B717-F354-E611-85E3-0025905A6068.root"
+        }
+      ],
+      "qhash": "efb9d483b415804110462b7c4bea7fbe"
+    },
+    {
+      "_id": "594c1d7d4bf01c2a8c547326",
+      "cache_id": [
+        "594c1d7d4bf01c2a8c547309"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498160809,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498160509.622817
+      },
+      "das_id": [
+        "594c1d7d4bf01c2a8c5472cb"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre9_Geant4102/RelValQCD_Pt_80_120_13/GEN-SIM/81X_mcRun2_asymptotic_v2-v1/10000/B8E0EAA2-E254-E611-8606-0025905A60D6.root"
+        }
+      ],
+      "qhash": "efb9d483b415804110462b7c4bea7fbe"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValQCD_Pt_80_120_13/CMSSW_8_1_0_pre9_Geant4102-81X_mcRun2_asymptotic_v2-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 4,
+  "status": "ok",
+  "timestamp": 1498160510.3
+}

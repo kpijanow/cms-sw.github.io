@@ -1,0 +1,2518 @@
+{
+  "apilist": [
+    "files4dataset_runs_site",
+    "das_core"
+  ],
+  "ctime": 0.13553595542899999,
+  "data": [
+    {
+      "_id": "594ace45f4e3136f27f41ff6",
+      "cache_id": [
+        "594ace45f4e3136f27f41f67",
+        "594ace45f4e3136f27f41f68",
+        "594ace45f4e3136f27f41f69",
+        "594ace45f4e3136f27f41f6a",
+        "594ace45f4e3136f27f41f6b",
+        "594ace45f4e3136f27f41f6c",
+        "594ace45f4e3136f27f41f6d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/0699429A-B37F-E011-A57A-0019B9F72D71.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41ff5",
+      "cache_id": [
+        "594ace45f4e3136f27f41f42",
+        "594ace45f4e3136f27f41f43",
+        "594ace45f4e3136f27f41f40",
+        "594ace45f4e3136f27f41f41",
+        "594ace45f4e3136f27f41f3f",
+        "594ace45f4e3136f27f41f3e",
+        "594ace45f4e3136f27f41f3d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/18E0AF9F-BA7F-E011-AC1C-001D09F24259.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41ff4",
+      "cache_id": [
+        "594ace45f4e3136f27f41f3c",
+        "594ace45f4e3136f27f41f3b",
+        "594ace45f4e3136f27f41f3a",
+        "594ace45f4e3136f27f41f39",
+        "594ace45f4e3136f27f41f38",
+        "594ace45f4e3136f27f41f37",
+        "594ace45f4e3136f27f41f36"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/1E9D751C-CE7F-E011-A67E-0030487CD6E6.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41ff3",
+      "cache_id": [
+        "594ace45f4e3136f27f41f88",
+        "594ace45f4e3136f27f41f89",
+        "594ace45f4e3136f27f41f83",
+        "594ace45f4e3136f27f41f86",
+        "594ace45f4e3136f27f41f87",
+        "594ace45f4e3136f27f41f84",
+        "594ace45f4e3136f27f41f85"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2C1B50CC-C17F-E011-9FE6-003048F1C836.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41ff2",
+      "cache_id": [
+        "594ace45f4e3136f27f41f58",
+        "594ace45f4e3136f27f41f53",
+        "594ace45f4e3136f27f41f52",
+        "594ace45f4e3136f27f41f55",
+        "594ace45f4e3136f27f41f54",
+        "594ace45f4e3136f27f41f57",
+        "594ace45f4e3136f27f41f56"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/2E2E1830-D17F-E011-BCEA-003048F118AA.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41ff1",
+      "cache_id": [
+        "594ace45f4e3136f27f41f73",
+        "594ace45f4e3136f27f41f72",
+        "594ace45f4e3136f27f41f71",
+        "594ace45f4e3136f27f41f70",
+        "594ace45f4e3136f27f41f74",
+        "594ace45f4e3136f27f41f6e",
+        "594ace45f4e3136f27f41f6f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/36C9058E-BF7F-E011-8AA5-003048F024DC.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41ff0",
+      "cache_id": [
+        "594ace45f4e3136f27f41fc1",
+        "594ace45f4e3136f27f41fc0",
+        "594ace45f4e3136f27f41fbd",
+        "594ace45f4e3136f27f41fbe",
+        "594ace45f4e3136f27f41fbf",
+        "594ace45f4e3136f27f41fbb",
+        "594ace45f4e3136f27f41fbc"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/4C4014A6-D47F-E011-B1FE-003048F1110E.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fef",
+      "cache_id": [
+        "594ace45f4e3136f27f41fa7",
+        "594ace45f4e3136f27f41fa6",
+        "594ace45f4e3136f27f41fa9",
+        "594ace45f4e3136f27f41fa8",
+        "594ace45f4e3136f27f41faa",
+        "594ace45f4e3136f27f41fac",
+        "594ace45f4e3136f27f41fab"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/70880A66-C67F-E011-A3C4-003048D2BC42.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fee",
+      "cache_id": [
+        "594ace45f4e3136f27f41f95",
+        "594ace45f4e3136f27f41f94",
+        "594ace45f4e3136f27f41f97",
+        "594ace45f4e3136f27f41f96",
+        "594ace45f4e3136f27f41f91",
+        "594ace45f4e3136f27f41f93",
+        "594ace45f4e3136f27f41f92"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/72315DA9-AD7F-E011-87DF-001D09F28F25.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fed",
+      "cache_id": [
+        "594ace45f4e3136f27f41f90",
+        "594ace45f4e3136f27f41f8b",
+        "594ace45f4e3136f27f41f8c",
+        "594ace45f4e3136f27f41f8a",
+        "594ace45f4e3136f27f41f8f",
+        "594ace45f4e3136f27f41f8d",
+        "594ace45f4e3136f27f41f8e"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/728CF6FF-BC7F-E011-9065-000423D9997E.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fec",
+      "cache_id": [
+        "594ace45f4e3136f27f41f82",
+        "594ace45f4e3136f27f41f80",
+        "594ace45f4e3136f27f41f81",
+        "594ace45f4e3136f27f41f7c",
+        "594ace45f4e3136f27f41f7f",
+        "594ace45f4e3136f27f41f7e",
+        "594ace45f4e3136f27f41f7d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/741732C7-BE7F-E011-A571-0030487A18A4.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41feb",
+      "cache_id": [
+        "594ace45f4e3136f27f41fa5",
+        "594ace45f4e3136f27f41fa4",
+        "594ace45f4e3136f27f41fa1",
+        "594ace45f4e3136f27f41fa0",
+        "594ace45f4e3136f27f41fa3",
+        "594ace45f4e3136f27f41fa2",
+        "594ace45f4e3136f27f41f9f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/78ECBE39-B97F-E011-AFA6-003048F110BE.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fea",
+      "cache_id": [
+        "594ace45f4e3136f27f41fb0",
+        "594ace45f4e3136f27f41fb1",
+        "594ace45f4e3136f27f41fb2",
+        "594ace45f4e3136f27f41fb3",
+        "594ace45f4e3136f27f41fae",
+        "594ace45f4e3136f27f41fad",
+        "594ace45f4e3136f27f41faf"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/94A66560-B17F-E011-9AE3-001617DBD556.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe9",
+      "cache_id": [
+        "594ace45f4e3136f27f41fb8",
+        "594ace45f4e3136f27f41fb9",
+        "594ace45f4e3136f27f41fb4",
+        "594ace45f4e3136f27f41fb5",
+        "594ace45f4e3136f27f41fb6",
+        "594ace45f4e3136f27f41fb7",
+        "594ace45f4e3136f27f41fba"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A2E399AE-C57F-E011-84EE-001617E30CC8.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe8",
+      "cache_id": [
+        "594ace45f4e3136f27f41f5a",
+        "594ace45f4e3136f27f41f5c",
+        "594ace45f4e3136f27f41f5b",
+        "594ace45f4e3136f27f41f5e",
+        "594ace45f4e3136f27f41f5d",
+        "594ace45f4e3136f27f41f5f",
+        "594ace45f4e3136f27f41f59"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/A4BFB684-BD7F-E011-A2D9-0019B9F72CE5.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe7",
+      "cache_id": [
+        "594ace45f4e3136f27f41fc9",
+        "594ace45f4e3136f27f41fcf",
+        "594ace45f4e3136f27f41fce",
+        "594ace45f4e3136f27f41fcd",
+        "594ace45f4e3136f27f41fcc",
+        "594ace45f4e3136f27f41fcb",
+        "594ace45f4e3136f27f41fca"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/B6758760-B77F-E011-BD34-0030486733D8.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe6",
+      "cache_id": [
+        "594ace45f4e3136f27f41f60",
+        "594ace45f4e3136f27f41f61",
+        "594ace45f4e3136f27f41f62",
+        "594ace45f4e3136f27f41f63",
+        "594ace45f4e3136f27f41f64",
+        "594ace45f4e3136f27f41f65",
+        "594ace45f4e3136f27f41f66"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/BAE5AFA1-CA7F-E011-8A31-003048CFB40C.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe5",
+      "cache_id": [
+        "594ace45f4e3136f27f41f4f",
+        "594ace45f4e3136f27f41f4d",
+        "594ace45f4e3136f27f41f4e",
+        "594ace45f4e3136f27f41f4b",
+        "594ace45f4e3136f27f41f4c",
+        "594ace45f4e3136f27f41f51",
+        "594ace45f4e3136f27f41f50"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C05A4890-C37F-E011-B3B2-001617E30CC8.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe4",
+      "cache_id": [
+        "594ace45f4e3136f27f41f99",
+        "594ace45f4e3136f27f41f98",
+        "594ace45f4e3136f27f41f9e",
+        "594ace45f4e3136f27f41f9d",
+        "594ace45f4e3136f27f41f9a",
+        "594ace45f4e3136f27f41f9c",
+        "594ace45f4e3136f27f41f9b"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/C2365AF8-C07F-E011-B9C2-0030487C6062.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe3",
+      "cache_id": [
+        "594ace45f4e3136f27f41f46",
+        "594ace45f4e3136f27f41f47",
+        "594ace45f4e3136f27f41f44",
+        "594ace45f4e3136f27f41f45",
+        "594ace45f4e3136f27f41f48",
+        "594ace45f4e3136f27f41f49",
+        "594ace45f4e3136f27f41f4a"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CC54CF95-AE7F-E011-87DF-003048F1BF66.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe2",
+      "cache_id": [
+        "594ace45f4e3136f27f41f77",
+        "594ace45f4e3136f27f41f76",
+        "594ace45f4e3136f27f41f75",
+        "594ace45f4e3136f27f41f79",
+        "594ace45f4e3136f27f41f78",
+        "594ace45f4e3136f27f41f7b",
+        "594ace45f4e3136f27f41f7a"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/CCF770BD-B57F-E011-8C09-001D09F29597.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    },
+    {
+      "_id": "594ace45f4e3136f27f41fe1",
+      "cache_id": [
+        "594ace45f4e3136f27f41fc8",
+        "594ace45f4e3136f27f41fc7",
+        "594ace45f4e3136f27f41fc6",
+        "594ace45f4e3136f27f41fc5",
+        "594ace45f4e3136f27f41fc4",
+        "594ace45f4e3136f27f41fc3",
+        "594ace45f4e3136f27f41fc2"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074810,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498074693.365947
+      },
+      "das_id": [
+        "594ace42f4e3136f27f41eff"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        },
+        {
+          "name": "/store/data/Run2011A/MinimumBias/RAW/v1/000/165/121/FC16AD5B-B47F-E011-83B2-001D09F26C5C.root"
+        }
+      ],
+      "qhash": "ff622885adfad373009dd77a52052c8c"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/MinimumBias/Run2011A-v1/RAW",
+      "run.run_number": 165121,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 22,
+  "status": "ok",
+  "timestamp": 1498074694.6500001
+}

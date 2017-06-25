@@ -1,0 +1,4552 @@
+{
+  "apilist": [
+    "das_core",
+    "files4dataset_runs_site"
+  ],
+  "ctime": 0.158746957779,
+  "data": [
+    {
+      "_id": "594acb464bf01c21961cceef",
+      "cache_id": [
+        "594acb464bf01c21961cce15",
+        "594acb464bf01c21961cce14",
+        "594acb464bf01c21961cce13",
+        "594acb464bf01c21961cce12",
+        "594acb464bf01c21961cce11",
+        "594acb464bf01c21961cce10",
+        "594acb464bf01c21961cce0f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A21984F-281E-E111-A042-0026189438B8.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceee",
+      "cache_id": [
+        "594acb464bf01c21961cce66",
+        "594acb464bf01c21961cce67",
+        "594acb464bf01c21961cce64",
+        "594acb464bf01c21961cce65",
+        "594acb464bf01c21961cce63",
+        "594acb464bf01c21961cce68",
+        "594acb464bf01c21961cce69"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0A4C36D5-151E-E111-995D-002618943904.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceed",
+      "cache_id": [
+        "594acb464bf01c21961ccdda",
+        "594acb464bf01c21961ccddc",
+        "594acb464bf01c21961ccddb",
+        "594acb464bf01c21961ccddd",
+        "594acb464bf01c21961ccdd9",
+        "594acb464bf01c21961ccdd8",
+        "594acb464bf01c21961ccdd7"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/0CFFAAF3-F51D-E111-85D8-00261894389E.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceec",
+      "cache_id": [
+        "594acb464bf01c21961ccde6",
+        "594acb464bf01c21961ccde7",
+        "594acb464bf01c21961ccde5",
+        "594acb464bf01c21961ccde8",
+        "594acb464bf01c21961ccde9",
+        "594acb464bf01c21961ccdeb",
+        "594acb464bf01c21961ccdea"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/14373661-1C1E-E111-8D34-001A92810AB2.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceeb",
+      "cache_id": [
+        "594acb464bf01c21961ccde4",
+        "594acb464bf01c21961ccde2",
+        "594acb464bf01c21961ccde3",
+        "594acb464bf01c21961ccde0",
+        "594acb464bf01c21961ccde1",
+        "594acb464bf01c21961ccdde",
+        "594acb464bf01c21961ccddf"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/160FBE53-0E1E-E111-A3B4-00248C55CC3C.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceea",
+      "cache_id": [
+        "594acb464bf01c21961ccea8",
+        "594acb464bf01c21961ccea7",
+        "594acb464bf01c21961ccea6",
+        "594acb464bf01c21961ccea5",
+        "594acb464bf01c21961ccea4",
+        "594acb464bf01c21961ccea3",
+        "594acb464bf01c21961ccea2"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/1EC3159A-041E-E111-9176-0018F3D09620.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee9",
+      "cache_id": [
+        "594acb464bf01c21961ccdab",
+        "594acb464bf01c21961ccdac",
+        "594acb464bf01c21961ccdaa",
+        "594acb464bf01c21961ccda6",
+        "594acb464bf01c21961ccda7",
+        "594acb464bf01c21961ccda8",
+        "594acb464bf01c21961ccda9"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2454BB93-141E-E111-B862-003048678B36.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee8",
+      "cache_id": [
+        "594acb464bf01c21961cce04",
+        "594acb464bf01c21961cce05",
+        "594acb464bf01c21961cce06",
+        "594acb464bf01c21961cce07",
+        "594acb464bf01c21961cce01",
+        "594acb464bf01c21961cce02",
+        "594acb464bf01c21961cce03"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2A014F88-0B1E-E111-ADCA-003048679166.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee7",
+      "cache_id": [
+        "594acb464bf01c21961cce22",
+        "594acb464bf01c21961cce23",
+        "594acb464bf01c21961cce20",
+        "594acb464bf01c21961cce21",
+        "594acb464bf01c21961cce1f",
+        "594acb464bf01c21961cce1e",
+        "594acb464bf01c21961cce1d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2C82EB68-FC1D-E111-9344-0030486790B8.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee6",
+      "cache_id": [
+        "594acb464bf01c21961ccdc8",
+        "594acb464bf01c21961ccdc4",
+        "594acb464bf01c21961ccdc5",
+        "594acb464bf01c21961ccdc6",
+        "594acb464bf01c21961ccdc7",
+        "594acb464bf01c21961ccdc2",
+        "594acb464bf01c21961ccdc3"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/2E5BC658-1F1E-E111-9F8A-0026189438FC.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee5",
+      "cache_id": [
+        "594acb464bf01c21961ccdf3",
+        "594acb464bf01c21961ccdf7",
+        "594acb464bf01c21961ccdf6",
+        "594acb464bf01c21961ccdf5",
+        "594acb464bf01c21961ccdf4",
+        "594acb464bf01c21961ccdf9",
+        "594acb464bf01c21961ccdf8"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3058B39C-F91D-E111-BA68-00304867C1B0.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee4",
+      "cache_id": [
+        "594acb464bf01c21961ccdbf",
+        "594acb464bf01c21961ccdbe",
+        "594acb464bf01c21961ccdbd",
+        "594acb464bf01c21961ccdbc",
+        "594acb464bf01c21961ccdbb",
+        "594acb464bf01c21961ccdc0",
+        "594acb464bf01c21961ccdc1"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/3654EF2F-1E1E-E111-8DC8-003048FFD736.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee3",
+      "cache_id": [
+        "594acb464bf01c21961cce5b",
+        "594acb464bf01c21961cce5a",
+        "594acb464bf01c21961cce57",
+        "594acb464bf01c21961cce56",
+        "594acb464bf01c21961cce55",
+        "594acb464bf01c21961cce59",
+        "594acb464bf01c21961cce58"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/42DD2813-0D1E-E111-A11D-003048678B08.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee2",
+      "cache_id": [
+        "594acb464bf01c21961cce35",
+        "594acb464bf01c21961cce34",
+        "594acb464bf01c21961cce37",
+        "594acb464bf01c21961cce36",
+        "594acb464bf01c21961cce33",
+        "594acb464bf01c21961cce32",
+        "594acb464bf01c21961cce38"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/442DE489-0B1E-E111-8144-0026189437FE.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee1",
+      "cache_id": [
+        "594acb464bf01c21961cceb2",
+        "594acb464bf01c21961cceb3",
+        "594acb464bf01c21961cceb0",
+        "594acb464bf01c21961cceb1",
+        "594acb464bf01c21961cceb6",
+        "594acb464bf01c21961cceb4",
+        "594acb464bf01c21961cceb5"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/4E76395A-1F1E-E111-AB69-002618943957.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccee0",
+      "cache_id": [
+        "594acb464bf01c21961cce79",
+        "594acb464bf01c21961cce78",
+        "594acb464bf01c21961cce7a",
+        "594acb464bf01c21961cce7c",
+        "594acb464bf01c21961cce7b",
+        "594acb464bf01c21961cce7e",
+        "594acb464bf01c21961cce7d"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/52B9BE13-081E-E111-B40E-001A92971B54.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccedf",
+      "cache_id": [
+        "594acb464bf01c21961cce97",
+        "594acb464bf01c21961cce96",
+        "594acb464bf01c21961cce95",
+        "594acb464bf01c21961cce94",
+        "594acb464bf01c21961cce99",
+        "594acb464bf01c21961cce98",
+        "594acb464bf01c21961cce9a"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/5E4369A6-161E-E111-A93D-002618FDA262.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccede",
+      "cache_id": [
+        "594acb464bf01c21961cce4e",
+        "594acb464bf01c21961cce4f",
+        "594acb464bf01c21961cce53",
+        "594acb464bf01c21961cce52",
+        "594acb464bf01c21961cce51",
+        "594acb464bf01c21961cce50",
+        "594acb464bf01c21961cce54"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/660BF381-271E-E111-B0B1-002618FDA287.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccedd",
+      "cache_id": [
+        "594acb464bf01c21961cce84",
+        "594acb464bf01c21961cce85",
+        "594acb464bf01c21961cce80",
+        "594acb464bf01c21961cce81",
+        "594acb464bf01c21961cce82",
+        "594acb464bf01c21961cce83",
+        "594acb464bf01c21961cce7f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/6A167DC0-091E-E111-ADAE-002618943977.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccedc",
+      "cache_id": [
+        "594acb464bf01c21961cce4a",
+        "594acb464bf01c21961cce4b",
+        "594acb464bf01c21961cce4c",
+        "594acb464bf01c21961cce4d",
+        "594acb464bf01c21961cce47",
+        "594acb464bf01c21961cce48",
+        "594acb464bf01c21961cce49"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/761E6982-241E-E111-B06C-0026189437F2.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccedb",
+      "cache_id": [
+        "594acb464bf01c21961cce26",
+        "594acb464bf01c21961cce27",
+        "594acb464bf01c21961cce24",
+        "594acb464bf01c21961cce25",
+        "594acb464bf01c21961cce28",
+        "594acb464bf01c21961cce29",
+        "594acb464bf01c21961cce2a"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8C2FB3F5-FE1D-E111-BE8D-003048FFCB96.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceda",
+      "cache_id": [
+        "594acb464bf01c21961cce39",
+        "594acb464bf01c21961cce3e",
+        "594acb464bf01c21961cce3d",
+        "594acb464bf01c21961cce3f",
+        "594acb464bf01c21961cce3a",
+        "594acb464bf01c21961cce3c",
+        "594acb464bf01c21961cce3b"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/8CDCE8E5-171E-E111-B1D4-0018F3D09676.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced9",
+      "cache_id": [
+        "594acb464bf01c21961cce9f",
+        "594acb464bf01c21961cce9e",
+        "594acb464bf01c21961cce9d",
+        "594acb464bf01c21961cce9c",
+        "594acb464bf01c21961cce9b",
+        "594acb464bf01c21961ccea1",
+        "594acb464bf01c21961ccea0"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/96828FB8-251E-E111-A7E1-0026189438FC.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced8",
+      "cache_id": [
+        "594acb464bf01c21961cce5c",
+        "594acb464bf01c21961cce5f",
+        "594acb464bf01c21961cce5e",
+        "594acb464bf01c21961cce5d",
+        "594acb464bf01c21961cce62",
+        "594acb464bf01c21961cce60",
+        "594acb464bf01c21961cce61"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/98AB1BFA-131E-E111-A5F9-00304867D836.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced7",
+      "cache_id": [
+        "594acb464bf01c21961cce93",
+        "594acb464bf01c21961cce92",
+        "594acb464bf01c21961cce91",
+        "594acb464bf01c21961cce90",
+        "594acb464bf01c21961cce8d",
+        "594acb464bf01c21961cce8e",
+        "594acb464bf01c21961cce8f"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9AD22D00-141E-E111-8B9D-003048FFD730.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced6",
+      "cache_id": [
+        "594acb464bf01c21961cceaf",
+        "594acb464bf01c21961cceae",
+        "594acb464bf01c21961ccead",
+        "594acb464bf01c21961cceac",
+        "594acb464bf01c21961cceab",
+        "594acb464bf01c21961cceaa",
+        "594acb464bf01c21961ccea9"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9ADFAE5A-2B1E-E111-9BB3-003048FFCC1E.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced5",
+      "cache_id": [
+        "594acb464bf01c21961cce08",
+        "594acb464bf01c21961cce09",
+        "594acb464bf01c21961cce0d",
+        "594acb464bf01c21961cce0e",
+        "594acb464bf01c21961cce0a",
+        "594acb464bf01c21961cce0b",
+        "594acb464bf01c21961cce0c"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9C815A07-201E-E111-AB2E-00261894396D.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced4",
+      "cache_id": [
+        "594acb464bf01c21961cce31",
+        "594acb464bf01c21961cce30",
+        "594acb464bf01c21961cce2b",
+        "594acb464bf01c21961cce2c",
+        "594acb464bf01c21961cce2f",
+        "594acb464bf01c21961cce2d",
+        "594acb464bf01c21961cce2e"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/9EA01CD0-051E-E111-81FA-00261894397A.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced3",
+      "cache_id": [
+        "594acb464bf01c21961cce86",
+        "594acb464bf01c21961cce87",
+        "594acb464bf01c21961cce88",
+        "594acb464bf01c21961cce89",
+        "594acb464bf01c21961cce8a",
+        "594acb464bf01c21961cce8b",
+        "594acb464bf01c21961cce8c"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A4C6150D-0D1E-E111-A86D-003048679012.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced2",
+      "cache_id": [
+        "594acb464bf01c21961ccdba",
+        "594acb464bf01c21961ccdb9",
+        "594acb464bf01c21961ccdb8",
+        "594acb464bf01c21961ccdb7",
+        "594acb464bf01c21961ccdb6",
+        "594acb464bf01c21961ccdb5",
+        "594acb464bf01c21961ccdb4"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A699F43C-151E-E111-A7A4-002618943870.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced1",
+      "cache_id": [
+        "594acb464bf01c21961cce6f",
+        "594acb464bf01c21961cce6d",
+        "594acb464bf01c21961cce6e",
+        "594acb464bf01c21961cce6b",
+        "594acb464bf01c21961cce6c",
+        "594acb464bf01c21961cce6a",
+        "594acb464bf01c21961cce70"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A6AF9C1C-221E-E111-8CEA-003048678A7E.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cced0",
+      "cache_id": [
+        "594acb464bf01c21961ccdf2",
+        "594acb464bf01c21961ccdf1",
+        "594acb464bf01c21961ccdf0",
+        "594acb464bf01c21961ccdef",
+        "594acb464bf01c21961ccded",
+        "594acb464bf01c21961ccdee",
+        "594acb464bf01c21961ccdec"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/A8009764-231E-E111-8777-0018F3D0968E.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccecf",
+      "cache_id": [
+        "594acb464bf01c21961ccdcd",
+        "594acb464bf01c21961ccdce",
+        "594acb464bf01c21961ccdcf",
+        "594acb464bf01c21961ccdca",
+        "594acb464bf01c21961ccdcb",
+        "594acb464bf01c21961ccdcc",
+        "594acb464bf01c21961ccdc9"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/AC4DACE9-231E-E111-97EF-002618FDA263.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccece",
+      "cache_id": [
+        "594acb464bf01c21961ccdaf",
+        "594acb464bf01c21961ccdad",
+        "594acb464bf01c21961ccdae",
+        "594acb464bf01c21961ccdb3",
+        "594acb464bf01c21961ccdb2",
+        "594acb464bf01c21961ccdb1",
+        "594acb464bf01c21961ccdb0"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/B6F49CAE-F41D-E111-9B06-002618943833.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccecd",
+      "cache_id": [
+        "594acb464bf01c21961ccdd1",
+        "594acb464bf01c21961ccdd0",
+        "594acb464bf01c21961ccdd3",
+        "594acb464bf01c21961ccdd2",
+        "594acb464bf01c21961ccdd5",
+        "594acb464bf01c21961ccdd4",
+        "594acb464bf01c21961ccdd6"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/BA6D43B9-251E-E111-A466-002618943849.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccecc",
+      "cache_id": [
+        "594acb464bf01c21961ccebb",
+        "594acb464bf01c21961ccebc",
+        "594acb464bf01c21961cceba",
+        "594acb464bf01c21961ccebd",
+        "594acb464bf01c21961cceb7",
+        "594acb464bf01c21961cceb8",
+        "594acb464bf01c21961cceb9"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/DEF6FE61-0A1E-E111-9BBD-00304867C136.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccecb",
+      "cache_id": [
+        "594acb464bf01c21961cce71",
+        "594acb464bf01c21961cce73",
+        "594acb464bf01c21961cce72",
+        "594acb464bf01c21961cce75",
+        "594acb464bf01c21961cce74",
+        "594acb464bf01c21961cce77",
+        "594acb464bf01c21961cce76"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4B72497-011E-E111-8F2A-002618943857.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961cceca",
+      "cache_id": [
+        "594acb464bf01c21961cce19",
+        "594acb464bf01c21961cce18",
+        "594acb464bf01c21961cce17",
+        "594acb464bf01c21961cce16",
+        "594acb464bf01c21961cce1c",
+        "594acb464bf01c21961cce1b",
+        "594acb464bf01c21961cce1a"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E4C80B0A-F61D-E111-B9F8-003048FFD76E.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccec9",
+      "cache_id": [
+        "594acb464bf01c21961cce40",
+        "594acb464bf01c21961cce41",
+        "594acb464bf01c21961cce42",
+        "594acb464bf01c21961cce43",
+        "594acb464bf01c21961cce44",
+        "594acb464bf01c21961cce45",
+        "594acb464bf01c21961cce46"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/E6782A17-221E-E111-9315-003048678B3C.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    },
+    {
+      "_id": "594acb464bf01c21961ccec8",
+      "cache_id": [
+        "594acb464bf01c21961cce00",
+        "594acb464bf01c21961ccdfc",
+        "594acb464bf01c21961ccdfb",
+        "594acb464bf01c21961ccdfa",
+        "594acb464bf01c21961ccdff",
+        "594acb464bf01c21961ccdfe",
+        "594acb464bf01c21961ccdfd"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498074042,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498073926.9255669
+      },
+      "das_id": [
+        "594acb424bf01c21961ccd4a"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        },
+        {
+          "name": "/store/data/Run2011B/DoubleMu/RAW-RECO/ZMu-19Nov2011-v1/0000/F88901EB-031E-E111-8EFB-00261894387C.root"
+        }
+      ],
+      "qhash": "4c24aee133aa62d3b3db511ecc559d2c"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/DoubleMu/Run2011B-ZMu-19Nov2011-v1/RAW-RECO",
+      "run.run_number": 177719,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 40,
+  "status": "ok",
+  "timestamp": 1498073927.1700001
+}

@@ -1,0 +1,131 @@
+{
+  "apilist": [
+    "files_via_dataset",
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.046442031860400003,
+  "data": [
+    {
+      "_id": "594ebad54bf01c0259a8fe73",
+      "cache_id": [
+        "594ebad44bf01c0259a8fe3a",
+        "594ebad44bf01c0259a8fe32"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498332160,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498331861.4761801
+      },
+      "das_id": [
+        "594ebad44bf01c0259a8fe1b",
+        "594ebad44bf01c0259a8fe1e"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_0_0/RelValSingleMuPt1000/GEN-SIM/90X_upgrade2017_realistic_v20_resub-v1/00000/BE8E781E-BE10-E711-9588-0025905B856C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_9_0_0/RelValSingleMuPt1000/GEN-SIM/90X_upgrade2017_realistic_v20_resub-v1/00000/BE8E781E-BE10-E711-9588-0025905B856C.root"
+        }
+      ],
+      "qhash": "9da69567f6656fd662596a98099a9029"
+    },
+    {
+      "_id": "594ebad54bf01c0259a8fe72",
+      "cache_id": [
+        "594ebad44bf01c0259a8fe39",
+        "594ebad44bf01c0259a8fe33"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498332160,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498331861.4761801
+      },
+      "das_id": [
+        "594ebad44bf01c0259a8fe1b",
+        "594ebad44bf01c0259a8fe1e"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_0_0/RelValSingleMuPt1000/GEN-SIM/90X_upgrade2017_realistic_v20_resub-v1/00000/D2AC791D-BE10-E711-BA84-0CC47A7C34A6.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_9_0_0/RelValSingleMuPt1000/GEN-SIM/90X_upgrade2017_realistic_v20_resub-v1/00000/D2AC791D-BE10-E711-BA84-0CC47A7C34A6.root"
+        }
+      ],
+      "qhash": "9da69567f6656fd662596a98099a9029"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleMuPt1000/CMSSW_9_0_0-90X_upgrade2017_realistic_v20_resub-v1/GEN-SIM"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498331861.53
+}

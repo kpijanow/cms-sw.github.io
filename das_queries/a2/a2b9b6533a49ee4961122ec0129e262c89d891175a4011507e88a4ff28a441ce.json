@@ -1,0 +1,131 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.046577930450399999,
+  "data": [
+    {
+      "_id": "594acbe24bf01c21961cdced",
+      "cache_id": [
+        "594acbe24bf01c21961cdcd1",
+        "594acbe24bf01c21961cdc87"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074381,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498074082.3960519
+      },
+      "das_id": [
+        "594acbe14bf01c21961cdc4d",
+        "594acbe14bf01c21961cdc50"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_5_0/RelValSingleMuPt10_UP15/GEN-SIM/75X_mcRun2_asymptotic_v1-v1/00000/00A69115-382A-E511-AE0C-0025905A613C.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_5_0/RelValSingleMuPt10_UP15/GEN-SIM/75X_mcRun2_asymptotic_v1-v1/00000/00A69115-382A-E511-AE0C-0025905A613C.root"
+        }
+      ],
+      "qhash": "fd5d927032238b8502a26d8fcddc747a"
+    },
+    {
+      "_id": "594acbe24bf01c21961cdcec",
+      "cache_id": [
+        "594acbe24bf01c21961cdc86",
+        "594acbe24bf01c21961cdcd2"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset",
+          "files_via_dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498074381,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          },
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          }
+        ],
+        "system": [
+          "phedex",
+          "dbs3"
+        ],
+        "ts": 1498074082.3960519
+      },
+      "das_id": [
+        "594acbe14bf01c21961cdc4d",
+        "594acbe14bf01c21961cdc50"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_5_0/RelValSingleMuPt10_UP15/GEN-SIM/75X_mcRun2_asymptotic_v1-v1/00000/F0672313-382A-E511-B57A-00261894384F.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_5_0/RelValSingleMuPt10_UP15/GEN-SIM/75X_mcRun2_asymptotic_v1-v1/00000/F0672313-382A-E511-B57A-00261894384F.root"
+        }
+      ],
+      "qhash": "fd5d927032238b8502a26d8fcddc747a"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleMuPt10_UP15/CMSSW_7_5_0-75X_mcRun2_asymptotic_v1-v1/GEN-SIM"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498074082.79
+}

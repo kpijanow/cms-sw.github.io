@@ -1,0 +1,1388 @@
+{
+  "apilist": [
+    "das_core",
+    "files4block_runs_site"
+  ],
+  "ctime": 0.11563992500299999,
+  "data": [
+    {
+      "_id": "594c208ef4e313359935ebff",
+      "cache_id": [
+        "594c208ef4e313359935ebe4",
+        "594c208ef4e313359935ebe5",
+        "594c208ef4e313359935ebe6",
+        "594c208ef4e313359935ebe7",
+        "594c208ef4e313359935ebe3",
+        "594c208ef4e313359935ebe8",
+        "594c208ef4e313359935ebe9"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/103D50FC-D01B-E111-963D-001F29C4616E.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebfe",
+      "cache_id": [
+        "594c208ef4e313359935ebb3",
+        "594c208ef4e313359935ebb2",
+        "594c208ef4e313359935ebb5",
+        "594c208ef4e313359935ebb4",
+        "594c208ef4e313359935ebb7",
+        "594c208ef4e313359935ebb6",
+        "594c208ef4e313359935ebb8"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/12FC1BDD-DB1B-E111-9E17-0017A4771828.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebfd",
+      "cache_id": [
+        "594c208ef4e313359935ebc6",
+        "594c208ef4e313359935ebc4",
+        "594c208ef4e313359935ebc5",
+        "594c208ef4e313359935ebc2",
+        "594c208ef4e313359935ebc3",
+        "594c208ef4e313359935ebc0",
+        "594c208ef4e313359935ebc1"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CAACBA4-D91B-E111-B226-0017A4770C10.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebfc",
+      "cache_id": [
+        "594c208ef4e313359935ebb1",
+        "594c208ef4e313359935ebb0",
+        "594c208ef4e313359935ebab",
+        "594c208ef4e313359935ebac",
+        "594c208ef4e313359935ebad",
+        "594c208ef4e313359935ebae",
+        "594c208ef4e313359935ebaf"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/1CEFC0B2-DC1B-E111-8C84-1CC1DE1CEDB2.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebfb",
+      "cache_id": [
+        "594c208ef4e313359935eba8",
+        "594c208ef4e313359935eba9",
+        "594c208ef4e313359935eba4",
+        "594c208ef4e313359935eba5",
+        "594c208ef4e313359935eba6",
+        "594c208ef4e313359935eba7",
+        "594c208ef4e313359935ebaa"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/28F6F3EF-681B-E111-B694-0017A4770430.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebfa",
+      "cache_id": [
+        "594c208ef4e313359935eba0",
+        "594c208ef4e313359935eba1",
+        "594c208ef4e313359935eba2",
+        "594c208ef4e313359935eba3",
+        "594c208ef4e313359935eb9d",
+        "594c208ef4e313359935eb9e",
+        "594c208ef4e313359935eb9f"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/3EACCF65-D71B-E111-88AC-1CC1DE047FD8.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebf9",
+      "cache_id": [
+        "594c208ef4e313359935ebb9",
+        "594c208ef4e313359935ebba",
+        "594c208ef4e313359935ebbc",
+        "594c208ef4e313359935ebbb",
+        "594c208ef4e313359935ebbe",
+        "594c208ef4e313359935ebbd",
+        "594c208ef4e313359935ebbf"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/80F65B82-CF1B-E111-97E4-1CC1DE053050.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebf8",
+      "cache_id": [
+        "594c208ef4e313359935ebc8",
+        "594c208ef4e313359935ebc9",
+        "594c208ef4e313359935ebc7",
+        "594c208ef4e313359935ebcd",
+        "594c208ef4e313359935ebcb",
+        "594c208ef4e313359935ebcc",
+        "594c208ef4e313359935ebca"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/94BCAC85-D81B-E111-8EF7-1CC1DE051080.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebf7",
+      "cache_id": [
+        "594c208ef4e313359935ebd7",
+        "594c208ef4e313359935ebd6",
+        "594c208ef4e313359935ebd5",
+        "594c208ef4e313359935ebd9",
+        "594c208ef4e313359935ebd8",
+        "594c208ef4e313359935ebdb",
+        "594c208ef4e313359935ebda"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98D1D294-DA1B-E111-ABAB-1CC1DE04FFB8.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebf6",
+      "cache_id": [
+        "594c208ef4e313359935ebd4",
+        "594c208ef4e313359935ebd3",
+        "594c208ef4e313359935ebd2",
+        "594c208ef4e313359935ebd1",
+        "594c208ef4e313359935ebd0",
+        "594c208ef4e313359935ebcf",
+        "594c208ef4e313359935ebce"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/98FA80AF-D41B-E111-A7EB-1CC1DE1CE01A.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebf5",
+      "cache_id": [
+        "594c208ef4e313359935eb96",
+        "594c208ef4e313359935eb97",
+        "594c208ef4e313359935eb98",
+        "594c208ef4e313359935eb99",
+        "594c208ef4e313359935eb9a",
+        "594c208ef4e313359935eb9b",
+        "594c208ef4e313359935eb9c"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/C446316A-D81B-E111-81DF-1CC1DE04FF50.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    },
+    {
+      "_id": "594c208ef4e313359935ebf4",
+      "cache_id": [
+        "594c208ef4e313359935ebe0",
+        "594c208ef4e313359935ebe1",
+        "594c208ef4e313359935ebe2",
+        "594c208ef4e313359935ebdf",
+        "594c208ef4e313359935ebde",
+        "594c208ef4e313359935ebdd",
+        "594c208ef4e313359935ebdc"
+      ],
+      "das": {
+        "api": [
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site",
+          "files4block_runs_site"
+        ],
+        "condition_keys": [
+          "block.name",
+          "run.run_number",
+          "site.name"
+        ],
+        "expire": 1498161412,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161294.4955299
+      },
+      "das_id": [
+        "594c208cf4e313359935eb47"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        },
+        {
+          "name": "/store/data/Run2011B/SingleMu/RAW-RECO/WMu-19Nov2011-v1/0002/F2B65234-D61B-E111-AFD9-1CC1DE1D2028.root"
+        }
+      ],
+      "qhash": "31e2e36629dca2ebce1d1c99d6235d14"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "block.name": "/SingleMu/Run2011B-WMu-19Nov2011-v1/RAW-RECO#19110c74-1b66-11e1-a98b-003048f02c8a",
+      "run.run_number": 175874,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 12,
+  "status": "ok",
+  "timestamp": 1498161296.8800001
+}

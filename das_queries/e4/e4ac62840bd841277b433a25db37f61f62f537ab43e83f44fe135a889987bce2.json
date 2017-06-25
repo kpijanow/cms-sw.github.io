@@ -1,0 +1,70 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 2.52755498886,
+  "data": [
+    {
+      "_id": "594acc624bf01c21961dbde0",
+      "cache_id": [
+        "594acc614bf01c21961db955"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498074507,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498074210.200201
+      },
+      "das_id": [
+        "594acc5c4bf01c21961db409"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_1_0_pre7/RelValSingleMuPt1/GEN-SIM/PRE_STA71_V3-v1/00000/14B3D561-36D1-E311-86CC-002618FDA250.root"
+        }
+      ],
+      "qhash": "f4225862dbdc9bc30bdda79d2423643c"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValSingleMuPt1/CMSSW_7_1_0_pre7-PRE_STA71_V3-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498074211.25
+}

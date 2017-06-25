@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.020525932311999999,
+  "data": [
+    {
+      "_id": "594ebb92f4e3130af1511baa",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498332070.6084139,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498332050.6084249
+      },
+      "das_id": [
+        "594ebb8cf4e3130af1511b6a",
+        "594ebb8cf4e3130af1511b67",
+        "594ebb8cf4e3130af1511b64"
+      ],
+      "file": [],
+      "qhash": "e5e02b84fb0d3e9b1a1fd47b04f2c164"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValFourMuPt1_200/CMSSW_6_2_0_SLHC20_patch1-DES23_62_V1_refSHNoTaper-v1/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498332052.6700001
+}

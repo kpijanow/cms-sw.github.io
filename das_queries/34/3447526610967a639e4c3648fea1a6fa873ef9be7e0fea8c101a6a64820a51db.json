@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "files_via_dataset",
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.024168014526400002,
+  "data": [
+    {
+      "_id": "594eb92f4bf01c0259a87822",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331459.576215,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331439.5762279
+      },
+      "das_id": [
+        "594eb9284bf01c0259a87783",
+        "594eb9284bf01c0259a8778f",
+        "594eb9284bf01c0259a87788"
+      ],
+      "file": [],
+      "qhash": "983fe861836320ba67c0179e7c9cdf45"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValTTbar_13/1/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331441.3399999
+}

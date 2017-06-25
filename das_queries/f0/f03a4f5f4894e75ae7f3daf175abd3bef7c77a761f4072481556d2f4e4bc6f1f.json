@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.029273986816400002,
+  "data": [
+    {
+      "_id": "594ebbbdf4e3130af1511d75",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498332113.459904,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498332093.459918
+      },
+      "das_id": [
+        "594ebbb7f4e3130af1511d35",
+        "594ebbb7f4e3130af1511d32",
+        "594ebbb7f4e3130af1511d2f"
+      ],
+      "file": [],
+      "qhash": "fc8a5f6c8cfee2c70375a09373011d38"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValQCD_Pt_600_800_13/CMSSW_8_1_0_pre16-81X_upgrade2017_design_IdealBS_v6-v1/GEN-SIM"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498332095.5599999
+}

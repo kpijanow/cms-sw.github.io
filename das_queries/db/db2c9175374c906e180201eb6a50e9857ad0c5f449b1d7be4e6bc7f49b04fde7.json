@@ -1,0 +1,187 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset"
+  ],
+  "ctime": 0.0523090362549,
+  "data": [
+    {
+      "_id": "594c20744bf01c2a8c5667c6",
+      "cache_id": [
+        "594c20744bf01c2a8c5667b4"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161568,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498161268.9497731
+      },
+      "das_id": [
+        "594c20744bf01c2a8c5667a3"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_2_3/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/92X_upgrade2017_realistic_v1_earlyBS2017-v1/10000/1830E593-8D4F-E711-9292-0025905B85A2.root"
+        }
+      ],
+      "qhash": "1de686abf8e98eb6e219795407167149"
+    },
+    {
+      "_id": "594c20744bf01c2a8c5667c5",
+      "cache_id": [
+        "594c20744bf01c2a8c5667b2"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161568,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498161268.9497731
+      },
+      "das_id": [
+        "594c20744bf01c2a8c5667a3"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_2_3/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/92X_upgrade2017_realistic_v1_earlyBS2017-v1/10000/2A8DD1DD-8D4F-E711-BCAD-0CC47A4C8E1E.root"
+        }
+      ],
+      "qhash": "1de686abf8e98eb6e219795407167149"
+    },
+    {
+      "_id": "594c20744bf01c2a8c5667c4",
+      "cache_id": [
+        "594c20744bf01c2a8c5667b3"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161568,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498161268.9497731
+      },
+      "das_id": [
+        "594c20744bf01c2a8c5667a3"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_2_3/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/92X_upgrade2017_realistic_v1_earlyBS2017-v1/10000/4CFB04B5-934F-E711-B1F6-0025905A60AA.root"
+        }
+      ],
+      "qhash": "1de686abf8e98eb6e219795407167149"
+    },
+    {
+      "_id": "594c20744bf01c2a8c5667c3",
+      "cache_id": [
+        "594c20744bf01c2a8c5667b1"
+      ],
+      "das": {
+        "api": [
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name",
+          "site.name"
+        ],
+        "expire": 1498161568,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "phedex"
+        ],
+        "ts": 1498161268.9497731
+      },
+      "das_id": [
+        "594c20744bf01c2a8c5667a3"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_9_2_3/RelValQCD_FlatPt_15_3000HS_13/GEN-SIM/92X_upgrade2017_realistic_v1_earlyBS2017-v1/10000/BC55BAB7-934F-E711-8492-0025905A613C.root"
+        }
+      ],
+      "qhash": "1de686abf8e98eb6e219795407167149"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValQCD_FlatPt_15_3000HS_13/CMSSW_9_2_3-92X_upgrade2017_realistic_v1_earlyBS2017-v1/GEN-SIM",
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 4,
+  "status": "ok",
+  "timestamp": 1498161269.5699999
+}

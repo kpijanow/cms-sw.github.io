@@ -1,0 +1,145 @@
+{
+  "apilist": [
+    "das_core",
+    "files4dataset_runs_site"
+  ],
+  "ctime": 0.105844974518,
+  "data": [
+    {
+      "_id": "594c225d4bf01c2a8c571342",
+      "cache_id": [
+        "594c225d4bf01c2a8c571337",
+        "594c225d4bf01c2a8c571336",
+        "594c225d4bf01c2a8c571335",
+        "594c225d4bf01c2a8c571334",
+        "594c225d4bf01c2a8c571333",
+        "594c225d4bf01c2a8c571332",
+        "594c225d4bf01c2a8c571331"
+      ],
+      "das": {
+        "api": [
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site",
+          "files4dataset_runs_site"
+        ],
+        "condition_keys": [
+          "run.run_number",
+          "site.name",
+          "dataset.name"
+        ],
+        "expire": 1498161876,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          },
+          {
+            "combined": [
+              "dbs3",
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined",
+          "combined"
+        ],
+        "ts": 1498161757.1268489
+      },
+      "das_id": [
+        "594c225c4bf01c2a8c571325"
+      ],
+      "file": [
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        },
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        },
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        },
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        },
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        },
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        },
+        {
+          "name": "/store/data/Run2016H/TestEnablesEcalHcal/RAW/v1/000/281/110/00000/D0B13D39-647E-E611-8908-02163E01418B.root"
+        }
+      ],
+      "qhash": "a28e1a31e9735d9e5d71e5ce168ca261"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/TestEnablesEcalHcal/Run2016H-v1/RAW",
+      "run.run_number": 281110,
+      "site.name": "T2_CH_CERN"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498161757.26
+}

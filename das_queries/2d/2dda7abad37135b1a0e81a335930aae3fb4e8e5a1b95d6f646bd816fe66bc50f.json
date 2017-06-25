@@ -1,0 +1,131 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.047313928604099997,
+  "data": [
+    {
+      "_id": "594eb9fc4bf01c0259a8f748",
+      "cache_id": [
+        "594eb9fc4bf01c0259a8f738",
+        "594eb9fc4bf01c0259a8f72c"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498331944,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498331644.9390521
+      },
+      "das_id": [
+        "594eb9fc4bf01c0259a8f719",
+        "594eb9fc4bf01c0259a8f71c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre15/RelValTenMuE_0_200/GEN-SIM/81X_upgrade2017_realistic_v17_BpixFpixHcalGeom-v1/10000/1E506737-C99B-E611-8141-0025905B85D0.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre15/RelValTenMuE_0_200/GEN-SIM/81X_upgrade2017_realistic_v17_BpixFpixHcalGeom-v1/10000/1E506737-C99B-E611-8141-0025905B85D0.root"
+        }
+      ],
+      "qhash": "d63bbc72b71888f629c4438d48e77709"
+    },
+    {
+      "_id": "594eb9fc4bf01c0259a8f747",
+      "cache_id": [
+        "594eb9fc4bf01c0259a8f737",
+        "594eb9fc4bf01c0259a8f72b"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498331944,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498331644.9390521
+      },
+      "das_id": [
+        "594eb9fc4bf01c0259a8f719",
+        "594eb9fc4bf01c0259a8f71c"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre15/RelValTenMuE_0_200/GEN-SIM/81X_upgrade2017_realistic_v17_BpixFpixHcalGeom-v1/10000/D242AD36-C99B-E611-8B73-0025905A60AA.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_8_1_0_pre15/RelValTenMuE_0_200/GEN-SIM/81X_upgrade2017_realistic_v17_BpixFpixHcalGeom-v1/10000/D242AD36-C99B-E611-8B73-0025905A60AA.root"
+        }
+      ],
+      "qhash": "d63bbc72b71888f629c4438d48e77709"
+    }
+  ],
+  "incache": true,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValTenMuE_0_200/CMSSW_8_1_0_pre15-81X_upgrade2017_realistic_v17_BpixFpixHcalGeom-v1/GEN-SIM"
+    }
+  },
+  "nresults": 2,
+  "status": "ok",
+  "timestamp": 1498331645.05
+}

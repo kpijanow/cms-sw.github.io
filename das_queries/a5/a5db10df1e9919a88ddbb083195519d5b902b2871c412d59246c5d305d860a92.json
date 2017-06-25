@@ -1,0 +1,59 @@
+{
+  "apilist": [
+    "das_core",
+    "file4DatasetRunLumi"
+  ],
+  "ctime": 0.031021118164100001,
+  "data": [
+    {
+      "_id": "594eb956f4e3130af15101b8",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331498.3396389,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331478.3396649
+      },
+      "das_id": [
+        "594eb94ef4e3130af150c850",
+        "594eb94ef4e3130af150c84d"
+      ],
+      "file": [],
+      "qhash": "b619535148c3d5d849e6acaeb73c2a27"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/DoubleEG/Run2016H-v2/RAW",
+      "run.run_number": 283877
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331479.5699999
+}

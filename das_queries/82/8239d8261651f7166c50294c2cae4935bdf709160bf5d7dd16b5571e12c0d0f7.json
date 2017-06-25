@@ -1,0 +1,63 @@
+{
+  "apilist": [
+    "das_core",
+    "fileReplicas4dataset",
+    "files_via_dataset"
+  ],
+  "ctime": 0.023334980011000001,
+  "data": [
+    {
+      "_id": "594ebb24f4e3130af15117df",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331960.4268739,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "mcm",
+          "phedex",
+          "reqmgr2",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331940.4269071
+      },
+      "das_id": [
+        "594ebb1df4e3130af1511780",
+        "594ebb1df4e3130af151177d",
+        "594ebb1df4e3130af151177a"
+      ],
+      "file": [],
+      "qhash": "761f9dc781db096289e062387e24f69d"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "dataset.name": "/RelValTTbar_13/CMSSW_7_4_0_pre6-PU50ns_MCRUN2_74_V0-v2/GEN-SIM-RECO"
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331942.46
+}

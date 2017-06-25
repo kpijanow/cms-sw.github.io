@@ -1,0 +1,59 @@
+{
+  "apilist": [
+    "das_core",
+    "files_via_block"
+  ],
+  "ctime": 0.023540019988999999,
+  "data": [
+    {
+      "_id": "594eba6b4bf01c0259a8fb45",
+      "cache_id": [],
+      "das": {
+        "api": [],
+        "condition_keys": [
+          "file.name"
+        ],
+        "expire": 1498331775.2054009,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 2,
+        "services": [
+          "dbs3",
+          "combined"
+        ],
+        "system": [
+          "das"
+        ],
+        "ts": 1498331755.2054141
+      },
+      "das_id": [
+        "594eba644bf01c0259a8fac4",
+        "594eba644bf01c0259a8fac1"
+      ],
+      "file": [],
+      "qhash": "db05549d26a9a02524faab62d9565fda"
+    }
+  ],
+  "incache": false,
+  "mongo_query": {
+    "fields": [
+      "file"
+    ],
+    "filters": {
+      "grep": [
+        "file.name"
+      ],
+      "sort": [],
+      "unique": 1
+    },
+    "instance": "prod/global",
+    "qcache": 0,
+    "spec": {
+      "block.name": "/ZeroBias/CMSSW_7_6_2-76X_dataRun2_v15_rerecoGT_RelVal_zb2015D-v1/RECO#38d4cab6-5d5f-11e5-824b-001e67ac06a0",
+      "run.run_number": 256677
+    }
+  },
+  "nresults": 1,
+  "status": "ok",
+  "timestamp": 1498331757.0799999
+}
