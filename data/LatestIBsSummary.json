@@ -61,7 +61,7 @@
             "latest_IB": "CMSSW_9_0_X_2017-06-25-0000"
         }, 
         "slc6_amd64_gcc530": {
-            "status": "unknown", 
+            "status": "warning", 
             "latest_IB": "CMSSW_9_0_X_2017-06-25-0000"
         }, 
         "slc7_amd64_gcc530": {
@@ -88,7 +88,7 @@
     "CMSSW_9_2_X": {
         "slc7_aarch64_gcc530": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_9_2_X_2017-06-23-2300"
+            "latest_IB": "CMSSW_9_2_X_2017-06-25-0000"
         }, 
         "slc7_amd64_gcc630": {
             "status": "warning", 
@@ -150,7 +150,7 @@
             "latest_IB": "CMSSW_8_0_X_2017-06-25-0000"
         }, 
         "slc7_amd64_gcc530": {
-            "status": "unknown", 
+            "status": "error", 
             "latest_IB": "CMSSW_8_0_X_2017-06-25-0000"
         }
     }, 

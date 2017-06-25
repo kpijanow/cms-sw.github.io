@@ -1912,7 +1912,17 @@
                 "inProgress": false, 
                 "release_name": "CMSSW_5_3_X", 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "c2c376e2f164f3ca8cff8faf8ec285aa1013a167", 
+                        "title": "Use /proc/self/mounts instead of /etc/mtab", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19374", 
+                        "number": "19374", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Dr15Jones"
+                    }
+                ], 
                 "hlt_tests": "inprogress"
             }
         ]
@@ -3997,7 +4007,17 @@
                 "inProgress": false, 
                 "release_name": "CMSSW_7_1_X", 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "cb12ada7f233508b58309d45ecd1a98310b76c4c", 
+                        "title": "Use /proc/self/mounts instead of /etc/mtab", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19373", 
+                        "number": "19373", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Dr15Jones"
+                    }
+                ], 
                 "hlt_tests": "inprogress"
             }
         ]
@@ -4017,7 +4037,14 @@
                         }
                     }
                 ], 
-                "addons": [], 
+                "addons": [
+                    {
+                        "arch": "slc6_amd64_gcc491", 
+                        "passed": true, 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc491/www/sun/7.5-sun-00/CMSSW_7_5_X_2017-06-25-0000/addOnTests.log", 
+                        "details": {}
+                    }
+                ], 
                 "comp_baseline_state": "ok", 
                 "builds": [
                     {
@@ -4175,9 +4202,9 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc493/www/sun/7.6-sun-00/CMSSW_7_6_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 682, 
+                            "num_passed": 1042, 
                             "known_failed": 0, 
-                            "num_failed": 73
+                            "num_failed": 77
                         }
                     }
                 ], 
@@ -4273,7 +4300,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.0.THREADED-sun-00/CMSSW_8_0_THREADED_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1124, 
+                            "num_passed": 1149, 
                             "known_failed": 0, 
                             "num_failed": 73
                         }
@@ -7503,19 +7530,21 @@
                 "valgrind": "inprogress", 
                 "utests": [
                     {
+                        "arch": "slc7_amd64_gcc530", 
+                        "passed": "failed", 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.0-sun-00/CMSSW_8_0_X_2017-06-25-0000/unitTests-summary.log", 
+                        "details": {
+                            "num_fails": "3"
+                        }
+                    }, 
+                    {
                         "arch": "slc6_amd64_gcc530", 
                         "passed": "unknown", 
                         "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.0-sun-00/CMSSW_8_0_X_2017-06-25-0000/new/logAnalysis.pkl']", 
                         "details": {}
-                    }, 
-                    {
-                        "arch": "slc7_amd64_gcc530", 
-                        "passed": "unknown", 
-                        "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.0-sun-00/CMSSW_8_0_X_2017-06-25-0000/new/logAnalysis.pkl']", 
-                        "details": {}
                     }
                 ], 
-                "dqm_tests": "inprogress", 
+                "dqm_tests": "found", 
                 "igprof": "not-found", 
                 "material_budget": "not-found", 
                 "relvals": [
@@ -7525,7 +7554,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/8.0-sun-00/CMSSW_8_0_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 70, 
+                            "num_passed": 208, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -18654,7 +18683,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/8.1-sun-00/CMSSW_8_1_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1106, 
+                            "num_passed": 1150, 
                             "known_failed": 0, 
                             "num_failed": 1
                         }
@@ -23974,11 +24003,22 @@
                 "relvals": [
                     {
                         "done": false, 
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": true, 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.0-sun-00/CMSSW_9_0_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                        "details": {
+                            "num_passed": 147, 
+                            "known_failed": 0, 
+                            "num_failed": 0
+                        }
+                    }, 
+                    {
+                        "done": true, 
                         "arch": "slc6_amd64_gcc630", 
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.0-sun-00/CMSSW_9_0_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1322, 
+                            "num_passed": 1334, 
                             "known_failed": 0, 
                             "num_failed": 111
                         }
@@ -23989,9 +24029,9 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.0-sun-00/CMSSW_9_0_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 593, 
+                            "num_passed": 694, 
                             "known_failed": 0, 
-                            "num_failed": 69
+                            "num_failed": 70
                         }
                     }, 
                     {
@@ -25819,12 +25859,12 @@
                         }
                     }, 
                     {
-                        "done": false, 
+                        "done": true, 
                         "arch": "slc7_amd64_gcc530", 
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.1-sun-00/CMSSW_9_1_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1376, 
+                            "num_passed": 1384, 
                             "known_failed": 0, 
                             "num_failed": 97
                         }
@@ -25892,7 +25932,14 @@
                 "hlt_tests": "found"
             }, 
             {
-                "fwlite": [], 
+                "fwlite": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.1-sun-11/CMSSW_9_1_X_2017-06-25-1100/new_FWLITE/logAnalysis.pkl", 
+                        "details": {}
+                    }
+                ], 
                 "cmsdistTags": {
                     "slc6_amd64_gcc530": "IB/CMSSW_9_1_X_2017-06-25-0000/slc6_amd64_gcc530"
                 }, 
@@ -27232,6 +27279,15 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
+                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
+                        "title": "adding premixing PU 2017 workflows", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
+                        "number": "19197", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "fabozzi"
+                    }, 
+                    {
                         "hash": "02debae949d2cbdf99aa97625d7d56ec6c5990b1", 
                         "title": "Remove stage2 modules from Legacy L1Trigger DQMOffline Sequence", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19389", 
@@ -27248,6 +27304,24 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "jalimena"
+                    }, 
+                    {
+                        "hash": "15b9c56b85df6e7d835f6708ff02f42c6cdcdadd", 
+                        "title": "Razor trigger offline dqm in 92X", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19189", 
+                        "number": "19189", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jaylawhorn"
+                    }, 
+                    {
+                        "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
+                        "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19412", 
+                        "number": "19412", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cerminar"
                     }, 
                     {
                         "hash": "d29497908ea5453cb7a24c93ce40743d1923a223", 
@@ -27268,13 +27342,31 @@
                         "author_login": "mmusich"
                     }, 
                     {
-                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
-                        "title": "adding premixing PU 2017 workflows", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
-                        "number": "19197", 
+                        "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
+                        "title": "Run2-sim09 Record particle flux in selected volumes", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19258", 
+                        "number": "19258", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "fabozzi"
+                        "author_login": "bsunanda"
+                    }, 
+                    {
+                        "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
+                        "title": "Add HLT_Physics trigger filter to L1T DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19402", 
+                        "number": "19402", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "nsmith-"
+                    }, 
+                    {
+                        "hash": "404d1d9cdcb8decf3938ea35c37d811689c848b5", 
+                        "title": "make RU CSC segment algorithm reproducible by enforcing constness", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19421", 
+                        "number": "19421", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "slava77"
                     }, 
                     {
                         "hash": "578f70885361dbd498b59b5b6af1a0d827355484", 
@@ -27284,6 +27376,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "davidlange6"
+                    }, 
+                    {
+                        "hash": "dd70d8ec19a9e3a4d77af79dd85764b906d19069", 
+                        "title": "Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19423", 
+                        "number": "19423", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-sw"
                     }, 
                     {
                         "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
@@ -27322,13 +27423,22 @@
                         "author_login": "bsunanda"
                     }, 
                     {
-                        "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
-                        "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19412", 
-                        "number": "19412", 
+                        "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
+                        "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19405", 
+                        "number": "19405", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "cerminar"
+                        "author_login": "alesaggio"
+                    }, 
+                    {
+                        "hash": "221c00d860cb391a8428562087763282226e910d", 
+                        "title": "B-tag DQM/Val.: Add efficiency plots vs. eta and phi for cut on discriminators", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18518", 
+                        "number": "18518", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-btv-pog"
                     }
                 ], 
                 "fwlite": []
@@ -28884,6 +28994,15 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
+                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
+                        "title": "adding premixing PU 2017 workflows", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
+                        "number": "19197", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "fabozzi"
+                    }, 
+                    {
                         "hash": "02debae949d2cbdf99aa97625d7d56ec6c5990b1", 
                         "title": "Remove stage2 modules from Legacy L1Trigger DQMOffline Sequence", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19389", 
@@ -28900,6 +29019,24 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "jalimena"
+                    }, 
+                    {
+                        "hash": "15b9c56b85df6e7d835f6708ff02f42c6cdcdadd", 
+                        "title": "Razor trigger offline dqm in 92X", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19189", 
+                        "number": "19189", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jaylawhorn"
+                    }, 
+                    {
+                        "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
+                        "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19412", 
+                        "number": "19412", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cerminar"
                     }, 
                     {
                         "hash": "d29497908ea5453cb7a24c93ce40743d1923a223", 
@@ -28920,13 +29057,31 @@
                         "author_login": "mmusich"
                     }, 
                     {
-                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
-                        "title": "adding premixing PU 2017 workflows", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
-                        "number": "19197", 
+                        "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
+                        "title": "Run2-sim09 Record particle flux in selected volumes", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19258", 
+                        "number": "19258", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "fabozzi"
+                        "author_login": "bsunanda"
+                    }, 
+                    {
+                        "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
+                        "title": "Add HLT_Physics trigger filter to L1T DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19402", 
+                        "number": "19402", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "nsmith-"
+                    }, 
+                    {
+                        "hash": "404d1d9cdcb8decf3938ea35c37d811689c848b5", 
+                        "title": "make RU CSC segment algorithm reproducible by enforcing constness", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19421", 
+                        "number": "19421", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "slava77"
                     }, 
                     {
                         "hash": "578f70885361dbd498b59b5b6af1a0d827355484", 
@@ -28938,6 +29093,15 @@
                         "author_login": "davidlange6"
                     }, 
                     {
+                        "hash": "dd70d8ec19a9e3a4d77af79dd85764b906d19069", 
+                        "title": "Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19423", 
+                        "number": "19423", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-sw"
+                    }, 
+                    {
                         "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
                         "title": "Revert \"adding a simple track cut to all plugins using tracking\"", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19422", 
@@ -28945,6 +29109,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "cms-sw"
+                    }, 
+                    {
+                        "hash": "d79bfdb822ebb2230fb45a654cfa75cc03fe777f", 
+                        "title": "seeding with ME0 Segments", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18625", 
+                        "number": "18625", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jshlee"
                     }, 
                     {
                         "hash": "155714f2eec1c06d98c9cdd6c846ddee197472e1", 
@@ -28965,13 +29138,22 @@
                         "author_login": "bsunanda"
                     }, 
                     {
-                        "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
-                        "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19412", 
-                        "number": "19412", 
+                        "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
+                        "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19405", 
+                        "number": "19405", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "cerminar"
+                        "author_login": "alesaggio"
+                    }, 
+                    {
+                        "hash": "221c00d860cb391a8428562087763282226e910d", 
+                        "title": "B-tag DQM/Val.: Add efficiency plots vs. eta and phi for cut on discriminators", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18518", 
+                        "number": "18518", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-btv-pog"
                     }
                 ], 
                 "fwlite": []
@@ -31065,6 +31247,15 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
+                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
+                        "title": "adding premixing PU 2017 workflows", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
+                        "number": "19197", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "fabozzi"
+                    }, 
+                    {
                         "hash": "02debae949d2cbdf99aa97625d7d56ec6c5990b1", 
                         "title": "Remove stage2 modules from Legacy L1Trigger DQMOffline Sequence", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19389", 
@@ -31081,6 +31272,24 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "jalimena"
+                    }, 
+                    {
+                        "hash": "15b9c56b85df6e7d835f6708ff02f42c6cdcdadd", 
+                        "title": "Razor trigger offline dqm in 92X", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19189", 
+                        "number": "19189", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jaylawhorn"
+                    }, 
+                    {
+                        "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
+                        "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19412", 
+                        "number": "19412", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cerminar"
                     }, 
                     {
                         "hash": "d29497908ea5453cb7a24c93ce40743d1923a223", 
@@ -31101,13 +31310,31 @@
                         "author_login": "mmusich"
                     }, 
                     {
-                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
-                        "title": "adding premixing PU 2017 workflows", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
-                        "number": "19197", 
+                        "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
+                        "title": "Run2-sim09 Record particle flux in selected volumes", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19258", 
+                        "number": "19258", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "fabozzi"
+                        "author_login": "bsunanda"
+                    }, 
+                    {
+                        "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
+                        "title": "Add HLT_Physics trigger filter to L1T DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19402", 
+                        "number": "19402", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "nsmith-"
+                    }, 
+                    {
+                        "hash": "404d1d9cdcb8decf3938ea35c37d811689c848b5", 
+                        "title": "make RU CSC segment algorithm reproducible by enforcing constness", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19421", 
+                        "number": "19421", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "slava77"
                     }, 
                     {
                         "hash": "578f70885361dbd498b59b5b6af1a0d827355484", 
@@ -31119,6 +31346,15 @@
                         "author_login": "davidlange6"
                     }, 
                     {
+                        "hash": "dd70d8ec19a9e3a4d77af79dd85764b906d19069", 
+                        "title": "Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19423", 
+                        "number": "19423", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-sw"
+                    }, 
+                    {
                         "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
                         "title": "Revert \"adding a simple track cut to all plugins using tracking\"", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19422", 
@@ -31126,6 +31362,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "cms-sw"
+                    }, 
+                    {
+                        "hash": "d79bfdb822ebb2230fb45a654cfa75cc03fe777f", 
+                        "title": "seeding with ME0 Segments", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18625", 
+                        "number": "18625", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jshlee"
                     }, 
                     {
                         "hash": "155714f2eec1c06d98c9cdd6c846ddee197472e1", 
@@ -31146,13 +31391,22 @@
                         "author_login": "bsunanda"
                     }, 
                     {
-                        "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
-                        "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19412", 
-                        "number": "19412", 
+                        "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
+                        "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19405", 
+                        "number": "19405", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "cerminar"
+                        "author_login": "alesaggio"
+                    }, 
+                    {
+                        "hash": "221c00d860cb391a8428562087763282226e910d", 
+                        "title": "B-tag DQM/Val.: Add efficiency plots vs. eta and phi for cut on discriminators", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18518", 
+                        "number": "18518", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-btv-pog"
                     }
                 ], 
                 "fwlite": []
@@ -37274,6 +37528,7 @@
                     }
                 ], 
                 "cmsdistTags": {
+                    "slc7_aarch64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_aarch64_gcc530", 
                     "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc630", 
                     "slc6_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc630", 
                     "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530", 
@@ -37335,6 +37590,15 @@
                         }
                     }, 
                     {
+                        "arch": "slc7_aarch64_gcc530", 
+                        "passed": "warning", 
+                        "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/new/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 4, 
+                            "ignoreWarning": 26
+                        }
+                    }, 
+                    {
                         "arch": "slc7_amd64_gcc630", 
                         "passed": "warning", 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/new/logAnalysis.pkl", 
@@ -37377,7 +37641,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1488, 
+                            "num_passed": 1556, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -37427,6 +37691,12 @@
                         "details": {
                             "num_fails": "0"
                         }
+                    }, 
+                    {
+                        "arch": "slc7_aarch64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/new/logAnalysis.pkl']", 
+                        "details": {}
                     }
                 ], 
                 "igprof": "found", 
@@ -37436,6 +37706,7 @@
                 "release_name": "CMSSW_9_2_X_2017-06-25-0000", 
                 "tests_archs": [
                     "slc7_amd64_gcc630", 
+                    "slc7_aarch64_gcc530", 
                     "slc6_amd64_gcc630", 
                     "slc6_amd64_gcc530", 
                     "slc7_amd64_gcc530"
@@ -37578,13 +37849,22 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
-                        "hash": "4a755de53db7df5cde163399485af60819f6adff", 
-                        "title": "Phase2-hgx84 Add functionality to HGCal geometry to access information", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19147", 
-                        "number": "19147", 
+                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
+                        "title": "adding premixing PU 2017 workflows", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
+                        "number": "19197", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "bsunanda"
+                        "author_login": "fabozzi"
+                    }, 
+                    {
+                        "hash": "15b9c56b85df6e7d835f6708ff02f42c6cdcdadd", 
+                        "title": "Razor trigger offline dqm in 92X", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19189", 
+                        "number": "19189", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "jaylawhorn"
                     }, 
                     {
                         "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
@@ -37596,6 +37876,42 @@
                         "author_login": "cerminar"
                     }, 
                     {
+                        "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
+                        "title": "Run2-sim09 Record particle flux in selected volumes", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19258", 
+                        "number": "19258", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "bsunanda"
+                    }, 
+                    {
+                        "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
+                        "title": "Add HLT_Physics trigger filter to L1T DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19402", 
+                        "number": "19402", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "nsmith-"
+                    }, 
+                    {
+                        "hash": "404d1d9cdcb8decf3938ea35c37d811689c848b5", 
+                        "title": "make RU CSC segment algorithm reproducible by enforcing constness", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19421", 
+                        "number": "19421", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "slava77"
+                    }, 
+                    {
+                        "hash": "dd70d8ec19a9e3a4d77af79dd85764b906d19069", 
+                        "title": "Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19423", 
+                        "number": "19423", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-sw"
+                    }, 
+                    {
                         "hash": "d79bfdb822ebb2230fb45a654cfa75cc03fe777f", 
                         "title": "seeding with ME0 Segments", 
                         "url": "https://github.com/cms-sw/cmssw/pull/18625", 
@@ -37605,13 +37921,31 @@
                         "author_login": "jshlee"
                     }, 
                     {
-                        "hash": "815ff6f14c58fd3c59735530371f9a5700c4b70b", 
-                        "title": "adding premixing PU 2017 workflows", 
-                        "url": "https://github.com/cms-sw/cmssw/pull/19197", 
-                        "number": "19197", 
+                        "hash": "4a755de53db7df5cde163399485af60819f6adff", 
+                        "title": "Phase2-hgx84 Add functionality to HGCal geometry to access information", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19147", 
+                        "number": "19147", 
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
-                        "author_login": "fabozzi"
+                        "author_login": "bsunanda"
+                    }, 
+                    {
+                        "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
+                        "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19405", 
+                        "number": "19405", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "alesaggio"
+                    }, 
+                    {
+                        "hash": "221c00d860cb391a8428562087763282226e910d", 
+                        "title": "B-tag DQM/Val.: Add efficiency plots vs. eta and phi for cut on discriminators", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18518", 
+                        "number": "18518", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-btv-pog"
                     }
                 ], 
                 "hlt_tests": "inprogress"

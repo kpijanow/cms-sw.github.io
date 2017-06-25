@@ -1911,7 +1911,17 @@
             "inProgress": false, 
             "release_name": "CMSSW_5_3_X", 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "c2c376e2f164f3ca8cff8faf8ec285aa1013a167", 
+                    "title": "Use /proc/self/mounts instead of /etc/mtab", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19374", 
+                    "number": "19374", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "Dr15Jones"
+                }
+            ], 
             "hlt_tests": "inprogress"
         }
     ]

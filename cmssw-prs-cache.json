@@ -30946,6 +30946,13 @@
     "title": "Moving the Prescale ES producer to the new parser and deleting old XML parser", 
     "user_ref": "o2oRemoveOldParser"
   }, 
+  "18518": {
+    "author": "cms-btv-pog", 
+    "branch": "master", 
+    "hash": "221c00d860cb391a8428562087763282226e910d", 
+    "title": "B-tag DQM/Val.: Add efficiency plots vs. eta and phi for cut on discriminators", 
+    "user_ref": "DQM_eta_phi_PR_from-CMSSW_9_1_X"
+  }, 
   "1852": {
     "author": "Dr15Jones", 
     "branch": "CMSSW_5_3_X", 
@@ -33928,6 +33935,13 @@
     "title": "Adding useful channel id mappings", 
     "user_ref": "extended-contion-mapping"
   }, 
+  "19189": {
+    "author": "jaylawhorn", 
+    "branch": "master", 
+    "hash": "15b9c56b85df6e7d835f6708ff02f42c6cdcdadd", 
+    "title": "Razor trigger offline dqm in 92X", 
+    "user_ref": "RazorTriggerDQM_92X_PR"
+  }, 
   "19190": {
     "author": "bsunanda", 
     "branch": "master", 
@@ -34256,6 +34270,13 @@
     "hash": "89b8005b1959552a1aa1925062fc20daeb0cab62", 
     "title": "Displaced SUSY Trigger Offline Monitoring for 2017", 
     "user_ref": "DisplacedSUSYTriggerOfflineDQM92X"
+  }, 
+  "19258": {
+    "author": "bsunanda", 
+    "branch": "master", 
+    "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
+    "title": "Run2-sim09 Record particle flux in selected volumes", 
+    "user_ref": "Run2-sim09"
   }, 
   "19259": {
     "author": "Dr15Jones", 
@@ -34831,6 +34852,20 @@
     "title": "Initial implementation of PathStatus and EndPathStatus products", 
     "user_ref": "pathProducts2"
   }, 
+  "19373": {
+    "author": "Dr15Jones", 
+    "branch": "CMSSW_7_1_X", 
+    "hash": "cb12ada7f233508b58309d45ecd1a98310b76c4c", 
+    "title": "Use /proc/self/mounts instead of /etc/mtab", 
+    "user_ref": "backportLinxContainerFix_7_1"
+  }, 
+  "19374": {
+    "author": "Dr15Jones", 
+    "branch": "CMSSW_5_3_X", 
+    "hash": "c2c376e2f164f3ca8cff8faf8ec285aa1013a167", 
+    "title": "Use /proc/self/mounts instead of /etc/mtab", 
+    "user_ref": "backportLinxContainerFix_5_3"
+  }, 
   "19376": {
     "author": "pieterdavid", 
     "branch": "master", 
@@ -34943,6 +34978,20 @@
     "title": "Fixing the statistics for MultiRunHarvesting", 
     "user_ref": "FixForMRH"
   }, 
+  "19402": {
+    "author": "nsmith-", 
+    "branch": "master", 
+    "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
+    "title": "Add HLT_Physics trigger filter to L1T DQM", 
+    "user_ref": "hltPhysicsFatEvent"
+  }, 
+  "19405": {
+    "author": "alesaggio", 
+    "branch": "master", 
+    "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
+    "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
+    "user_ref": "removeSiStripSubDetId_DQM_SiStripCommissioningSources"
+  }, 
   "19408": {
     "author": "Dr15Jones", 
     "branch": "master", 
@@ -34985,12 +35034,26 @@
     "title": "Assert if formula is missing in PF calib ", 
     "user_ref": "assertCond"
   }, 
+  "19421": {
+    "author": "slava77", 
+    "branch": "master", 
+    "hash": "404d1d9cdcb8decf3938ea35c37d811689c848b5", 
+    "title": "make RU CSC segment algorithm reproducible by enforcing constness", 
+    "user_ref": "CMSSW_9_2_3_patch1/sign935/cscRUreproducible"
+  }, 
   "19422": {
     "author": "cms-sw", 
     "branch": "master", 
     "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
     "title": "Revert \"adding a simple track cut to all plugins using tracking\"", 
     "user_ref": "revert-19194-TrackCutPhase1_92X"
+  }, 
+  "19423": {
+    "author": "cms-sw", 
+    "branch": "master", 
+    "hash": "dd70d8ec19a9e3a4d77af79dd85764b906d19069", 
+    "title": "Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"", 
+    "user_ref": "revert-19181-92X_Update_Phase1_Pixel_Gains"
   }, 
   "1951": {
     "author": "rappoccio", 
