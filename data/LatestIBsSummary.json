@@ -15,7 +15,7 @@
     }, 
     "CMSSW_8_1_X": {
         "slc6_amd64_gcc530": {
-            "status": "warning", 
+            "status": "error", 
             "latest_IB": "CMSSW_8_1_X_2017-06-25-0000"
         }, 
         "slc7_amd64_gcc530": {
@@ -33,8 +33,8 @@
             "latest_IB": "CMSSW_9_1_X_2017-06-25-0000"
         }, 
         "slc6_amd64_gcc530": {
-            "status": "error", 
-            "latest_IB": "CMSSW_9_1_X_2017-06-25-0000"
+            "status": "unknown", 
+            "latest_IB": "CMSSW_9_1_X_2017-06-25-1100"
         }, 
         "slc7_amd64_gcc530": {
             "status": "error", 
@@ -99,12 +99,18 @@
             "latest_IB": "CMSSW_9_2_X_2017-06-25-0000"
         }, 
         "slc6_amd64_gcc530": {
-            "status": "warning", 
-            "latest_IB": "CMSSW_9_2_X_2017-06-25-0000"
+            "status": "unknown", 
+            "latest_IB": "CMSSW_9_2_X_2017-06-25-1100"
         }, 
         "slc7_amd64_gcc530": {
             "status": "warning", 
             "latest_IB": "CMSSW_9_2_X_2017-06-25-0000"
+        }
+    }, 
+    "CMSSW_7_5_X": {
+        "slc6_amd64_gcc491": {
+            "status": "unknown", 
+            "latest_IB": "CMSSW_7_5_X_2017-06-25-0000"
         }
     }, 
     "CMSSW_9_2_CLANG_X": {
