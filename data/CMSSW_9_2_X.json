@@ -2189,12 +2189,6 @@
                     "details": {}
                 }, 
                 {
-                    "arch": "slc6_amd64_gcc630", 
-                    "passed": true, 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/addOnTests.log", 
-                    "details": {}
-                }, 
-                {
                     "arch": "slc7_amd64_gcc530", 
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/addOnTests.log", 
@@ -2221,14 +2215,6 @@
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/new/logAnalysis.pkl", 
                     "details": {
                         "ignoreWarning": 26
-                    }
-                }, 
-                {
-                    "arch": "slc6_amd64_gcc630", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/new/logAnalysis.pkl", 
-                    "details": {
-                        "ignoreWarning": 5
                     }
                 }, 
                 {
@@ -2270,17 +2256,6 @@
                         "num_passed": 1325, 
                         "known_failed": 0, 
                         "num_failed": 35
-                    }
-                }, 
-                {
-                    "done": true, 
-                    "arch": "slc6_amd64_gcc630", 
-                    "passed": false, 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
-                    "details": {
-                        "num_passed": 1708, 
-                        "known_failed": 13, 
-                        "num_failed": 20
                     }
                 }, 
                 {
@@ -2328,14 +2303,6 @@
                     }
                 }, 
                 {
-                    "arch": "slc6_amd64_gcc630", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/unitTests-summary.log", 
-                    "details": {
-                        "num_fails": "0"
-                    }
-                }, 
-                {
                     "arch": "slc7_amd64_gcc530", 
                     "passed": "passed", 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-18-0000/unitTests-summary.log", 
@@ -2368,7 +2335,6 @@
             "tests_archs": [
                 "slc7_aarch64_gcc530", 
                 "slc7_amd64_gcc630", 
-                "slc6_amd64_gcc630", 
                 "slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530"
             ], 
@@ -2935,7 +2901,7 @@
             "cmsdistTags": {
                 "slc7_aarch64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_aarch64_gcc530", 
                 "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_amd64_gcc630", 
-                "slc6_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc630", 
+                "slc6_amd64_gcc630": "Not Found", 
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_amd64_gcc530"
             }, 
@@ -3140,7 +3106,7 @@
             "cmsdistTags": {
                 "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-19-1100/slc7_amd64_gcc630", 
                 "slc7_aarch64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_aarch64_gcc530", 
-                "slc6_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc630", 
+                "slc6_amd64_gcc630": "Not Found", 
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-18-0000/slc7_amd64_gcc530"
             }, 
