@@ -6274,7 +6274,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 948, 
+                        "num_passed": 1099, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -6285,7 +6285,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1463, 
+                        "num_passed": 1526, 
                         "known_failed": 11, 
                         "num_failed": 0
                     }
@@ -6296,7 +6296,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1570, 
+                        "num_passed": 1644, 
                         "known_failed": 10, 
                         "num_failed": 0
                     }
@@ -6321,18 +6321,20 @@
                     }
                 }, 
                 {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
                     "arch": "slc7_amd64_gcc630", 
                     "passed": "passed", 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/unitTests-summary.log", 
                     "details": {
                         "num_fails": "0"
                     }
-                }, 
-                {
-                    "arch": "slc7_amd64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/new/logAnalysis.pkl']", 
-                    "details": {}
                 }
             ], 
             "igprof": "found", 
