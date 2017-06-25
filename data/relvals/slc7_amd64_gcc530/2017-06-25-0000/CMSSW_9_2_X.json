@@ -365,6 +365,34 @@
     },
     {
         "exitcode": 0,
+        "id": "4.45",
+        "known_error": 0,
+        "name": "RunJet2012A+RunJet2012A+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 234
+            },
+            {
+                "errors": 28,
+                "status": "PASSED",
+                "warnings": 5159
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.51",
         "known_error": 0,
         "name": "RunMinBias2012B+RunMinBias2012B+HLTD+RECODR1reHLT+HARVESTDR1reHLT",
@@ -2820,6 +2848,34 @@
                 "errors": 228,
                 "status": "PASSED",
                 "warnings": 6021
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.804",
+        "known_error": 0,
+        "name": "RunJetHT2015C+RunJetHT2015C+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 322
+            },
+            {
+                "errors": 228,
+                "status": "PASSED",
+                "warnings": 10565
             },
             {
                 "errors": 1,
@@ -9227,6 +9283,34 @@
     },
     {
         "exitcode": 0,
+        "id": "10024.6",
+        "known_error": 0,
+        "name": "TTbar_13+TTbar_13TeV_TuneCUETP8M1_2017_GenSimFullINPUT+DigiFull_2017+RecoFull_trackingLowPU_2017+HARVESTFull_2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 276
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1215
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "10025.0",
         "known_error": 0,
         "name": "ZEE_13+ZEE_13TeV_TuneCUETP8M1_2017_GenSimFullINPUT+DigiFull_2017+RecoFull_2017+ALCAFull_2017+HARVESTFull_2017",
@@ -10252,6 +10336,29 @@
                 "errors": 2,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25402.0",
+        "known_error": 0,
+        "name": "TTbar_13+FS_TTbar_13_UP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 336
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 855
             }
         ]
     },
