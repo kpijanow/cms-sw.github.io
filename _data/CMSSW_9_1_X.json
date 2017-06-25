@@ -1802,7 +1802,7 @@
             "compared_tags": "CMSSW_9_1_X_2017-06-25-1100-->CMSSW_9_1_X_2017-06-25-2300", 
             "valgrind": "found", 
             "material_budget": "slc6_amd64_gcc530:0", 
-            "dqm_tests": "inprogress", 
+            "dqm_tests": "found", 
             "relvals": [
                 {
                     "done": false, 
@@ -1810,9 +1810,9 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.1-sun-23/CMSSW_9_1_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 274, 
+                        "num_passed": 418, 
                         "known_failed": 0, 
-                        "num_failed": 3
+                        "num_failed": 62
                     }
                 }
             ], 
@@ -1820,9 +1820,11 @@
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.1-sun-23/CMSSW_9_1_X_2017-06-25-2300/new/logAnalysis.pkl']", 
-                    "details": {}
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.1-sun-23/CMSSW_9_1_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
                 }
             ], 
             "igprof": "found", 
