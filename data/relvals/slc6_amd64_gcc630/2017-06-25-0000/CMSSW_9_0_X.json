@@ -6290,6 +6290,29 @@
     },
     {
         "exitcode": 0,
+        "id": "131.0",
+        "known_error": 0,
+        "name": "SinglePiPt100+SinglePiPt100+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 42
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 129
+            },
+            {
+                "errors": 40,
+                "status": "PASSED",
+                "warnings": 650
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "132.0",
         "known_error": 0,
         "name": "LM9p+LM9p+DIGI+RECO",
@@ -6364,6 +6387,34 @@
     },
     {
         "exitcode": 0,
+        "id": "134.813",
+        "known_error": 0,
+        "name": "RunCosmics2015C+RunCosmics2015C+RECOCOSDRUN2+ALCACOSDRUN2+HARVESTDCRUN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 1450
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 270
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 12
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "135.1",
         "known_error": 0,
         "name": "TTbar_13+TTbarFS_13+HARVESTUP15FS+MINIAODMCUP15FS",
@@ -6428,6 +6479,24 @@
                 "errors": 16,
                 "status": "PASSED",
                 "warnings": 612
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "135.13",
+        "known_error": 0,
+        "name": "TTbar_13+TTbarFS_13_trackingOnlyValidation+HARVESTUP15FS_trackingOnly",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 343
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 11
             }
         ]
     },
@@ -7281,6 +7350,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 117
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "514.0",
+        "known_error": 0,
+        "name": "GGToHgg_NLO_Pow_13TeV_py8+GGToH_Pow_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_Hgg_powhegEmissionVeto_pythia8+HARVESTGEN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 126
             },
             {
                 "errors": 0,
