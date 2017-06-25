@@ -2066,10 +2066,118 @@
         {
             "addons": [], 
             "comp_baseline_state": "errors", 
+            "builds": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "warning", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-11/CMSSW_9_2_ROOT6_X_2017-06-25-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "compWarning": 71, 
+                        "ignoreWarning": 1579
+                    }
+                }
+            ], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-23-2300-->CMSSW_9_2_ROOT6_X_2017-06-25-1100", 
+            "dqm_tests": "inprogress", 
+            "utests": [
+                {
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-11/CMSSW_9_2_ROOT6_X_2017-06-25-1100/new/logAnalysis.pkl']", 
+                    "details": {}
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-25-1100/slc7_aarch64_gcc700"
+            }, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_ROOT6_X_2017-06-25-1100", 
+            "tests_archs": [
+                "slc7_aarch64_gcc700"
+            ], 
+            "RVExceptions": null, 
+            "merged_prs": [
+                {
+                    "hash": "02debae949d2cbdf99aa97625d7d56ec6c5990b1", 
+                    "title": "Remove stage2 modules from Legacy L1Trigger DQMOffline Sequence", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19389", 
+                    "number": "19389", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "z4027163"
+                }, 
+                {
+                    "hash": "f48928fa2cca66532a45babe00bff12d273b673f", 
+                    "title": "add offline DQM for NoBPTX EXO triggers", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/18950", 
+                    "number": "18950", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jalimena"
+                }, 
+                {
+                    "hash": "d29497908ea5453cb7a24c93ce40743d1923a223", 
+                    "title": "[92X] Add Payload Inspector classes for SiStripApvGains", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19193", 
+                    "number": "19193", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "6b8c96e97cc34b261cb908eba92ba04f0efb17ef", 
+                    "title": "[92X] Adding the DQMEventInfo module in SiStripGains and SiPixelAli PCL sequences", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19385", 
+                    "number": "19385", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "578f70885361dbd498b59b5b6af1a0d827355484", 
+                    "title": "Assert if formula is missing in PF calib ", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19420", 
+                    "number": "19420", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "davidlange6"
+                }, 
+                {
+                    "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
+                    "title": "Revert \"adding a simple track cut to all plugins using tracking\"", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19422", 
+                    "number": "19422", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-sw"
+                }, 
+                {
+                    "hash": "155714f2eec1c06d98c9cdd6c846ddee197472e1", 
+                    "title": "OnlineDQM : Tune L1T Muon Mismatch Ratio QTs", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19311", 
+                    "number": "19311", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "stahlleiton"
+                }
+            ], 
+            "fwlite": []
+        }, 
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
             "builds": [], 
             "valgrind": "not-found", 
             "comp_baseline": "not-found", 
-            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-23-2300-->CMSSW_9_2_ROOT6_X", 
+            "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-25-1100-->CMSSW_9_2_ROOT6_X", 
             "dqm_tests": "inprogress", 
             "utests": [], 
             "cmsdistTags": {}, 
@@ -2094,24 +2202,6 @@
                     "author_login": "fabozzi"
                 }, 
                 {
-                    "hash": "02debae949d2cbdf99aa97625d7d56ec6c5990b1", 
-                    "title": "Remove stage2 modules from Legacy L1Trigger DQMOffline Sequence", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19389", 
-                    "number": "19389", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "z4027163"
-                }, 
-                {
-                    "hash": "f48928fa2cca66532a45babe00bff12d273b673f", 
-                    "title": "add offline DQM for NoBPTX EXO triggers", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/18950", 
-                    "number": "18950", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "jalimena"
-                }, 
-                {
                     "hash": "15b9c56b85df6e7d835f6708ff02f42c6cdcdadd", 
                     "title": "Razor trigger offline dqm in 92X", 
                     "url": "https://github.com/cms-sw/cmssw/pull/19189", 
@@ -2128,24 +2218,6 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "cerminar"
-                }, 
-                {
-                    "hash": "d29497908ea5453cb7a24c93ce40743d1923a223", 
-                    "title": "[92X] Add Payload Inspector classes for SiStripApvGains", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19193", 
-                    "number": "19193", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "mmusich"
-                }, 
-                {
-                    "hash": "6b8c96e97cc34b261cb908eba92ba04f0efb17ef", 
-                    "title": "[92X] Adding the DQMEventInfo module in SiStripGains and SiPixelAli PCL sequences", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19385", 
-                    "number": "19385", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "mmusich"
                 }, 
                 {
                     "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
@@ -2175,28 +2247,10 @@
                     "author_login": "slava77"
                 }, 
                 {
-                    "hash": "578f70885361dbd498b59b5b6af1a0d827355484", 
-                    "title": "Assert if formula is missing in PF calib ", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19420", 
-                    "number": "19420", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "davidlange6"
-                }, 
-                {
                     "hash": "dd70d8ec19a9e3a4d77af79dd85764b906d19069", 
                     "title": "Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"", 
                     "url": "https://github.com/cms-sw/cmssw/pull/19423", 
                     "number": "19423", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "cms-sw"
-                }, 
-                {
-                    "hash": "bf9fb6fb31587e7d48001c1b58807ec395e922b5", 
-                    "title": "Revert \"adding a simple track cut to all plugins using tracking\"", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19422", 
-                    "number": "19422", 
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "cms-sw"
@@ -2209,15 +2263,6 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "jshlee"
-                }, 
-                {
-                    "hash": "155714f2eec1c06d98c9cdd6c846ddee197472e1", 
-                    "title": "OnlineDQM : Tune L1T Muon Mismatch Ratio QTs", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19311", 
-                    "number": "19311", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "stahlleiton"
                 }, 
                 {
                     "hash": "4a755de53db7df5cde163399485af60819f6adff", 
