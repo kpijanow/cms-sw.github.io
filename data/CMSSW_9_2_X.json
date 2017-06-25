@@ -6226,7 +6226,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-00/CMSSW_9_2_X_2017-06-25-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1572, 
+                        "num_passed": 1599, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -6376,7 +6376,14 @@
             "cmsdistTags": {
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530"
             }, 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-11/CMSSW_9_2_X_2017-06-25-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
             "builds": [
                 {
