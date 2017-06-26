@@ -90,6 +90,90 @@
     },
     {
         "exitcode": 0,
+        "id": "14.0",
+        "known_error": 0,
+        "name": "WpM+WpMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 163
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 893
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "21.0",
+        "known_error": 0,
+        "name": "SingleMuPt100+SingleMuPt100INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 61
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 689
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "23.0",
+        "known_error": 0,
+        "name": "JpsiMM+JpsiMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 149
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 736
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "30.0",
         "known_error": 0,
         "name": "ZMM+ZMMINPUT+DIGI+RECO+HARVEST",
@@ -141,6 +225,29 @@
                 "errors": 6,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "106.0",
+        "known_error": 0,
+        "name": "bJpsiX+bJpsiX+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
             }
         ]
     },
@@ -312,6 +419,169 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 73
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25406.0",
+        "known_error": 0,
+        "name": "ZMM_13+FS_ZMM_13_UP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 314
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 1
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250200.17",
+        "known_error": 0,
+        "name": "ZEE_13UP17+ZEE_13UP17INPUT+DIGIPRMXUP17_PU25+RECOPRMXUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 18,
+                "status": "PASSED",
+                "warnings": 1680
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 335
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250203.17",
+        "known_error": 0,
+        "name": "H125GGgluonfusion_13UP17+H125GGgluonfusion_13UP17INPUT+DIGIPRMXUP17_PU25+RECOPRMXUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 2994
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 368
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250204.17",
+        "known_error": 0,
+        "name": "QQH1352T_13UP17+QQH1352T_13UP17INPUT+DIGIPRMXUP17_PU25+RECOPRMXUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 649
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 507
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250205.17",
+        "known_error": 0,
+        "name": "ZTT_13UP17+ZTT_13UP17INPUT+DIGIPRMXUP17_PU25+RECOPRMXUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 901
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 513
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250207.17",
+        "known_error": 0,
+        "name": "NuGun_UP17+NuGun_UP17INPUT+DIGIPRMXUP17_PU25+RECOPRMXUP17_PU25+HARVESTUP17_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 706
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 540
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
             }
         ]
     }
