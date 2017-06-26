@@ -1567,18 +1567,20 @@
             "dqm_tests": "found", 
             "utests": [
                 {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
                     "arch": "slc7_amd64_gcc630", 
                     "passed": "passed", 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/unitTests-summary.log", 
                     "details": {
                         "num_fails": "0"
                     }
-                }, 
-                {
-                    "arch": "slc6_amd64_gcc630", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/new/logAnalysis.pkl']", 
-                    "details": {}
                 }
             ], 
             "cmsdistTags": {
@@ -1593,8 +1595,8 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 183, 
-                        "known_failed": 0, 
+                        "num_passed": 385, 
+                        "known_failed": 1, 
                         "num_failed": 0
                     }
                 }, 
@@ -1604,7 +1606,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 479, 
+                        "num_passed": 547, 
                         "known_failed": 7, 
                         "num_failed": 0
                     }
@@ -1807,7 +1809,17 @@
             "release_name": "CMSSW_9_2_DEVEL_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "585d02f1718c4f8b7ead6579fcbabbb9b32c2b57", 
+                    "title": "Hlt tau validation update cmssw92 x june2017", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19216", 
+                    "number": "19216", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "slehti"
+                }
+            ], 
             "fwlite": []
         }
     ]

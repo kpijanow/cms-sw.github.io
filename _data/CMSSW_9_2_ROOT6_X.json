@@ -3,67 +3,27 @@
     "release_name": "CMSSW_9_2_ROOT6_X", 
     "comparisons": [
         {
-            "addons": [
-                {
-                    "arch": "slc6_amd64_gcc700", 
-                    "passed": true, 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/addOnTests.log", 
-                    "details": {}
-                }
-            ], 
+            "addons": [], 
             "comp_baseline_state": "errors", 
-            "builds": [
-                {
-                    "arch": "slc6_amd64_gcc700", 
-                    "passed": "warning", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/new/logAnalysis.pkl", 
-                    "details": {
-                        "compWarning": 106, 
-                        "ignoreWarning": 1572
-                    }
-                }
-            ], 
+            "builds": [], 
             "valgrind": "not-found", 
             "comp_baseline": "not-found", 
             "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-18-1100-->CMSSW_9_2_ROOT6_X_2017-06-18-2300", 
             "dqm_tests": "found", 
-            "utests": [
-                {
-                    "arch": "slc6_amd64_gcc700", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/unitTests-summary.log", 
-                    "details": {
-                        "num_fails": "0"
-                    }
-                }
-            ], 
+            "utests": [], 
             "cmsdistTags": {
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_ROOT6_X_2017-06-18-2300/slc6_amd64_gcc530", 
                 "slc6_amd64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-18-2300/slc6_amd64_gcc700"
             }, 
             "igprof": "not-found", 
-            "relvals": [
-                {
-                    "done": true, 
-                    "arch": "slc6_amd64_gcc700", 
-                    "passed": false, 
-                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-18-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
-                    "details": {
-                        "num_passed": 1680, 
-                        "known_failed": 33, 
-                        "num_failed": 1
-                    }
-                }
-            ], 
+            "relvals": [], 
             "static_checks": "not-found", 
             "isIB": true, 
             "hlt_tests": "not-found", 
             "material_budget": "not-found", 
             "inProgress": false, 
             "release_name": "CMSSW_9_2_ROOT6_X_2017-06-18-2300", 
-            "tests_archs": [
-                "slc6_amd64_gcc700"
-            ], 
+            "tests_archs": [], 
             "RVExceptions": null, 
             "merged_prs": [
                 {
@@ -2050,7 +2010,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-11/CMSSW_9_2_ROOT6_X_2017-06-25-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 1580, 
+                        "num_passed": 1617, 
                         "known_failed": 32, 
                         "num_failed": 2
                     }
@@ -2142,6 +2102,12 @@
                     "details": {}
                 }, 
                 {
+                    "arch": "slc6_amd64_gcc700", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
                     "arch": "slc7_aarch64_gcc700", 
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/addOnTests.log", 
@@ -2217,7 +2183,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 679, 
+                        "num_passed": 852, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -2228,7 +2194,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 0, 
+                        "num_passed": 49, 
                         "known_failed": 1, 
                         "num_failed": 0
                     }
@@ -2239,7 +2205,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 33, 
+                        "num_passed": 79, 
                         "known_failed": 0, 
                         "num_failed": 1
                     }
@@ -2380,7 +2346,17 @@
             "release_name": "CMSSW_9_2_ROOT6_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "585d02f1718c4f8b7ead6579fcbabbb9b32c2b57", 
+                    "title": "Hlt tau validation update cmssw92 x june2017", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19216", 
+                    "number": "19216", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "slehti"
+                }
+            ], 
             "fwlite": []
         }
     ]

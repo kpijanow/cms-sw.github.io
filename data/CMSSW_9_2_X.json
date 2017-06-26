@@ -6211,24 +6211,212 @@
             "hlt_tests": "found"
         }, 
         {
-            "fwlite": [], 
-            "cmsdistTags": {}, 
-            "addons": [], 
+            "fwlite": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/new_FWLITE/logAnalysis.pkl", 
+                    "details": {}
+                }
+            ], 
+            "cmsdistTags": {
+                "slc7_aarch64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_aarch64_gcc530", 
+                "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc630", 
+                "slc6_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc630", 
+                "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530", 
+                "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc530"
+            }, 
+            "addons": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
-            "builds": [], 
-            "compared_tags": "CMSSW_9_2_X_2017-06-25-1100-->CMSSW_9_2_X", 
-            "valgrind": "inprogress", 
-            "material_budget": "inprogress", 
-            "dqm_tests": "inprogress", 
-            "relvals": [], 
+            "builds": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 3
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 2
+                    }
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 2
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 3
+                    }
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 2
+                    }
+                }
+            ], 
+            "compared_tags": "CMSSW_9_2_X_2017-06-25-1100-->CMSSW_9_2_X_2017-06-25-2300", 
+            "valgrind": "found", 
+            "material_budget": "slc6_amd64_gcc530:8", 
+            "dqm_tests": "found", 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1646, 
+                        "known_failed": 0, 
+                        "num_failed": 1
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1782, 
+                        "known_failed": 13, 
+                        "num_failed": 0
+                    }
+                }, 
+                {
+                    "done": false, 
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1732, 
+                        "known_failed": 0, 
+                        "num_failed": 1
+                    }
+                }, 
+                {
+                    "done": false, 
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1382, 
+                        "known_failed": 34, 
+                        "num_failed": 0
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 1783, 
+                        "known_failed": 13, 
+                        "num_failed": 0
+                    }
+                }
+            ], 
             "static_checks": "inprogress", 
-            "utests": [], 
-            "igprof": "inprogress", 
-            "isIB": false, 
-            "comp_baseline": "inprogress", 
+            "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }, 
+                {
+                    "arch": "slc7_aarch64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "2"
+                    }
+                }
+            ], 
+            "igprof": "found", 
+            "isIB": true, 
+            "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_9_2_X_2017-06-25-2300/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
             "inProgress": false, 
-            "release_name": "CMSSW_9_2_X", 
-            "tests_archs": [], 
+            "release_name": "CMSSW_9_2_X_2017-06-25-2300", 
+            "tests_archs": [
+                "slc7_aarch64_gcc530", 
+                "slc7_amd64_gcc630", 
+                "slc6_amd64_gcc630", 
+                "slc6_amd64_gcc530", 
+                "slc7_amd64_gcc530"
+            ], 
             "RVExceptions": null, 
             "merged_prs": [
                 {
@@ -6259,6 +6447,15 @@
                     "author_login": "cerminar"
                 }, 
                 {
+                    "hash": "585d02f1718c4f8b7ead6579fcbabbb9b32c2b57", 
+                    "title": "Hlt tau validation update cmssw92 x june2017", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19216", 
+                    "number": "19216", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "slehti"
+                }, 
+                {
                     "hash": "8f6332e9ed387af22addcfb6348083051e5881c5", 
                     "title": "Run2-sim09 Record particle flux in selected volumes", 
                     "url": "https://github.com/cms-sw/cmssw/pull/19258", 
@@ -6266,15 +6463,6 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "bsunanda"
-                }, 
-                {
-                    "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
-                    "title": "Add HLT_Physics trigger filter to L1T DQM", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19402", 
-                    "number": "19402", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "nsmith-"
                 }, 
                 {
                     "hash": "404d1d9cdcb8decf3938ea35c37d811689c848b5", 
@@ -6295,6 +6483,15 @@
                     "author_login": "cms-sw"
                 }, 
                 {
+                    "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
+                    "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19405", 
+                    "number": "19405", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "alesaggio"
+                }, 
+                {
                     "hash": "d79bfdb822ebb2230fb45a654cfa75cc03fe777f", 
                     "title": "seeding with ME0 Segments", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18625", 
@@ -6313,15 +6510,6 @@
                     "author_login": "bsunanda"
                 }, 
                 {
-                    "hash": "eeaba5338173ec8bc216a913af7dfe13e893f2b2", 
-                    "title": "Deprecation of T**DetId in DQM/SiStripCommissioningSources", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19405", 
-                    "number": "19405", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "alesaggio"
-                }, 
-                {
                     "hash": "221c00d860cb391a8428562087763282226e910d", 
                     "title": "B-tag DQM/Val.: Add efficiency plots vs. eta and phi for cut on discriminators", 
                     "url": "https://github.com/cms-sw/cmssw/pull/18518", 
@@ -6329,8 +6517,40 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "cms-btv-pog"
+                }, 
+                {
+                    "hash": "5679c513b1dcd3d7ab23ddbee3b5205304c249df", 
+                    "title": "Add HLT_Physics trigger filter to L1T DQM", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19402", 
+                    "number": "19402", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "nsmith-"
                 }
             ], 
+            "hlt_tests": "found"
+        }, 
+        {
+            "fwlite": [], 
+            "cmsdistTags": {}, 
+            "addons": [], 
+            "comp_baseline_state": "ok", 
+            "builds": [], 
+            "compared_tags": "CMSSW_9_2_X_2017-06-25-2300-->CMSSW_9_2_X", 
+            "valgrind": "inprogress", 
+            "material_budget": "inprogress", 
+            "dqm_tests": "inprogress", 
+            "relvals": [], 
+            "static_checks": "inprogress", 
+            "utests": [], 
+            "igprof": "inprogress", 
+            "isIB": false, 
+            "comp_baseline": "inprogress", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_2_X", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [], 
             "hlt_tests": "inprogress"
         }
     ]
