@@ -26130,11 +26130,52 @@
             }, 
             {
                 "fwlite": [], 
+                "cmsdistTags": {
+                    "slc6_amd64_gcc530": "IB/CMSSW_9_1_X_2017-06-25-0000/slc6_amd64_gcc530"
+                }, 
+                "addons": [], 
+                "comp_baseline_state": "ok", 
+                "builds": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.1-mon-11/CMSSW_9_1_X_2017-06-26-1100/new/logAnalysis.pkl", 
+                        "details": {}
+                    }
+                ], 
+                "compared_tags": "CMSSW_9_1_X_2017-06-25-2300-->CMSSW_9_1_X_2017-06-26-1100", 
+                "valgrind": "inprogress", 
+                "material_budget": "inprogress", 
+                "dqm_tests": "inprogress", 
+                "relvals": [], 
+                "static_checks": "inprogress", 
+                "utests": [
+                    {
+                        "arch": "slc6_amd64_gcc530", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.1-mon-11/CMSSW_9_1_X_2017-06-26-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
+                "igprof": "inprogress", 
+                "isIB": true, 
+                "comp_baseline": "inprogress", 
+                "inProgress": false, 
+                "release_name": "CMSSW_9_1_X_2017-06-26-1100", 
+                "tests_archs": [
+                    "slc6_amd64_gcc530"
+                ], 
+                "RVExceptions": null, 
+                "merged_prs": [], 
+                "hlt_tests": "inprogress"
+            }, 
+            {
+                "fwlite": [], 
                 "cmsdistTags": {}, 
                 "addons": [], 
                 "comp_baseline_state": "ok", 
                 "builds": [], 
-                "compared_tags": "CMSSW_9_1_X_2017-06-25-2300-->CMSSW_9_1_X", 
+                "compared_tags": "CMSSW_9_1_X_2017-06-26-1100-->CMSSW_9_1_X", 
                 "valgrind": "inprogress", 
                 "material_budget": "inprogress", 
                 "dqm_tests": "inprogress", 
@@ -29275,7 +29316,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1693, 
+                            "num_passed": 1722, 
                             "known_failed": 13, 
                             "num_failed": 0
                         }
@@ -31722,8 +31763,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1350, 
-                            "known_failed": 29, 
+                            "num_passed": 1436, 
+                            "known_failed": 30, 
                             "num_failed": 1
                         }
                     }, 
@@ -31733,8 +31774,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1150, 
-                            "known_failed": 30, 
+                            "num_passed": 1153, 
+                            "known_failed": 31, 
                             "num_failed": 2
                         }
                     }
