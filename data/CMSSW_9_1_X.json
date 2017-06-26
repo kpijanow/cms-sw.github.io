@@ -1865,7 +1865,19 @@
             "valgrind": "found", 
             "material_budget": "slc6_amd64_gcc530:0", 
             "dqm_tests": "inprogress", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.1-mon-11/CMSSW_9_1_X_2017-06-26-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 128, 
+                        "known_failed": 0, 
+                        "num_failed": 1
+                    }
+                }
+            ], 
             "static_checks": "inprogress", 
             "utests": [
                 {
@@ -1875,9 +1887,9 @@
                     "details": {}
                 }
             ], 
-            "igprof": "inprogress", 
+            "igprof": "found", 
             "isIB": true, 
-            "comp_baseline": "inprogress", 
+            "comp_baseline": "https://cmssdt.cern.ch/SDT/jenkins-artifacts/ib-baseline-tests/CMSSW_9_1_X_2017-06-26-1100/slc6_amd64_gcc530/-GenuineIntel/matrix-results", 
             "inProgress": false, 
             "release_name": "CMSSW_9_1_X_2017-06-26-1100", 
             "tests_archs": [
