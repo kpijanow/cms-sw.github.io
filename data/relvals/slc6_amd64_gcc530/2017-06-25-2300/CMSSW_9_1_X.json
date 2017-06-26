@@ -4385,6 +4385,34 @@
     },
     {
         "exitcode": 0,
+        "id": "12.0",
+        "known_error": 0,
+        "name": "ZpMM+ZpMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 340
+            },
+            {
+                "errors": 640,
+                "status": "PASSED",
+                "warnings": 2272
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "13.0",
         "known_error": 0,
         "name": "QCD_Pt_3000_3500+QCD_Pt_3000_3500INPUT+DIGI+RECO+HARVEST",
@@ -4403,6 +4431,34 @@
                 "errors": 32,
                 "status": "PASSED",
                 "warnings": 141
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "14.0",
+        "known_error": 0,
+        "name": "WpM+WpMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 173
+            },
+            {
+                "errors": 644,
+                "status": "PASSED",
+                "warnings": 3193
             },
             {
                 "errors": 6,
@@ -4726,6 +4782,34 @@
     },
     {
         "exitcode": 0,
+        "id": "26.0",
+        "known_error": 0,
+        "name": "WE+WEINPUT+DIGI+RECOAlCaCalo+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 335
+            },
+            {
+                "errors": 734,
+                "status": "PASSED",
+                "warnings": 2464
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "27.0",
         "known_error": 0,
         "name": "WM+WMINPUT+DIGI+RECO+HARVEST",
@@ -4782,6 +4866,34 @@
     },
     {
         "exitcode": 0,
+        "id": "29.0",
+        "known_error": 0,
+        "name": "ZEE+ZEEINPUT+DIGI+RECOAlCaCalo+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 140
+            },
+            {
+                "errors": 786,
+                "status": "PASSED",
+                "warnings": 2293
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "30.0",
         "known_error": 0,
         "name": "ZMM+ZMMINPUT+DIGI+RECO+HARVEST",
@@ -4828,6 +4940,34 @@
                 "errors": 658,
                 "status": "PASSED",
                 "warnings": 2214
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "32.0",
+        "known_error": 0,
+        "name": "H130GGgluonfusion+H130GGgluonfusionINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 255
+            },
+            {
+                "errors": 660,
+                "status": "PASSED",
+                "warnings": 2569
             },
             {
                 "errors": 6,
@@ -5090,6 +5230,34 @@
     },
     {
         "exitcode": 0,
+        "id": "45.0",
+        "known_error": 0,
+        "name": "ZpTT_1500_8TeV+ZpTT_1500_8TeVINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 201
+            },
+            {
+                "errors": 710,
+                "status": "PASSED",
+                "warnings": 1881
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "101.0",
         "known_error": 0,
         "name": "SingleElectronE120EHCAL+SingleElectronE120EHCAL",
@@ -5295,6 +5463,75 @@
                 "errors": 32,
                 "status": "PASSED",
                 "warnings": 454
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "112.0",
+        "known_error": 0,
+        "name": "QCD_Pt_15_20+QCD_Pt_15_20+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 53
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 60,
+                "status": "PASSED",
+                "warnings": 880
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "113.0",
+        "known_error": 0,
+        "name": "QCD_Pt_20_30+QCD_Pt_20_30+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 52
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 88
+            },
+            {
+                "errors": 64,
+                "status": "PASSED",
+                "warnings": 745
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "114.0",
+        "known_error": 0,
+        "name": "QCD_Pt_30_50+QCD_Pt_30_50+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 74
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 65
+            },
+            {
+                "errors": 66,
+                "status": "PASSED",
+                "warnings": 807
             }
         ]
     },
@@ -7341,6 +7578,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 186
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "554.0",
+        "known_error": 0,
+        "name": "VBFToH4l_NLO_Pow_JHU_13TeV_py8+VBFToH_Pow_JHU4l_LHE_13TeV+Hadronizer_TuneCUETP8M1_13TeV_powhegEmissionVeto_pythia8+HARVESTGEN2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 19
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 90
             },
             {
                 "errors": 0,
@@ -12110,6 +12370,29 @@
                 "errors": 16,
                 "status": "PASSED",
                 "warnings": 594
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250408.0",
+        "known_error": 0,
+        "name": "QCD_FlatPt_15_3000HS_13+FS_QCD_FlatPt_15_3000HS_13_PRMXUP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 104
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 389
             }
         ]
     },
