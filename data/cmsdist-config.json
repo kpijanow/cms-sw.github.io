@@ -2,6 +2,107 @@
   {
     "ADDITIONAL_TESTS": "HLT,baseline,static-checks,fwlite,valgrind,igprof,geometry,iwyu,material-budget",
     "BUILD_PATCH_RELEASE": "1",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc530",
+    "ENABLE_DEBUG": "1",
+    "PKGTOOLS_TAG": "V00-30-XX",
+    "PROD_ARCH": "1",
+    "PRS_TEST_CLANG": "1",
+    "PR_TESTS": "1",
+    "RELEASE_BRANCH": "master",
+    "RELEASE_QUEUE": "CMSSW_9_3_X",
+    "SCRAM_ARCH": "slc6_amd64_gcc530"
+  },
+  {
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc630",
+    "PKGTOOLS_TAG": "V00-30-XX",
+    "PR_TESTS": "1",
+    "RELEASE_BRANCH": "master",
+    "RELEASE_QUEUE": "CMSSW_9_3_X",
+    "SCRAM_ARCH": "slc6_amd64_gcc630"
+  },
+  {
+    "BUILD_HOUR": "23",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc700",
+    "PKGTOOLS_TAG": "V00-30-XX",
+    "RELEASE_BRANCH": "CMSSW_9_3_ROOT6_X",
+    "RELEASE_QUEUE": "CMSSW_9_3_ROOT6_X",
+    "SCRAM_ARCH": "slc6_amd64_gcc700"
+  },
+  {
+    "BUILD_HOUR": "23",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc700",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "RELEASE_BRANCH": "CMSSW_9_3_ROOT6_X",
+    "RELEASE_QUEUE": "CMSSW_9_3_ROOT6_X",
+    "SCRAM_ARCH": "slc7_ppc64le_gcc700"
+  },
+  {
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc530",
+    "DOCKER_IMG": "cmssw/slc7-builder:latest",
+    "PKGTOOLS_TAG": "V00-30-XX",
+    "RELEASE_BRANCH": "master",
+    "RELEASE_QUEUE": "CMSSW_9_3_X",
+    "SCRAM_ARCH": "slc7_amd64_gcc530"
+  },
+  {
+    "BUILD_HOUR": "23",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc530",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "RELEASE_BRANCH": "master",
+    "RELEASE_QUEUE": "CMSSW_9_3_CLANG_X",
+    "SCRAM_ARCH": "slc6_amd64_gcc530"
+  },
+  {
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc530",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "RELEASE_BRANCH": "master",
+    "RELEASE_QUEUE": "CMSSW_9_3_X",
+    "SCRAM_ARCH": "slc7_aarch64_gcc530"
+  },
+  {
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc700",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "RELEASE_BRANCH": "CMSSW_9_3_ROOT6_X",
+    "RELEASE_QUEUE": "CMSSW_9_3_ROOT6_X",
+    "SCRAM_ARCH": "slc7_aarch64_gcc700"
+  },
+  {
+    "BUILD_HOUR": "23",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/root6",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "RELEASE_BRANCH": "CMSSW_9_3_ROOT6_X",
+    "RELEASE_QUEUE": "CMSSW_9_3_ROOT6_X",
+    "SCRAM_ARCH": "slc6_amd64_gcc530"
+  },
+  {
+    "BUILD_HOUR": "23",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc630next",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "PR_TESTS": "1",
+    "RELEASE_BRANCH": "CMSSW_9_3_DEVEL_X",
+    "RELEASE_QUEUE": "CMSSW_9_3_DEVEL_X",
+    "SCRAM_ARCH": "slc6_amd64_gcc630"
+  },
+  {
+    "BUILD_HOUR": "23",
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc630next",
+    "DOCKER_IMG": "cmssw/slc7-builder:latest",
+    "PKGTOOLS_TAG": "V00-30-XX-dev",
+    "RELEASE_BRANCH": "CMSSW_9_3_DEVEL_X",
+    "RELEASE_QUEUE": "CMSSW_9_3_DEVEL_X",
+    "SCRAM_ARCH": "slc7_amd64_gcc630"
+  },
+  {
+    "CMSDIST_TAG": "IB/CMSSW_9_3_X/gcc630",
+    "DOCKER_IMG": "cmssw/slc7-builder:latest",
+    "PKGTOOLS_TAG": "V00-30-XX",
+    "RELEASE_BRANCH": "master",
+    "RELEASE_QUEUE": "CMSSW_9_3_X",
+    "SCRAM_ARCH": "slc7_amd64_gcc630"
+  },
+  {
+    "ADDITIONAL_TESTS": "HLT,baseline,static-checks,fwlite,valgrind,igprof,geometry,iwyu,material-budget",
+    "BUILD_PATCH_RELEASE": "1",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc530",
     "ENABLE_DEBUG": "1",
     "PKGTOOLS_TAG": "V00-30-XX",
@@ -23,6 +124,8 @@
   {
     "BUILD_HOUR": "23",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc700",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX",
     "RELEASE_BRANCH": "CMSSW_9_2_ROOT6_X",
     "RELEASE_QUEUE": "CMSSW_9_2_ROOT6_X",
@@ -31,6 +134,8 @@
   {
     "BUILD_HOUR": "23",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc700",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "RELEASE_BRANCH": "CMSSW_9_2_ROOT6_X",
     "RELEASE_QUEUE": "CMSSW_9_2_ROOT6_X",
@@ -47,6 +152,8 @@
   {
     "BUILD_HOUR": "23",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc530",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "RELEASE_BRANCH": "master",
     "RELEASE_QUEUE": "CMSSW_9_2_CLANG_X",
@@ -54,6 +161,8 @@
   },
   {
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc530",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "RELEASE_BRANCH": "master",
     "RELEASE_QUEUE": "CMSSW_9_2_X",
@@ -61,6 +170,8 @@
   },
   {
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc700",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "RELEASE_BRANCH": "CMSSW_9_2_ROOT6_X",
     "RELEASE_QUEUE": "CMSSW_9_2_ROOT6_X",
@@ -69,6 +180,8 @@
   {
     "BUILD_HOUR": "23",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/root6",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "RELEASE_BRANCH": "CMSSW_9_2_ROOT6_X",
     "RELEASE_QUEUE": "CMSSW_9_2_ROOT6_X",
@@ -77,6 +190,8 @@
   {
     "BUILD_HOUR": "23",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc630next",
+    "DISABLED": "1",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "PR_TESTS": "1",
     "RELEASE_BRANCH": "CMSSW_9_2_DEVEL_X",
@@ -86,7 +201,9 @@
   {
     "BUILD_HOUR": "23",
     "CMSDIST_TAG": "IB/CMSSW_9_2_X/gcc630next",
+    "DISABLED": "1",
     "DOCKER_IMG": "cmssw/slc7-builder:latest",
+    "IB_WEB_PAGE": "1",
     "PKGTOOLS_TAG": "V00-30-XX-dev",
     "RELEASE_BRANCH": "CMSSW_9_2_DEVEL_X",
     "RELEASE_QUEUE": "CMSSW_9_2_DEVEL_X",
