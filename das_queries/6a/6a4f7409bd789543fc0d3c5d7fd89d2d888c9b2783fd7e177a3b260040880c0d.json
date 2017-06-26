@@ -1,28 +1,35 @@
 {
   "apilist": [
-    "das_core",
-    "fileReplicas4dataset"
+    "files_via_dataset",
+    "fileReplicas4dataset",
+    "das_core"
   ],
-  "ctime": 0.0396180152893,
+  "ctime": 0.0452148914337,
   "data": [
     {
-      "_id": "594c18a9f4e31335993186d4",
+      "_id": "595160834bf01c1690c06494",
       "cache_id": [
-        "594c18a9f4e31335993186c6"
+        "595160834bf01c1690c06479",
+        "595160834bf01c1690c06486"
       ],
       "das": {
         "api": [
+          "files_via_dataset",
           "fileReplicas4dataset"
         ],
         "condition_keys": [
-          "site.name",
           "dataset.name"
         ],
-        "expire": 1498159573,
+        "expire": 1498505647,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
           {
             "phedex": [
               "phedex"
@@ -30,38 +37,49 @@
           }
         ],
         "system": [
+          "dbs3",
           "phedex"
         ],
-        "ts": 1498159273.5576291
+        "ts": 1498505347.6249111
       },
       "das_id": [
-        "594c18a9f4e31335993186b8"
+        "595160834bf01c1690c06468",
+        "595160834bf01c1690c06465"
       ],
       "file": [
         {
           "name": "/store/relval/CMSSW_9_1_0_pre3/RelValSingleGammaPt10/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/74E2E2B8-C72F-E711-A311-0CC47A4C8E22.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_9_1_0_pre3/RelValSingleGammaPt10/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/74E2E2B8-C72F-E711-A311-0CC47A4C8E22.root"
         }
       ],
-      "qhash": "f3d9cbbbb6bfaa380c263444494055c7"
+      "qhash": "5f1b5d0e73f66809a0e4a2f18c0997f6"
     },
     {
-      "_id": "594c18a9f4e31335993186d3",
+      "_id": "595160834bf01c1690c06493",
       "cache_id": [
-        "594c18a9f4e31335993186c5"
+        "595160834bf01c1690c06478",
+        "595160834bf01c1690c06485"
       ],
       "das": {
         "api": [
+          "files_via_dataset",
           "fileReplicas4dataset"
         ],
         "condition_keys": [
-          "dataset.name",
-          "site.name"
+          "dataset.name"
         ],
-        "expire": 1498159573,
+        "expire": 1498505647,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
           {
             "phedex": [
               "phedex"
@@ -69,19 +87,24 @@
           }
         ],
         "system": [
+          "dbs3",
           "phedex"
         ],
-        "ts": 1498159273.5576291
+        "ts": 1498505347.6249111
       },
       "das_id": [
-        "594c18a9f4e31335993186b8"
+        "595160834bf01c1690c06468",
+        "595160834bf01c1690c06465"
       ],
       "file": [
         {
           "name": "/store/relval/CMSSW_9_1_0_pre3/RelValSingleGammaPt10/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/9AB85090-C72F-E711-A29F-0CC47A7C3410.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_9_1_0_pre3/RelValSingleGammaPt10/GEN-SIM/91X_upgrade2017_realistic_v3-v1/10000/9AB85090-C72F-E711-A29F-0CC47A7C3410.root"
         }
       ],
-      "qhash": "f3d9cbbbb6bfaa380c263444494055c7"
+      "qhash": "5f1b5d0e73f66809a0e4a2f18c0997f6"
     }
   ],
   "incache": true,
@@ -99,11 +122,10 @@
     "instance": "prod/global",
     "qcache": 0,
     "spec": {
-      "dataset.name": "/RelValSingleGammaPt10/CMSSW_9_1_0_pre3-91X_upgrade2017_realistic_v3-v1/GEN-SIM",
-      "site.name": "T2_CH_CERN"
+      "dataset.name": "/RelValSingleGammaPt10/CMSSW_9_1_0_pre3-91X_upgrade2017_realistic_v3-v1/GEN-SIM"
     }
   },
   "nresults": 2,
   "status": "ok",
-  "timestamp": 1498159274.23
+  "timestamp": 1498505348.29
 }

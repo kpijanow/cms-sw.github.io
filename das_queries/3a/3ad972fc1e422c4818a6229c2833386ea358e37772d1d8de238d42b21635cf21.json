@@ -1,66 +1,16 @@
 {
   "apilist": [
-    "das_core",
+    "files_via_dataset",
     "fileReplicas4dataset",
-    "files_via_dataset"
+    "das_core"
   ],
-  "ctime": 0.051186084747299999,
+  "ctime": 0.047168970108000002,
   "data": [
     {
-      "_id": "594c2212f4e31335993694c7",
+      "_id": "595165a54bf01c1690c0fc8a",
       "cache_id": [
-        "594c2212f4e31335993694b5",
-        "594c2212f4e31335993694a4"
-      ],
-      "das": {
-        "api": [
-          "fileReplicas4dataset",
-          "files_via_dataset"
-        ],
-        "condition_keys": [
-          "dataset.name"
-        ],
-        "expire": 1498161982,
-        "instance": "prod/global",
-        "primary_key": "file.name",
-        "record": 1,
-        "services": [
-          {
-            "phedex": [
-              "phedex"
-            ]
-          },
-          {
-            "dbs3": [
-              "dbs3"
-            ]
-          }
-        ],
-        "system": [
-          "phedex",
-          "dbs3"
-        ],
-        "ts": 1498161682.538393
-      },
-      "das_id": [
-        "594c2212f4e3133599369492",
-        "594c2212f4e3133599369495"
-      ],
-      "file": [
-        {
-          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/2C9A5191-5C7C-E511-9A3D-00259059642A.root"
-        },
-        {
-          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/2C9A5191-5C7C-E511-9A3D-00259059642A.root"
-        }
-      ],
-      "qhash": "ca927a16e4878794356d85e91b78786b"
-    },
-    {
-      "_id": "594c2212f4e31335993694c6",
-      "cache_id": [
-        "594c2212f4e31335993694b6",
-        "594c2212f4e31335993694a7"
+        "595165a54bf01c1690c0fc69",
+        "595165a54bf01c1690c0fc77"
       ],
       "das": {
         "api": [
@@ -70,7 +20,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161982,
+        "expire": 1498506961,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -90,27 +40,27 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1498161682.538393
+        "ts": 1498506661.7150309
       },
       "das_id": [
-        "594c2212f4e3133599369492",
-        "594c2212f4e3133599369495"
+        "595165a54bf01c1690c0fc58",
+        "595165a54bf01c1690c0fc55"
       ],
       "file": [
         {
-          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/7A722644-5E7C-E511-A1C1-00261894394B.root"
+          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/2C9A5191-5C7C-E511-9A3D-00259059642A.root"
         },
         {
-          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/7A722644-5E7C-E511-A1C1-00261894394B.root"
+          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/2C9A5191-5C7C-E511-9A3D-00259059642A.root"
         }
       ],
       "qhash": "ca927a16e4878794356d85e91b78786b"
     },
     {
-      "_id": "594c2212f4e31335993694c5",
+      "_id": "595165a54bf01c1690c0fc89",
       "cache_id": [
-        "594c2212f4e31335993694b4",
-        "594c2212f4e31335993694a6"
+        "595165a54bf01c1690c0fc6a",
+        "595165a54bf01c1690c0fc7a"
       ],
       "das": {
         "api": [
@@ -120,7 +70,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161982,
+        "expire": 1498506961,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -140,11 +90,61 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1498161682.538393
+        "ts": 1498506661.7150309
       },
       "das_id": [
-        "594c2212f4e3133599369492",
-        "594c2212f4e3133599369495"
+        "595165a54bf01c1690c0fc58",
+        "595165a54bf01c1690c0fc55"
+      ],
+      "file": [
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/7A722644-5E7C-E511-A1C1-00261894394B.root"
+        },
+        {
+          "name": "/store/relval/CMSSW_7_6_0_pre7/RelValRSGravitonToGaGa_13/GEN-SIM/76X_mcRun2_asymptotic_v9_realBS-v1/00000/7A722644-5E7C-E511-A1C1-00261894394B.root"
+        }
+      ],
+      "qhash": "ca927a16e4878794356d85e91b78786b"
+    },
+    {
+      "_id": "595165a54bf01c1690c0fc88",
+      "cache_id": [
+        "595165a54bf01c1690c0fc68",
+        "595165a54bf01c1690c0fc79"
+      ],
+      "das": {
+        "api": [
+          "files_via_dataset",
+          "fileReplicas4dataset"
+        ],
+        "condition_keys": [
+          "dataset.name"
+        ],
+        "expire": 1498506961,
+        "instance": "prod/global",
+        "primary_key": "file.name",
+        "record": 1,
+        "services": [
+          {
+            "dbs3": [
+              "dbs3"
+            ]
+          },
+          {
+            "phedex": [
+              "phedex"
+            ]
+          }
+        ],
+        "system": [
+          "dbs3",
+          "phedex"
+        ],
+        "ts": 1498506661.7150309
+      },
+      "das_id": [
+        "595165a54bf01c1690c0fc58",
+        "595165a54bf01c1690c0fc55"
       ],
       "file": [
         {
@@ -157,44 +157,44 @@
       "qhash": "ca927a16e4878794356d85e91b78786b"
     },
     {
-      "_id": "594c2212f4e31335993694c4",
+      "_id": "595165a54bf01c1690c0fc87",
       "cache_id": [
-        "594c2212f4e31335993694b7",
-        "594c2212f4e31335993694a5"
+        "595165a54bf01c1690c0fc6b",
+        "595165a54bf01c1690c0fc78"
       ],
       "das": {
         "api": [
-          "fileReplicas4dataset",
-          "files_via_dataset"
+          "files_via_dataset",
+          "fileReplicas4dataset"
         ],
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161982,
+        "expire": 1498506961,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
         "services": [
           {
-            "phedex": [
-              "phedex"
+            "dbs3": [
+              "dbs3"
             ]
           },
           {
-            "dbs3": [
-              "dbs3"
+            "phedex": [
+              "phedex"
             ]
           }
         ],
         "system": [
-          "phedex",
-          "dbs3"
+          "dbs3",
+          "phedex"
         ],
-        "ts": 1498161682.538393
+        "ts": 1498506661.7150309
       },
       "das_id": [
-        "594c2212f4e3133599369492",
-        "594c2212f4e3133599369495"
+        "595165a54bf01c1690c0fc58",
+        "595165a54bf01c1690c0fc55"
       ],
       "file": [
         {
@@ -227,5 +227,5 @@
   },
   "nresults": 4,
   "status": "ok",
-  "timestamp": 1498161683.0699999
+  "timestamp": 1498506662.3
 }

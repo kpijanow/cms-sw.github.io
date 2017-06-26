@@ -1,16 +1,16 @@
 {
   "apilist": [
-    "das_core",
     "fileReplicas4dataset",
+    "das_core",
     "files_via_dataset"
   ],
-  "ctime": 0.054843902587899999,
+  "ctime": 0.0476219654083,
   "data": [
     {
-      "_id": "594c1f7a4bf01c2a8c55c9cb",
+      "_id": "595163d2f4e3130af1eea4da",
       "cache_id": [
-        "594c1f794bf01c2a8c55c9ae",
-        "594c1f7a4bf01c2a8c55c9bc"
+        "595163d2f4e3130af1eea4cb",
+        "595163d2f4e3130af1eea4bd"
       ],
       "das": {
         "api": [
@@ -20,7 +20,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161317,
+        "expire": 1498506494,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -40,11 +40,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1498161018.487004
+        "ts": 1498506194.7812581
       },
       "das_id": [
-        "594c1f794bf01c2a8c55c99f",
-        "594c1f794bf01c2a8c55c99c"
+        "595163d2f4e3130af1eea4ab",
+        "595163d2f4e3130af1eea4ae"
       ],
       "file": [
         {
@@ -57,10 +57,10 @@
       "qhash": "e9b39cadfe057a06164c635201fa85f9"
     },
     {
-      "_id": "594c1f7a4bf01c2a8c55c9ca",
+      "_id": "595163d2f4e3130af1eea4d9",
       "cache_id": [
-        "594c1f7a4bf01c2a8c55c9bd",
-        "594c1f794bf01c2a8c55c9af"
+        "595163d2f4e3130af1eea4cc",
+        "595163d2f4e3130af1eea4be"
       ],
       "das": {
         "api": [
@@ -70,7 +70,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161317,
+        "expire": 1498506494,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -90,11 +90,11 @@
           "dbs3",
           "phedex"
         ],
-        "ts": 1498161018.487004
+        "ts": 1498506194.7812581
       },
       "das_id": [
-        "594c1f794bf01c2a8c55c99f",
-        "594c1f794bf01c2a8c55c99c"
+        "595163d2f4e3130af1eea4ab",
+        "595163d2f4e3130af1eea4ae"
       ],
       "file": [
         {
@@ -127,5 +127,5 @@
   },
   "nresults": 2,
   "status": "ok",
-  "timestamp": 1498161018.6300001
+  "timestamp": 1498506195.23
 }

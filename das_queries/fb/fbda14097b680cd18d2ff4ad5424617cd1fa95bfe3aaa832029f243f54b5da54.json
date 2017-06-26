@@ -1,12 +1,12 @@
 {
   "apilist": [
-    "das_core",
-    "file_lumi4dataset"
+    "file_lumi4dataset",
+    "das_core"
   ],
-  "ctime": 0.77012801170300005,
+  "ctime": 0.039704084396399997,
   "data": [
     {
-      "_id": "594c23a5f4e3133599379b2c",
+      "_id": "5951647c4bf01c1690c0c9b4",
       "das": {
         "api": [
           "file_lumi4dataset"
@@ -15,7 +15,7 @@
           "run.run_number",
           "dataset.name"
         ],
-        "expire": 1498165684.8747251,
+        "expire": 1498509964.471102,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 1,
@@ -29,10 +29,10 @@
         "system": [
           "dbs3"
         ],
-        "ts": 1498162085.7831841
+        "ts": 1498506364.7969401
       },
       "das_id": [
-        "594c23a4f4e3133599379949"
+        "5951647c4bf01c1690c0c9a8"
       ],
       "file": [
         {
@@ -215,5 +215,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1498162090.9200001
+  "timestamp": 1498506365.3499999
 }

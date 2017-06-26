@@ -1,19 +1,19 @@
 {
   "apilist": [
-    "das_core",
-    "file4DatasetRunLumi"
+    "file4DatasetRunLumi",
+    "das_core"
   ],
-  "ctime": 0.017153978347800001,
+  "ctime": 0.024590015411400001,
   "data": [
     {
-      "_id": "59500a4e4bf01c0259ec603e",
+      "_id": "59515c3b4bf01c1690bf9729",
       "cache_id": [],
       "das": {
         "api": [],
         "condition_keys": [
           "file.name"
         ],
-        "expire": 1498417762.4524331,
+        "expire": 1498504271.562845,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 2,
@@ -24,11 +24,11 @@
         "system": [
           "das"
         ],
-        "ts": 1498417742.4524419
+        "ts": 1498504251.562856
       },
       "das_id": [
-        "59500a484bf01c0259ec5fac",
-        "59500a484bf01c0259ec5fa9"
+        "59515c344bf01c1690bf969c",
+        "59515c344bf01c1690bf969f"
       ],
       "file": [],
       "qhash": "b619535148c3d5d849e6acaeb73c2a27"
@@ -55,5 +55,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1498417744.76
+  "timestamp": 1498504253.26
 }

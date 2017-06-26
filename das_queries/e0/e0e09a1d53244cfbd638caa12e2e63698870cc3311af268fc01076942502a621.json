@@ -4,13 +4,13 @@
     "site4dataset",
     "site4dataset"
   ],
-  "ctime": 0.047858953475999999,
+  "ctime": 0.048851966857899998,
   "data": [
     {
-      "_id": "594c21ba4bf01c2a8c56acdb",
+      "_id": "5951656bf4e3130af1eec504",
       "cache_id": [
-        "594c21ba4bf01c2a8c56accf",
-        "594c21ba4bf01c2a8c56acc8"
+        "5951656bf4e3130af1eec4f8",
+        "5951656bf4e3130af1eec4f1"
       ],
       "das": {
         "api": [
@@ -20,7 +20,7 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161894,
+        "expire": 1498506903,
         "instance": "prod/global",
         "primary_key": "site.name",
         "record": 1,
@@ -41,11 +41,11 @@
           "combined",
           "phedex"
         ],
-        "ts": 1498161594.6036561
+        "ts": 1498506603.9654379
       },
       "das_id": [
-        "594c21b94bf01c2a8c56acb3",
-        "594c21b94bf01c2a8c56acb0"
+        "5951656bf4e3130af1eec4d9",
+        "5951656bf4e3130af1eec4dc"
       ],
       "qhash": "7fcd92bf90d185cd80326d406f2e7a32",
       "site": [
@@ -58,10 +58,10 @@
       ]
     },
     {
-      "_id": "594c21ba4bf01c2a8c56acda",
+      "_id": "5951656bf4e3130af1eec503",
       "cache_id": [
-        "594c21ba4bf01c2a8c56acce",
-        "594c21ba4bf01c2a8c56acc9"
+        "5951656bf4e3130af1eec4f7",
+        "5951656bf4e3130af1eec4f2"
       ],
       "das": {
         "api": [
@@ -71,32 +71,32 @@
         "condition_keys": [
           "dataset.name"
         ],
-        "expire": 1498161894,
+        "expire": 1498506903,
         "instance": "prod/global",
         "primary_key": "site.name",
         "record": 1,
         "services": [
           {
-            "combined": [
-              "dbs3",
+            "phedex": [
               "phedex"
             ]
           },
           {
-            "phedex": [
+            "combined": [
+              "dbs3",
               "phedex"
             ]
           }
         ],
         "system": [
-          "combined",
-          "phedex"
+          "phedex",
+          "combined"
         ],
-        "ts": 1498161594.6036561
+        "ts": 1498506603.9654379
       },
       "das_id": [
-        "594c21b94bf01c2a8c56acb3",
-        "594c21b94bf01c2a8c56acb0"
+        "5951656bf4e3130af1eec4d9",
+        "5951656bf4e3130af1eec4dc"
       ],
       "qhash": "7fcd92bf90d185cd80326d406f2e7a32",
       "site": [
@@ -129,5 +129,5 @@
   },
   "nresults": 2,
   "status": "ok",
-  "timestamp": 1498161594.8699999
+  "timestamp": 1498506604.3699999
 }

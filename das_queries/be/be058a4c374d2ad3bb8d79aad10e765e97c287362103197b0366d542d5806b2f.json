@@ -1,19 +1,19 @@
 {
   "apilist": [
-    "das_core",
-    "files_via_block"
+    "files_via_block",
+    "das_core"
   ],
-  "ctime": 0.0211369991302,
+  "ctime": 0.024306058883700001,
   "data": [
     {
-      "_id": "59500b394bf01c0259ed4eb6",
+      "_id": "59515dbf4bf01c1690c024f9",
       "cache_id": [],
       "das": {
         "api": [],
         "condition_keys": [
           "file.name"
         ],
-        "expire": 1498417997.856353,
+        "expire": 1498504659.81234,
         "instance": "prod/global",
         "primary_key": "file.name",
         "record": 2,
@@ -24,11 +24,11 @@
         "system": [
           "das"
         ],
-        "ts": 1498417977.8563671
+        "ts": 1498504639.8123679
       },
       "das_id": [
-        "59500b334bf01c0259ed4e64",
-        "59500b334bf01c0259ed4e61"
+        "59515db94bf01c1690c02453",
+        "59515db94bf01c1690c02456"
       ],
       "file": [],
       "qhash": "db05549d26a9a02524faab62d9565fda"
@@ -55,5 +55,5 @@
   },
   "nresults": 1,
   "status": "ok",
-  "timestamp": 1498417980.1900001
+  "timestamp": 1498504642.28
 }
