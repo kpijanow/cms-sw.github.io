@@ -27654,7 +27654,26 @@
                 "release_name": "CMSSW_9_2_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "a173e4c8415d6d305d114d988d8a627f79c1c4a1", 
+                        "title": "Adding Cross Trigger Support to E/gamma TnP DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19375", 
+                        "number": "19375", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Sam-Harper"
+                    }, 
+                    {
+                        "hash": "945a7b3fc0dade294544694363deddcceb4803c2", 
+                        "title": "Move Geometry Aligner Header", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19416", 
+                        "number": "19416", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "ianna"
+                    }
+                ], 
                 "fwlite": []
             }
         ]
@@ -29256,7 +29275,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1392, 
+                            "num_passed": 1518, 
                             "known_failed": 12, 
                             "num_failed": 0
                         }
@@ -29267,7 +29286,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/sun/9.2.DEVEL-sun-23/CMSSW_9_2_DEVEL_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1649, 
+                            "num_passed": 1722, 
                             "known_failed": 13, 
                             "num_failed": 0
                         }
@@ -29472,6 +29491,15 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
+                        "hash": "a173e4c8415d6d305d114d988d8a627f79c1c4a1", 
+                        "title": "Adding Cross Trigger Support to E/gamma TnP DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19375", 
+                        "number": "19375", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Sam-Harper"
+                    }, 
+                    {
                         "hash": "585d02f1718c4f8b7ead6579fcbabbb9b32c2b57", 
                         "title": "Hlt tau validation update cmssw92 x june2017", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19216", 
@@ -29479,6 +29507,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "slehti"
+                    }, 
+                    {
+                        "hash": "945a7b3fc0dade294544694363deddcceb4803c2", 
+                        "title": "Move Geometry Aligner Header", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19416", 
+                        "number": "19416", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "ianna"
                     }
                 ], 
                 "fwlite": []
@@ -31669,12 +31706,12 @@
                 "igprof": "not-found", 
                 "relvals": [
                     {
-                        "done": false, 
+                        "done": true, 
                         "arch": "slc6_amd64_gcc530", 
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1797, 
+                            "num_passed": 1821, 
                             "known_failed": 0, 
                             "num_failed": 0
                         }
@@ -31685,7 +31722,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 946, 
+                            "num_passed": 1094, 
                             "known_failed": 7, 
                             "num_failed": 0
                         }
@@ -31696,8 +31733,8 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/sun/9.2.ROOT6-sun-23/CMSSW_9_2_ROOT6_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1035, 
-                            "known_failed": 29, 
+                            "num_passed": 1051, 
+                            "known_failed": 30, 
                             "num_failed": 2
                         }
                     }
@@ -31839,6 +31876,15 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
+                        "hash": "a173e4c8415d6d305d114d988d8a627f79c1c4a1", 
+                        "title": "Adding Cross Trigger Support to E/gamma TnP DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19375", 
+                        "number": "19375", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Sam-Harper"
+                    }, 
+                    {
                         "hash": "585d02f1718c4f8b7ead6579fcbabbb9b32c2b57", 
                         "title": "Hlt tau validation update cmssw92 x june2017", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19216", 
@@ -31846,6 +31892,15 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "slehti"
+                    }, 
+                    {
+                        "hash": "945a7b3fc0dade294544694363deddcceb4803c2", 
+                        "title": "Move Geometry Aligner Header", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19416", 
+                        "number": "19416", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "ianna"
                     }
                 ], 
                 "fwlite": []
@@ -38199,7 +38254,7 @@
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/sun/9.2-sun-23/CMSSW_9_2_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1596, 
+                            "num_passed": 1647, 
                             "known_failed": 34, 
                             "num_failed": 0
                         }
@@ -38404,7 +38459,26 @@
                 "release_name": "CMSSW_9_2_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
-                "merged_prs": [], 
+                "merged_prs": [
+                    {
+                        "hash": "a173e4c8415d6d305d114d988d8a627f79c1c4a1", 
+                        "title": "Adding Cross Trigger Support to E/gamma TnP DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19375", 
+                        "number": "19375", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Sam-Harper"
+                    }, 
+                    {
+                        "hash": "945a7b3fc0dade294544694363deddcceb4803c2", 
+                        "title": "Move Geometry Aligner Header", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19416", 
+                        "number": "19416", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "ianna"
+                    }
+                ], 
                 "hlt_tests": "inprogress"
             }
         ]

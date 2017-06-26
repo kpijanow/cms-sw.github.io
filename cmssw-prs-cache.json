@@ -34873,6 +34873,13 @@
     "title": "Use /proc/self/mounts instead of /etc/mtab", 
     "user_ref": "backportLinxContainerFix_5_3"
   }, 
+  "19375": {
+    "author": "Sam-Harper", 
+    "branch": "master", 
+    "hash": "a173e4c8415d6d305d114d988d8a627f79c1c4a1", 
+    "title": "Adding Cross Trigger Support to E/gamma TnP DQM", 
+    "user_ref": "EgTnPDQMCrossTrigger"
+  }, 
   "19376": {
     "author": "pieterdavid", 
     "branch": "master", 
@@ -35033,6 +35040,13 @@
     "hash": "61f669599d96676722125ec2efbe838bab4b2378", 
     "title": "[92x] EcalPedestal PCL workflow: fixes and improvements", 
     "user_ref": "92X_EcalPedestalsConfigDP"
+  }, 
+  "19416": {
+    "author": "ianna", 
+    "branch": "master", 
+    "hash": "945a7b3fc0dade294544694363deddcceb4803c2", 
+    "title": "Move Geometry Aligner Header", 
+    "user_ref": "geometry-aligner-dependency-fix"
   }, 
   "19420": {
     "author": "davidlange6", 
