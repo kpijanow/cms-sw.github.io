@@ -1283,14 +1283,14 @@
             "igprof": "not-found", 
             "relvals": [
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "slc6_amd64_gcc530", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.2.CLANG-sun-23/CMSSW_9_2_CLANG_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 503, 
+                        "num_passed": 504, 
                         "known_failed": 0, 
-                        "num_failed": 444
+                        "num_failed": 445
                     }
                 }
             ], 
