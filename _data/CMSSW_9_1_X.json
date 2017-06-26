@@ -1810,13 +1810,13 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/sun/9.1-sun-23/CMSSW_9_1_X_2017-06-25-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 953, 
+                        "num_passed": 1131, 
                         "known_failed": 0, 
-                        "num_failed": 62
+                        "num_failed": 97
                     }
                 }
             ], 
-            "static_checks": "inprogress", 
+            "static_checks": "slc6_amd64_gcc530:", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
