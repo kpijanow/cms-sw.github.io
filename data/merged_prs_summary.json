@@ -31873,22 +31873,43 @@
             {
                 "addons": [], 
                 "comp_baseline_state": "errors", 
-                "builds": [], 
+                "builds": [
+                    {
+                        "arch": "slc7_aarch64_gcc700", 
+                        "passed": "warning", 
+                        "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-26-1100/new/logAnalysis.pkl", 
+                        "details": {
+                            "compWarning": 9, 
+                            "ignoreWarning": 326
+                        }
+                    }
+                ], 
                 "valgrind": "not-found", 
                 "comp_baseline": "not-found", 
-                "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-25-2300-->CMSSW_9_2_ROOT6_X", 
+                "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-25-2300-->CMSSW_9_2_ROOT6_X_2017-06-26-1100", 
                 "dqm_tests": "inprogress", 
-                "utests": [], 
-                "cmsdistTags": {}, 
+                "utests": [
+                    {
+                        "arch": "slc7_aarch64_gcc700", 
+                        "passed": "unknown", 
+                        "file": "['/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-26-1100/new/logAnalysis.pkl']", 
+                        "details": {}
+                    }
+                ], 
+                "cmsdistTags": {
+                    "slc7_aarch64_gcc700": "IB/CMSSW_9_2_ROOT6_X_2017-06-25-1100/slc7_aarch64_gcc700"
+                }, 
                 "igprof": "not-found", 
                 "relvals": [], 
                 "static_checks": "not-found", 
-                "isIB": false, 
+                "isIB": true, 
                 "hlt_tests": "not-found", 
                 "material_budget": "not-found", 
                 "inProgress": false, 
-                "release_name": "CMSSW_9_2_ROOT6_X", 
-                "tests_archs": [], 
+                "release_name": "CMSSW_9_2_ROOT6_X_2017-06-26-1100", 
+                "tests_archs": [
+                    "slc7_aarch64_gcc700"
+                ], 
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
@@ -31919,6 +31940,29 @@
                         "author_login": "ianna"
                     }
                 ], 
+                "fwlite": []
+            }, 
+            {
+                "addons": [], 
+                "comp_baseline_state": "errors", 
+                "builds": [], 
+                "valgrind": "not-found", 
+                "comp_baseline": "not-found", 
+                "compared_tags": "CMSSW_9_2_ROOT6_X_2017-06-26-1100-->CMSSW_9_2_ROOT6_X", 
+                "dqm_tests": "inprogress", 
+                "utests": [], 
+                "cmsdistTags": {}, 
+                "igprof": "not-found", 
+                "relvals": [], 
+                "static_checks": "not-found", 
+                "isIB": false, 
+                "hlt_tests": "not-found", 
+                "material_budget": "not-found", 
+                "inProgress": false, 
+                "release_name": "CMSSW_9_2_ROOT6_X", 
+                "tests_archs": [], 
+                "RVExceptions": null, 
+                "merged_prs": [], 
                 "fwlite": []
             }
         ]
