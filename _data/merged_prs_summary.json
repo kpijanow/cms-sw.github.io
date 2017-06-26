@@ -31930,7 +31930,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/mon/9.2.ROOT6-mon-11/CMSSW_9_2_ROOT6_X_2017-06-26-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1392, 
+                            "num_passed": 1447, 
                             "known_failed": 33, 
                             "num_failed": 16
                         }
@@ -38707,6 +38707,85 @@
     {
         "base_branch": "CMSSW_9_3_X", 
         "release_name": "CMSSW_9_3_X", 
-        "comparisons": []
+        "comparisons": [
+            {
+                "fwlite": [], 
+                "cmsdistTags": {}, 
+                "addons": [], 
+                "comp_baseline_state": "ok", 
+                "builds": [], 
+                "compared_tags": "CMSSW_9_3_X_2017-06-26-1500-->CMSSW_9_3_X", 
+                "valgrind": "inprogress", 
+                "material_budget": "inprogress", 
+                "dqm_tests": "inprogress", 
+                "relvals": [], 
+                "static_checks": "inprogress", 
+                "utests": [], 
+                "igprof": "inprogress", 
+                "isIB": false, 
+                "comp_baseline": "inprogress", 
+                "inProgress": false, 
+                "release_name": "CMSSW_9_3_X", 
+                "tests_archs": [], 
+                "RVExceptions": null, 
+                "merged_prs": [
+                    {
+                        "hash": "ae80c52387c3f4cf70ffdb4da623115cf3629897", 
+                        "title": "DQM SMP PAG ISSUE", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19014", 
+                        "number": "19014", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "sasharma6"
+                    }, 
+                    {
+                        "hash": "d9263a0a644ed9f354b6fd529032748b7be9f0fb", 
+                        "title": "Implement async global end transitions", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19366", 
+                        "number": "19366", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "Dr15Jones"
+                    }, 
+                    {
+                        "hash": "89af168c945c4551681c75c39577f7161291ae87", 
+                        "title": "Fit CSC comparator digis", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/18875", 
+                        "number": "18875", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "dildick"
+                    }, 
+                    {
+                        "hash": "61bdfc111f31ecf4ef7e8a292b5612f80ca9d7fe", 
+                        "title": "HLT menu 2017 v1.1", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19235", 
+                        "number": "19235", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-tsg-storm"
+                    }, 
+                    {
+                        "hash": "22e6e0048ff6e9c394f69118cf0064779dbc930a", 
+                        "title": "ROC counting trend plots per layer/ring for phase 1 pixel DQM", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19414", 
+                        "number": "19414", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "leggat"
+                    }, 
+                    {
+                        "hash": "4f036942413c99f967978b104abb7bd6d04a8dcb", 
+                        "title": "Revert \"Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"\"", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19424", 
+                        "number": "19424", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "cms-sw"
+                    }
+                ], 
+                "hlt_tests": "inprogress"
+            }
+        ]
     }
 ]
