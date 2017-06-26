@@ -8098,6 +8098,34 @@
     },
     {
         "exitcode": 0,
+        "id": "1314.0",
+        "known_error": 0,
+        "name": "WpM_13+WpM_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 613
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 714
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1315.0",
         "known_error": 0,
         "name": "SingleElectronPt10_UP15+SingleElectronPt10_UP15INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
@@ -8434,6 +8462,34 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 8
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1325.4",
+        "known_error": 0,
+        "name": "TTbar_13+TTbar_13INPUT+DIGIUP15+RECOUP15_HIPM+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 212
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 769
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -8905,6 +8961,34 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 792
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1347.0",
+        "known_error": 0,
+        "name": "Upsilon1SToMuMu_13+Upsilon1SToMuMu_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 574
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 1375
             },
             {
                 "errors": 2,
@@ -10380,6 +10464,34 @@
     },
     {
         "exitcode": 0,
+        "id": "20434.0",
+        "known_error": 0,
+        "name": "TTbar_14TeV+TTbar_14TeV_TuneCUETP8M1_2023D10_GenSimHLBeamSpotFull14+DigiFullTrigger_2023D10+RecoFullGlobal_2023D10+HARVESTFullGlobal_2023D10",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 63
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 837
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "20434.2",
         "known_error": 0,
         "name": "TTbar_14TeV_Timing+TTbar_14TeV_TuneCUETP8M1_2023D10_GenSimHLBeamSpotFull14_Timing+DigiFullTrigger_Timing_2023D10+RecoFullGlobal_Timing_2023D10+HARVESTFullGlobal_Timing_2023D10",
@@ -11353,6 +11465,34 @@
     },
     {
         "exitcode": 0,
+        "id": "50206.0",
+        "known_error": 0,
+        "name": "ZMM_13+ZMM_13INPUT+DIGIUP15_PU50+RECOUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 130
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1396
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "50208.0",
         "known_error": 0,
         "name": "SMS-T1tttt_mGl-1500_mLSP-100_13+SMS-T1tttt_mGl-1500_mLSP-100_13INPUT+DIGIUP15_PU50+RECOUP15_PU50+HARVESTUP15_PU50",
@@ -12129,6 +12269,90 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 357
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "500202.0",
+        "known_error": 0,
+        "name": "TTbar_13+TTbar_13INPUT+DIGIPRMXUP15_PU50+RECOPRMXUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 67
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1078
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "500204.0",
+        "known_error": 0,
+        "name": "QQH1352T_13+QQH1352T_13INPUT+DIGIPRMXUP15_PU50+RECOPRMXUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 499
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1504
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "500205.0",
+        "known_error": 0,
+        "name": "ZTT_13+ZTT_13INPUT+DIGIPRMXUP15_PU50+RECOPRMXUP15_PU50+HARVESTUP15_PU50",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 205
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1581
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
