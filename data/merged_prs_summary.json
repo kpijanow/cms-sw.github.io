@@ -26170,7 +26170,7 @@
         ]
     }, 
     {
-        "base_branch": "CMSSW_9_2_X", 
+        "base_branch": "CMSSW_9_3_X", 
         "release_name": "CMSSW_9_2_CLANG_X", 
         "comparisons": [
             {
@@ -27656,7 +27656,7 @@
                 "builds": [], 
                 "valgrind": "not-found", 
                 "comp_baseline": "not-found", 
-                "compared_tags": "CMSSW_9_2_CLANG_X_2017-06-25-2300-->CMSSW_9_2_X", 
+                "compared_tags": "CMSSW_9_2_CLANG_X_2017-06-25-2300-->CMSSW_9_3_X", 
                 "dqm_tests": "inprogress", 
                 "utests": [], 
                 "cmsdistTags": {}, 
@@ -27667,7 +27667,7 @@
                 "hlt_tests": "not-found", 
                 "material_budget": "not-found", 
                 "inProgress": false, 
-                "release_name": "CMSSW_9_2_X", 
+                "release_name": "CMSSW_9_3_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
                 "merged_prs": [
@@ -31924,7 +31924,7 @@
         ]
     }, 
     {
-        "base_branch": "CMSSW_9_2_X", 
+        "base_branch": "CMSSW_9_3_X", 
         "release_name": "CMSSW_9_2_X", 
         "comparisons": [
             {
@@ -38573,7 +38573,7 @@
                 "addons": [], 
                 "comp_baseline_state": "ok", 
                 "builds": [], 
-                "compared_tags": "CMSSW_9_2_X_2017-06-26-1100-->CMSSW_9_2_X", 
+                "compared_tags": "CMSSW_9_2_X_2017-06-26-1100-->CMSSW_9_3_X", 
                 "valgrind": "inprogress", 
                 "material_budget": "inprogress", 
                 "dqm_tests": "inprogress", 
@@ -38584,12 +38584,32 @@
                 "isIB": false, 
                 "comp_baseline": "inprogress", 
                 "inProgress": false, 
-                "release_name": "CMSSW_9_2_X", 
+                "release_name": "CMSSW_9_3_X", 
                 "tests_archs": [], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
                 "hlt_tests": "inprogress"
             }
         ]
+    }, 
+    {
+        "base_branch": "CMSSW_9_3_X", 
+        "release_name": "CMSSW_9_3_CLANG_X", 
+        "comparisons": []
+    }, 
+    {
+        "base_branch": "CMSSW_9_3_DEVEL_X", 
+        "release_name": "CMSSW_9_3_DEVEL_X", 
+        "comparisons": []
+    }, 
+    {
+        "base_branch": "CMSSW_9_3_ROOT6_X", 
+        "release_name": "CMSSW_9_3_ROOT6_X", 
+        "comparisons": []
+    }, 
+    {
+        "base_branch": "CMSSW_9_3_X", 
+        "release_name": "CMSSW_9_3_X", 
+        "comparisons": []
     }
 ]
