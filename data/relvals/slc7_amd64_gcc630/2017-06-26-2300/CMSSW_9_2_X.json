@@ -777,6 +777,62 @@
     },
     {
         "exitcode": 0,
+        "id": "4.24",
+        "known_error": 0,
+        "name": "WMuSkim2011A+WMuSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 221
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 3108
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.27",
+        "known_error": 0,
+        "name": "ZElSkim2011A+ZElSkim2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 289
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 7196
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "4.28",
         "known_error": 0,
         "name": "HighMet2011A+HighMet2011A+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
@@ -833,6 +889,34 @@
                 "errors": 16,
                 "status": "PASSED",
                 "warnings": 500
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4.34",
+        "known_error": 0,
+        "name": "ValSkim2011B+ValSkim2011B+HLTDSKIM+RECODR1reHLT+HARVESTDR1reHLT",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 329
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 3287
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -2489,6 +2573,29 @@
     },
     {
         "exitcode": 0,
+        "id": "108.0",
+        "known_error": 0,
+        "name": "H165WW2L+H165WW2L+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 50
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 62
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 852
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "109.0",
         "known_error": 0,
         "name": "H200ZZ4L+H200ZZ4L+DIGI+RECO",
@@ -2576,6 +2683,29 @@
                 "errors": 8,
                 "status": "PASSED",
                 "warnings": 554
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "121.0",
+        "known_error": 0,
+        "name": "TTbar+TTbar2HS+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 52
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 54
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 464
             }
         ]
     },
@@ -2846,6 +2976,29 @@
     },
     {
         "exitcode": 0,
+        "id": "132.0",
+        "known_error": 0,
+        "name": "LM9p+LM9p+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 29
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 67
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 955
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "133.0",
         "known_error": 0,
         "name": "RSGrav+RSGrav+DIGI+RECO",
@@ -2892,6 +3045,34 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.701",
+        "known_error": 0,
+        "name": "RunHLTPhy2015B+RunHLTPhy2015B+HLTDR2_50ns+RECODR2_50nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 262
+            },
+            {
+                "errors": 236,
+                "status": "PASSED",
+                "warnings": 5396
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -3419,6 +3600,34 @@
                 "errors": 232,
                 "status": "PASSED",
                 "warnings": 6061
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.904",
+        "known_error": 0,
+        "name": "RunJetHT2015D+RunJetHT2015D+HLTDR2_25ns+RECODR2_25nsreHLT_HIPM+HARVESTDR2",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 289
+            },
+            {
+                "errors": 237,
+                "status": "PASSED",
+                "warnings": 7776
             },
             {
                 "errors": 1,
