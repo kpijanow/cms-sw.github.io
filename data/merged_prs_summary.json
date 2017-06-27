@@ -26155,7 +26155,7 @@
                 "compared_tags": "CMSSW_9_1_X_2017-06-26-2300-->CMSSW_9_1_X_2017-06-27-1100", 
                 "valgrind": "found", 
                 "material_budget": "slc6_amd64_gcc530:0", 
-                "dqm_tests": "inprogress", 
+                "dqm_tests": "found", 
                 "relvals": [
                     {
                         "done": false, 
@@ -26163,7 +26163,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1-tue-11/CMSSW_9_1_X_2017-06-27-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 212, 
+                            "num_passed": 409, 
                             "known_failed": 0, 
                             "num_failed": 1
                         }
@@ -26173,9 +26173,11 @@
                 "utests": [
                     {
                         "arch": "slc6_amd64_gcc530", 
-                        "passed": "unknown", 
-                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1-tue-11/CMSSW_9_1_X_2017-06-27-1100/new/logAnalysis.pkl']", 
-                        "details": {}
+                        "passed": "passed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.1-tue-11/CMSSW_9_1_X_2017-06-27-1100/unitTests-summary.log", 
+                        "details": {
+                            "num_fails": "0"
+                        }
                     }
                 ], 
                 "igprof": "found", 
@@ -37996,7 +37998,14 @@
                     "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530", 
                     "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc530"
                 }, 
-                "addons": [], 
+                "addons": [
+                    {
+                        "arch": "slc7_amd64_gcc630", 
+                        "passed": true, 
+                        "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/addOnTests.log", 
+                        "details": {}
+                    }
+                ], 
                 "comp_baseline_state": "ok", 
                 "builds": [
                     {
@@ -38034,7 +38043,7 @@
                 ], 
                 "compared_tags": "CMSSW_9_2_X_2017-06-26-1100-->CMSSW_9_2_X_2017-06-27-1100", 
                 "valgrind": "found", 
-                "material_budget": "inprogress", 
+                "material_budget": "slc6_amd64_gcc530:-1", 
                 "dqm_tests": "inprogress", 
                 "relvals": [], 
                 "static_checks": "inprogress", 
@@ -38214,6 +38223,24 @@
                 "RVExceptions": null, 
                 "merged_prs": [
                     {
+                        "hash": "35f10409443afa638f802af99cf8b09ad29aed9e", 
+                        "title": "Configuration to produce ME0 pseudo stubs for Phase-2", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19399", 
+                        "number": "19399", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "dildick"
+                    }, 
+                    {
+                        "hash": "c80e619cbb40eb7721c756fa9836c5079e7659d1", 
+                        "title": "Initial implementation of PathStatus and EndPathStatus products", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19052", 
+                        "number": "19052", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "wddgit"
+                    }, 
+                    {
                         "hash": "205ae9fe84021d4152732449746fe735a35b30f2", 
                         "title": "CTPPS: fixes for 2017 diamond data taking operations", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19185", 
@@ -38221,6 +38248,33 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "forthommel"
+                    }, 
+                    {
+                        "hash": "ff0e38f62c4ddc79543f2dd702731e348cd4b8ba", 
+                        "title": "cleanup uninitialized reads or conditions and leaks", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19426", 
+                        "number": "19426", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "slava77"
+                    }, 
+                    {
+                        "hash": "9584d6eebb1f5aa2529d0d37bf3f1553e4e65dee", 
+                        "title": "Tracker sub-DetId deprecation for TrackFitters DebugHelpers.h", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19415", 
+                        "number": "19415", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "pieterdavid"
+                    }, 
+                    {
+                        "hash": "0e402c1d8ad821db9e661e0a46ecce2a1df65953", 
+                        "title": "addressing issue 19340, adding checks to avoid possible acces violations", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19401", 
+                        "number": "19401", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "alberto-sanchez"
                     }
                 ], 
                 "fwlite": []
@@ -38422,7 +38476,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.3-mon-23/CMSSW_9_3_X_2017-06-26-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1743, 
+                            "num_passed": 1767, 
                             "known_failed": 0, 
                             "num_failed": 3
                         }
@@ -38455,9 +38509,9 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/mon/9.3-mon-23/CMSSW_9_3_X_2017-06-26-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1392, 
+                            "num_passed": 1462, 
                             "known_failed": 0, 
-                            "num_failed": 34
+                            "num_failed": 37
                         }
                     }, 
                     {

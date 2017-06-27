@@ -6223,7 +6223,14 @@
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc530"
             }, 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
             "builds": [
                 {
@@ -6261,7 +6268,7 @@
             ], 
             "compared_tags": "CMSSW_9_2_X_2017-06-26-1100-->CMSSW_9_2_X_2017-06-27-1100", 
             "valgrind": "found", 
-            "material_budget": "inprogress", 
+            "material_budget": "slc6_amd64_gcc530:-1", 
             "dqm_tests": "inprogress", 
             "relvals": [], 
             "static_checks": "inprogress", 
