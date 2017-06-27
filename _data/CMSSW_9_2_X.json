@@ -6219,6 +6219,7 @@
             "fwlite": [], 
             "cmsdistTags": {
                 "slc7_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc630", 
+                "slc6_amd64_gcc630": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc630", 
                 "slc6_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530": "IB/CMSSW_9_2_X_2017-06-25-0000/slc7_amd64_gcc530"
             }, 
@@ -6231,6 +6232,14 @@
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/new/logAnalysis.pkl", 
                     "details": {
                         "ignoreWarning": 24
+                    }
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 2
                     }
                 }, 
                 {
@@ -6251,7 +6260,7 @@
                 }
             ], 
             "compared_tags": "CMSSW_9_2_X_2017-06-26-1100-->CMSSW_9_2_X_2017-06-27-1100", 
-            "valgrind": "inprogress", 
+            "valgrind": "found", 
             "material_budget": "inprogress", 
             "dqm_tests": "inprogress", 
             "relvals": [], 
@@ -6261,6 +6270,12 @@
                     "arch": "slc6_amd64_gcc530", 
                     "passed": "unknown", 
                     "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/new/logAnalysis.pkl']", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "slc6_amd64_gcc630", 
+                    "passed": "unknown", 
+                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/new/logAnalysis.pkl']", 
                     "details": {}
                 }, 
                 {
@@ -6283,6 +6298,7 @@
             "release_name": "CMSSW_9_2_X_2017-06-27-1100", 
             "tests_archs": [
                 "slc7_amd64_gcc630", 
+                "slc6_amd64_gcc630", 
                 "slc6_amd64_gcc530", 
                 "slc7_amd64_gcc530"
             ], 
