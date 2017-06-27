@@ -1,5 +1,5 @@
 {
-    "base_branch": "CMSSW_9_3_X", 
+    "base_branch": "CMSSW_9_2_X", 
     "release_name": "CMSSW_9_2_CLANG_X", 
     "comparisons": [
         {
@@ -1444,7 +1444,7 @@
             "builds": [], 
             "valgrind": "not-found", 
             "comp_baseline": "not-found", 
-            "compared_tags": "CMSSW_9_2_CLANG_X_2017-06-25-2300-->CMSSW_9_3_X", 
+            "compared_tags": "CMSSW_9_2_CLANG_X_2017-06-25-2300-->CMSSW_9_2_X", 
             "dqm_tests": "inprogress", 
             "utests": [], 
             "cmsdistTags": {}, 
@@ -1455,37 +1455,10 @@
             "hlt_tests": "not-found", 
             "material_budget": "not-found", 
             "inProgress": false, 
-            "release_name": "CMSSW_9_3_X", 
+            "release_name": "CMSSW_9_2_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
             "merged_prs": [
-                {
-                    "hash": "ae80c52387c3f4cf70ffdb4da623115cf3629897", 
-                    "title": "DQM SMP PAG ISSUE", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19014", 
-                    "number": "19014", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "sasharma6"
-                }, 
-                {
-                    "hash": "d9263a0a644ed9f354b6fd529032748b7be9f0fb", 
-                    "title": "Implement async global end transitions", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19366", 
-                    "number": "19366", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "Dr15Jones"
-                }, 
-                {
-                    "hash": "89af168c945c4551681c75c39577f7161291ae87", 
-                    "title": "Fit CSC comparator digis", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/18875", 
-                    "number": "18875", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "dildick"
-                }, 
                 {
                     "hash": "a173e4c8415d6d305d114d988d8a627f79c1c4a1", 
                     "title": "Adding Cross Trigger Support to E/gamma TnP DQM", 
@@ -1496,42 +1469,6 @@
                     "author_login": "Sam-Harper"
                 }, 
                 {
-                    "hash": "c80e619cbb40eb7721c756fa9836c5079e7659d1", 
-                    "title": "Initial implementation of PathStatus and EndPathStatus products", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19052", 
-                    "number": "19052", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "wddgit"
-                }, 
-                {
-                    "hash": "205ae9fe84021d4152732449746fe735a35b30f2", 
-                    "title": "CTPPS: fixes for 2017 diamond data taking operations", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19185", 
-                    "number": "19185", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "forthommel"
-                }, 
-                {
-                    "hash": "61bdfc111f31ecf4ef7e8a292b5612f80ca9d7fe", 
-                    "title": "HLT menu 2017 v1.1", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19235", 
-                    "number": "19235", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "cms-tsg-storm"
-                }, 
-                {
-                    "hash": "22e6e0048ff6e9c394f69118cf0064779dbc930a", 
-                    "title": "ROC counting trend plots per layer/ring for phase 1 pixel DQM", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19414", 
-                    "number": "19414", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "leggat"
-                }, 
-                {
                     "hash": "945a7b3fc0dade294544694363deddcceb4803c2", 
                     "title": "Move Geometry Aligner Header", 
                     "url": "https://github.com/cms-sw/cmssw/pull/19416", 
@@ -1539,15 +1476,6 @@
                     "is_merge_commit": false, 
                     "from_merge_commit": false, 
                     "author_login": "ianna"
-                }, 
-                {
-                    "hash": "4f036942413c99f967978b104abb7bd6d04a8dcb", 
-                    "title": "Revert \"Revert \"Update Phase 1 pixel gains in digitizer/clusterizer\"\"", 
-                    "url": "https://github.com/cms-sw/cmssw/pull/19424", 
-                    "number": "19424", 
-                    "is_merge_commit": false, 
-                    "from_merge_commit": false, 
-                    "author_login": "cms-sw"
                 }
             ], 
             "fwlite": []
