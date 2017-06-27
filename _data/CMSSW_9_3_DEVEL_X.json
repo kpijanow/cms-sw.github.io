@@ -22,7 +22,17 @@
             "release_name": "CMSSW_9_3_DEVEL_X", 
             "tests_archs": [], 
             "RVExceptions": null, 
-            "merged_prs": [], 
+            "merged_prs": [
+                {
+                    "hash": "205ae9fe84021d4152732449746fe735a35b30f2", 
+                    "title": "CTPPS: fixes for 2017 diamond data taking operations", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/19185", 
+                    "number": "19185", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "forthommel"
+                }
+            ], 
             "fwlite": []
         }
     ]
