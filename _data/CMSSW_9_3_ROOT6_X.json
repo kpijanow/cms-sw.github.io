@@ -32,7 +32,19 @@
                 "slc7_aarch64_gcc700": "Not Found"
             }, 
             "igprof": "not-found", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc7_aarch64_gcc700", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_aarch64_gcc700/www/tue/9.3.ROOT6-tue-11/CMSSW_9_3_ROOT6_X_2017-06-27-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 80, 
+                        "known_failed": 0, 
+                        "num_failed": 91
+                    }
+                }
+            ], 
             "static_checks": "not-found", 
             "isIB": true, 
             "hlt_tests": "not-found", 
