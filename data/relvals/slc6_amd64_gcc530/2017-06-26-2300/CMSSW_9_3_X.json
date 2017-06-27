@@ -1565,6 +1565,39 @@
     },
     {
         "exitcode": 0,
+        "id": "7.3",
+        "known_error": 0,
+        "name": "CosmicsSPLoose_UP17+CosmicsSPLoose_UP17+DIGICOS_UP17+RECOCOS_UP17+ALCACOS_UP17+HARVESTCOS_UP17",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 277
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 140
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 208
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 39
+            },
+            {
+                "errors": 19,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "7.4",
         "known_error": 0,
         "name": "Cosmics_UP17+Cosmics_UP17+DIGICOSPEAK_UP17+RECOCOSPEAK_UP17+ALCACOS_UP17+HARVESTCOS_UP17",
@@ -8011,6 +8044,29 @@
     },
     {
         "exitcode": 0,
+        "id": "1302.0",
+        "known_error": 0,
+        "name": "ProdTTbar_13+ProdTTbar_13+DIGIUP15PROD1+RECOPRODUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 58
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 77
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 472
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1303.0",
         "known_error": 0,
         "name": "ProdQCD_Pt_3000_3500_13+ProdQCD_Pt_3000_3500_13+DIGIUP15PROD1+RECOPRODUP15",
@@ -8469,6 +8525,34 @@
     },
     {
         "exitcode": 0,
+        "id": "1324.0",
+        "known_error": 0,
+        "name": "TTbarLepton_13+TTbarLepton_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 76
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 1147
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1325.1",
         "known_error": 0,
         "name": "TTbar_13+TTbar_13INPUT+DIGIUP15+RECOUP15_trackingOnly+HARVESTUP15_trackingOnly",
@@ -8492,6 +8576,34 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 8
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1325.2",
+        "known_error": 0,
+        "name": "TTbar_13+TTbar_13INPUT+DIGIUP15+RECOUP15_trackingLowPU+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 28
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 618
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
             }
         ]
     },
@@ -8963,6 +9075,62 @@
                 "errors": 20,
                 "status": "PASSED",
                 "warnings": 1094
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1343.0",
+        "known_error": 0,
+        "name": "ZpMM_2250_13+ZpMM_2250_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 61
+            },
+            {
+                "errors": 21,
+                "status": "PASSED",
+                "warnings": 1126
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1344.0",
+        "known_error": 0,
+        "name": "ZpEE_2250_13+ZpEE_2250_13INPUT+DIGIUP15+RECOUP15+HARVESTUP15",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 84
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 652
             },
             {
                 "errors": 5,
