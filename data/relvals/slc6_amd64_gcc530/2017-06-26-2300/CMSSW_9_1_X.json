@@ -4525,6 +4525,34 @@
     },
     {
         "exitcode": 0,
+        "id": "22.0",
+        "known_error": 0,
+        "name": "SingleMuPt1000+SingleMuPt1000INPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 208
+            },
+            {
+                "errors": 602,
+                "status": "PASSED",
+                "warnings": 1531
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "23.0",
         "known_error": 0,
         "name": "JpsiMM+JpsiMMINPUT+DIGI+RECO+HARVEST",
@@ -4716,6 +4744,34 @@
                 "errors": 782,
                 "status": "PASSED",
                 "warnings": 2405
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "30.0",
+        "known_error": 0,
+        "name": "ZMM+ZMMINPUT+DIGI+RECO+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 221
+            },
+            {
+                "errors": 612,
+                "status": "PASSED",
+                "warnings": 1775
             },
             {
                 "errors": 6,
@@ -5221,6 +5277,29 @@
     },
     {
         "exitcode": 0,
+        "id": "111.0",
+        "known_error": 0,
+        "name": "JpsiMM_Pt_20_inf+JpsiMM_Pt_20_inf+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 67
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 32,
+                "status": "PASSED",
+                "warnings": 158
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "112.0",
         "known_error": 0,
         "name": "QCD_Pt_15_20+QCD_Pt_15_20+DIGI+RECO",
@@ -5573,6 +5652,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "125.0",
+        "known_error": 0,
+        "name": "ZPrime5000Dijet+ZPrime5000Dijet+DIGI+RECO",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 22
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 58
+            },
+            {
+                "errors": 62,
+                "status": "PASSED",
+                "warnings": 538
             }
         ]
     },
@@ -6219,6 +6321,34 @@
                 "errors": 74,
                 "status": "PASSED",
                 "warnings": 1152
+            },
+            {
+                "errors": 6,
+                "status": "PASSED",
+                "warnings": 7
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "205.0",
+        "known_error": 0,
+        "name": "ZTT+ZTTINPUT+DIGIPU1+RECOPU1+HARVEST",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 37
+            },
+            {
+                "errors": 72,
+                "status": "PASSED",
+                "warnings": 852
             },
             {
                 "errors": 6,
@@ -11309,6 +11439,19 @@
     },
     {
         "exitcode": 0,
+        "id": "250199.0",
+        "known_error": 0,
+        "name": "PREMIXUP15_PU25+PREMIXUP15_PU25",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 43
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "250200.0",
         "known_error": 0,
         "name": "ZEE_13+ZEE_13INPUT+DIGIPRMXUP15_PU25+RECOPRMXUP15_PU25+HARVESTUP15_PU25",
@@ -11605,6 +11748,29 @@
                 "errors": 16,
                 "status": "PASSED",
                 "warnings": 238
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250406.0",
+        "known_error": 0,
+        "name": "ZMM_13+FS_ZMM_13_PRMXUP15_PU25+HARVESTUP15FS+MINIAODMCUP15FS",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 501
+            },
+            {
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 1
             }
         ]
     },
