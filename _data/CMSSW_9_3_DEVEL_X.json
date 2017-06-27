@@ -1,5 +1,29 @@
 {
     "base_branch": "CMSSW_9_3_DEVEL_X", 
     "release_name": "CMSSW_9_3_DEVEL_X", 
-    "comparisons": []
+    "comparisons": [
+        {
+            "addons": [], 
+            "comp_baseline_state": "errors", 
+            "builds": [], 
+            "valgrind": "not-found", 
+            "comp_baseline": "not-found", 
+            "compared_tags": "CMSSW_9_3_DEVEL_X_2017-06-26-2300-->CMSSW_9_3_DEVEL_X", 
+            "dqm_tests": "inprogress", 
+            "utests": [], 
+            "cmsdistTags": {}, 
+            "igprof": "not-found", 
+            "relvals": [], 
+            "static_checks": "not-found", 
+            "isIB": false, 
+            "hlt_tests": "not-found", 
+            "material_budget": "not-found", 
+            "inProgress": false, 
+            "release_name": "CMSSW_9_3_DEVEL_X", 
+            "tests_archs": [], 
+            "RVExceptions": null, 
+            "merged_prs": [], 
+            "fwlite": []
+        }
+    ]
 }
