@@ -6522,7 +6522,7 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/mon/9.2-mon-23/CMSSW_9_2_X_2017-06-26-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 565, 
+                        "num_passed": 708, 
                         "known_failed": 7, 
                         "num_failed": 2
                     }
@@ -6530,17 +6530,25 @@
                 {
                     "done": false, 
                     "arch": "slc7_amd64_gcc630", 
-                    "passed": true, 
+                    "passed": false, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/mon/9.2-mon-23/CMSSW_9_2_X_2017-06-26-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 543, 
-                        "known_failed": 0, 
-                        "num_failed": 0
+                        "num_passed": 728, 
+                        "known_failed": 2, 
+                        "num_failed": 6
                     }
                 }
             ], 
             "static_checks": "inprogress", 
             "utests": [
+                {
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.2-mon-23/CMSSW_9_2_X_2017-06-26-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
                 {
                     "arch": "slc6_amd64_gcc630", 
                     "passed": "failed", 
@@ -6556,12 +6564,6 @@
                     "details": {
                         "num_fails": "0"
                     }
-                }, 
-                {
-                    "arch": "slc6_amd64_gcc530", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc6_amd64_gcc530/www/mon/9.2-mon-23/CMSSW_9_2_X_2017-06-26-2300/new/logAnalysis.pkl']", 
-                    "details": {}
                 }, 
                 {
                     "arch": "slc7_amd64_gcc530", 
