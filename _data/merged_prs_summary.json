@@ -38138,7 +38138,7 @@
                 ], 
                 "RVExceptions": null, 
                 "merged_prs": [], 
-                "hlt_tests": "inprogress"
+                "hlt_tests": "found"
             }, 
             {
                 "fwlite": [], 
@@ -38843,6 +38843,14 @@
                 "static_checks": "inprogress", 
                 "utests": [
                     {
+                        "arch": "slc6_amd64_gcc630", 
+                        "passed": "failed", 
+                        "file": "/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.3-tue-11/CMSSW_9_3_X_2017-06-27-1100/unitTests-summary.log", 
+                        "details": {
+                            "num_fails": "1"
+                        }
+                    }, 
+                    {
                         "arch": "slc7_amd64_gcc530", 
                         "passed": "passed", 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.3-tue-11/CMSSW_9_3_X_2017-06-27-1100/unitTests-summary.log", 
@@ -38857,12 +38865,6 @@
                         "details": {
                             "num_fails": "0"
                         }
-                    }, 
-                    {
-                        "arch": "slc6_amd64_gcc630", 
-                        "passed": "unknown", 
-                        "file": "['/data/sdt/buildlogs/slc6_amd64_gcc630/www/tue/9.3-tue-11/CMSSW_9_3_X_2017-06-27-1100/new/logAnalysis.pkl']", 
-                        "details": {}
                     }, 
                     {
                         "arch": "slc7_aarch64_gcc530", 
