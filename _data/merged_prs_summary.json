@@ -38211,6 +38211,24 @@
                         "author_login": "wddgit"
                     }, 
                     {
+                        "hash": "9584d6eebb1f5aa2529d0d37bf3f1553e4e65dee", 
+                        "title": "Tracker sub-DetId deprecation for TrackFitters DebugHelpers.h", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19415", 
+                        "number": "19415", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "pieterdavid"
+                    }, 
+                    {
+                        "hash": "0e402c1d8ad821db9e661e0a46ecce2a1df65953", 
+                        "title": "addressing issue 19340, adding checks to avoid possible acces violations", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19401", 
+                        "number": "19401", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "alberto-sanchez"
+                    }, 
+                    {
                         "hash": "205ae9fe84021d4152732449746fe735a35b30f2", 
                         "title": "CTPPS: fixes for 2017 diamond data taking operations", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19185", 
@@ -38298,6 +38316,15 @@
                         "author_login": "wddgit"
                     }, 
                     {
+                        "hash": "0e402c1d8ad821db9e661e0a46ecce2a1df65953", 
+                        "title": "addressing issue 19340, adding checks to avoid possible acces violations", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19401", 
+                        "number": "19401", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "alberto-sanchez"
+                    }, 
+                    {
                         "hash": "205ae9fe84021d4152732449746fe735a35b30f2", 
                         "title": "CTPPS: fixes for 2017 diamond data taking operations", 
                         "url": "https://github.com/cms-sw/cmssw/pull/19185", 
@@ -38348,6 +38375,12 @@
                         "arch": "slc7_amd64_gcc530", 
                         "passed": true, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/mon/9.3-mon-23/CMSSW_9_3_X_2017-06-26-2300/addOnTests.log", 
+                        "details": {}
+                    }, 
+                    {
+                        "arch": "slc7_aarch64_gcc530", 
+                        "passed": true, 
+                        "file": "/data/sdt/buildlogs/slc7_aarch64_gcc530/www/mon/9.3-mon-23/CMSSW_9_3_X_2017-06-26-2300/addOnTests.log", 
                         "details": {}
                     }, 
                     {
@@ -38438,7 +38471,7 @@
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/mon/9.3-mon-23/CMSSW_9_3_X_2017-06-26-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                         "details": {
-                            "num_passed": 1451, 
+                            "num_passed": 1516, 
                             "known_failed": 0, 
                             "num_failed": 3
                         }
@@ -38607,6 +38640,24 @@
                         "is_merge_commit": false, 
                         "from_merge_commit": false, 
                         "author_login": "wddgit"
+                    }, 
+                    {
+                        "hash": "9584d6eebb1f5aa2529d0d37bf3f1553e4e65dee", 
+                        "title": "Tracker sub-DetId deprecation for TrackFitters DebugHelpers.h", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19415", 
+                        "number": "19415", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "pieterdavid"
+                    }, 
+                    {
+                        "hash": "0e402c1d8ad821db9e661e0a46ecce2a1df65953", 
+                        "title": "addressing issue 19340, adding checks to avoid possible acces violations", 
+                        "url": "https://github.com/cms-sw/cmssw/pull/19401", 
+                        "number": "19401", 
+                        "is_merge_commit": false, 
+                        "from_merge_commit": false, 
+                        "author_login": "alberto-sanchez"
                     }, 
                     {
                         "hash": "205ae9fe84021d4152732449746fe735a35b30f2", 

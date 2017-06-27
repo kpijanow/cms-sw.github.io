@@ -35034,6 +35034,13 @@
     "title": "Fixing the statistics for MultiRunHarvesting", 
     "user_ref": "FixForMRH"
   }, 
+  "19401": {
+    "author": "alberto-sanchez", 
+    "branch": "master", 
+    "hash": "0e402c1d8ad821db9e661e0a46ecce2a1df65953", 
+    "title": "addressing issue 19340, adding checks to avoid possible acces violations", 
+    "user_ref": "iss-19340"
+  }, 
   "19402": {
     "author": "nsmith-", 
     "branch": "master", 
@@ -35089,6 +35096,13 @@
     "hash": "22e6e0048ff6e9c394f69118cf0064779dbc930a", 
     "title": "ROC counting trend plots per layer/ring for phase 1 pixel DQM", 
     "user_ref": "rocsPerLayer"
+  }, 
+  "19415": {
+    "author": "pieterdavid", 
+    "branch": "master", 
+    "hash": "9584d6eebb1f5aa2529d0d37bf3f1553e4e65dee", 
+    "title": "Tracker sub-DetId deprecation for TrackFitters DebugHelpers.h", 
+    "user_ref": "removeSiStripSubDetId_FitterDebugHelpers"
   }, 
   "19416": {
     "author": "ianna", 
