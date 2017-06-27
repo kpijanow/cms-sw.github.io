@@ -6288,8 +6288,19 @@
             "compared_tags": "CMSSW_9_2_X_2017-06-26-1100-->CMSSW_9_2_X_2017-06-27-1100", 
             "valgrind": "found", 
             "material_budget": "slc6_amd64_gcc530:8", 
-            "dqm_tests": "inprogress", 
+            "dqm_tests": "found", 
             "relvals": [
+                {
+                    "done": false, 
+                    "arch": "slc6_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc6_amd64_gcc530/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 42, 
+                        "known_failed": 0, 
+                        "num_failed": 0
+                    }
+                }, 
                 {
                     "done": false, 
                     "arch": "slc7_amd64_gcc630", 
@@ -6304,6 +6315,14 @@
             ], 
             "static_checks": "inprogress", 
             "utests": [
+                {
+                    "arch": "slc7_amd64_gcc630", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
                 {
                     "arch": "slc6_amd64_gcc530", 
                     "passed": "unknown", 
@@ -6320,12 +6339,6 @@
                     "arch": "slc7_amd64_gcc530", 
                     "passed": "unknown", 
                     "file": "['/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/new/logAnalysis.pkl']", 
-                    "details": {}
-                }, 
-                {
-                    "arch": "slc7_amd64_gcc630", 
-                    "passed": "unknown", 
-                    "file": "['/data/sdt/buildlogs/slc7_amd64_gcc630/www/tue/9.2-tue-11/CMSSW_9_2_X_2017-06-27-1100/new/logAnalysis.pkl']", 
                     "details": {}
                 }
             ], 
