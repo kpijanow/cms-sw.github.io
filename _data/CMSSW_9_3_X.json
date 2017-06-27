@@ -159,7 +159,7 @@
                     }
                 }
             ], 
-            "static_checks": "slc6_amd64_gcc530:", 
+            "static_checks": "slc6_amd64_gcc530:reports/modules2statics-filter1.txt\n", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
