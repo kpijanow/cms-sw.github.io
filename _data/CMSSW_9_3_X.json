@@ -159,7 +159,7 @@
                     }
                 }
             ], 
-            "static_checks": "inprogress", 
+            "static_checks": "slc6_amd64_gcc530:", 
             "utests": [
                 {
                     "arch": "slc6_amd64_gcc530", 
@@ -280,7 +280,14 @@
                 "slc6_amd64_gcc630": "IB/CMSSW_9_3_X_2017-06-26-2300/slc6_amd64_gcc630", 
                 "slc7_amd64_gcc530": "IB/CMSSW_9_3_X_2017-06-26-2300/slc7_amd64_gcc530"
             }, 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "slc7_amd64_gcc530", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/tue/9.3-tue-11/CMSSW_9_3_X_2017-06-27-1100/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "comp_baseline_state": "ok", 
             "builds": [
                 {
