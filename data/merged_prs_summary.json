@@ -26147,7 +26147,7 @@
                 ], 
                 "compared_tags": "CMSSW_9_1_X_2017-06-26-2300-->CMSSW_9_1_X_2017-06-27-1100", 
                 "valgrind": "found", 
-                "material_budget": "inprogress", 
+                "material_budget": "slc6_amd64_gcc530:-1", 
                 "dqm_tests": "inprogress", 
                 "relvals": [], 
                 "static_checks": "inprogress", 
@@ -38412,7 +38412,7 @@
                         }
                     }, 
                     {
-                        "done": false, 
+                        "done": true, 
                         "arch": "slc7_amd64_gcc530", 
                         "passed": false, 
                         "file": "/data/sdt/buildlogs/slc7_amd64_gcc530/www/mon/9.3-mon-23/CMSSW_9_3_X_2017-06-26-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
